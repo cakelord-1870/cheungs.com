@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/accessories.atom"/>
+  <title>Cheungs</title>
+  <updated>2020-05-12T16:30:01-07:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/4458787668041</id>
+    <published>2020-05-12T16:30:01-07:00</published>
+    <updated>2020-05-12T16:30:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/bopp-film-ch-4015-c"/>
+    <title>BOPP Film - CH-4015-C</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CH-4015-C_1.jpg?v=1589326654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            91.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- A professional grade roll of bopp film</p>
+<p>- A favoured packaging material in the food industry</p>
+<p>- Comes with dual sided plastic cores with 1 inch openings to allow placement in dispensers</p>
+<p>- 40 inches across</p>
+<p>- 1500 feet of film</p>
+<p>- Diameter of 6.25 inches</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4458787668041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">91.50</s:price>
+      <s:sku>CH-4015-C</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+</feed>

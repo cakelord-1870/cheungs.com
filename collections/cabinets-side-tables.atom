@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/cabinets-side-tables.atom"/>
+  <title>Cheungs</title>
+  <updated>2021-02-10T15:32:32-08:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/4615576125513</id>
+    <published>2021-02-10T15:32:32-08:00</published>
+    <updated>2021-02-10T15:32:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5713-2"/>
+    <title>5713-2</title>
+    <s:type>Cabinets &amp; Side Tables</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5713-2_1.jpg?v=1612379918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cabinets &amp; Side Tables<br>
+        <strong>Price: </strong>
+            88.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beloitte 2 Piece Side Table Set</p><p>Large: W: 18.5" x D: 13" x H: 24"</p><p>Small: W: 15.75" x D: 11" x H: 20.75"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 9.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4615576125513</id>
+      <title>Default Title</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>5713-2</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2217043918921</id>
+    <published>2019-07-21T10:24:19-07:00</published>
+    <updated>2019-07-21T10:24:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5532"/>
+    <title>5532</title>
+    <s:type>Cabinets &amp; Side Tables</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5532_1.JPG?v=1563737848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cabinets &amp; Side Tables<br>
+        <strong>Price: </strong>
+            280.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray Wash 2 Door Cabinet With 2 Tiers</p><p>W: 34" x D: 15" x H: 36"</p><p>Shelving Area: W: 31.25" x D: 11.75" x H: 14.75"</p><p>Wood Thickness: 0.75"</p><p></p><p></p><p>Case: 1</p><p>Weight: 42lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2217043918921</id>
+      <title>Default Title</title>
+      <s:price currency="USD">280.00</s:price>
+      <s:sku>5532</s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2217043853385</id>
+    <published>2019-07-21T10:24:18-07:00</published>
+    <updated>2019-07-21T10:24:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5529"/>
+    <title>5529</title>
+    <s:type>Cabinets &amp; Side Tables</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5529_1.JPG?v=1565121390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cabinets &amp; Side Tables<br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dark Wood 5 Drawer Dresser</p><p>W: 30" x D: 13.5" x H: 32.5"</p><p>Small Drawers: W: 10.5" x D: 10" x H: 4.75</p><p>Long Drawers: W: 24" x D: 10" x H: 4.75"</p><p>Bottom Clearance: 3.5"</p><p>Wood Thickness: 1"</p><p>Case: 1</p><p>Weight: 53lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2217043853385</id>
+      <title>Default Title</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku>5529</s:sku>
+      <s:grams>53</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2217043820617</id>
+    <published>2019-07-21T10:24:18-07:00</published>
+    <updated>2019-07-21T10:24:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5528"/>
+    <title>5528</title>
+    <s:type>Cabinets &amp; Side Tables</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5528_1.JPG?v=1563737782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cabinets &amp; Side Tables<br>
+        <strong>Price: </strong>
+            285.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dark Wood 3 Drawer 1 Door Cabinet</p><p>W: 31.5" x D: 14" x H: 30.5"</p><p>Cabinet: W: 13.75" x D: 11.25" x H: 24"`</p><p>Drawer: W: 11" x D: 11" x H: 6"</p><p>Bottom Clearance: 3.5"</p><p>Wood Thickness: 1"</p><p>Case: 1</p><p>Weight: 50lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2217043820617</id>
+      <title>Default Title</title>
+      <s:price currency="USD">285.00</s:price>
+      <s:sku>5528</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000483745865</id>
+    <published>2019-01-02T14:37:08-08:00</published>
+    <updated>2019-01-02T14:37:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-2834p"/>
+    <title>FP-2834P</title>
+    <s:type>Cabinets &amp; Side Tables</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-2834P_1.JPG?v=1602028075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cabinets &amp; Side Tables<br>
+        <strong>Price: </strong>
+            148.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p><p>L: 23.5" x W: 13" x H: 27.5"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 25.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000483745865</id>
+      <title>Default Title</title>
+      <s:price currency="USD">148.00</s:price>
+      <s:sku>FP-2834P</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000480239689</id>
+    <published>2019-01-02T14:36:39-08:00</published>
+    <updated>2019-01-02T14:36:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5376"/>
+    <title>5376</title>
+    <s:type>Cabinets &amp; Side Tables</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5376_1.JPG?v=1565121180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cabinets &amp; Side Tables<br>
+        <strong>Price: </strong>
+            275.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rustic style home dresser with a gray washed wood frame, 5 light and dark brown wood drawers and a side shutter door cabinet</p><p>L: 31.75" x W: 15" x H: 31.5"</p><p>Drawer Inner: H: 5.125" x W: 12" x D: 11"</p><p>Cabinet Shelves - 2: H: 9.5" x W: 14.5" x D: 13"</p><p>Table Top: Thickness: 1" x W: 15" x L: 31.75"</p><p>Floor to top of feet: 3.25"</p><p>Case: 1</p><p>Weight: 44.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000480239689</id>
+      <title>Default Title</title>
+      <s:price currency="USD">275.00</s:price>
+      <s:sku>5376</s:sku>
+      <s:grams>44</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/284427616277</id>
+    <published>2018-04-04T12:39:22-07:00</published>
+    <updated>2018-04-04T12:39:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5161"/>
+    <title>5161</title>
+    <s:type>Cabinets &amp; Side Tables</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5161_2.JPG?v=1526332589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cabinets &amp; Side Tables<br>
+        <strong>Price: </strong>
+            172.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brown Wood Table with 2 Top Drawer, 2 Side Drawer, 1 Door</p><p>L: 26.5" x W: 16.25" x H: 31.5"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/284427616277</id>
+      <title>Default Title</title>
+      <s:price currency="USD">172.00</s:price>
+      <s:sku>5161</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/284426928149</id>
+    <published>2018-04-04T12:39:20-07:00</published>
+    <updated>2018-04-04T12:39:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5118"/>
+    <title>5118</title>
+    <s:type>Cabinets &amp; Side Tables</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5118_2.JPG?v=1553101560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cabinets &amp; Side Tables<br>
+        <strong>Price: </strong>
+            225.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brown 2 Door Cabinet with Shutter/ 1 Shelf</p><p>L: 31.5" x W: 15.75" x H: 31.5"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/284426928149</id>
+      <title>Default Title</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>5118</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/284426895381</id>
+    <published>2018-04-04T12:39:19-07:00</published>
+    <updated>2018-04-04T12:39:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5117"/>
+    <title>5117</title>
+    <s:type>Cabinets &amp; Side Tables</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5117_2.JPG?v=1563228632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cabinets &amp; Side Tables<br>
+        <strong>Price: </strong>
+            278.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Wood Side Table with Sliding Door 4 Drawers</p><p>L: 32" x W: 15" x H: 32"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/284426895381</id>
+      <title>Default Title</title>
+      <s:price currency="USD">278.00</s:price>
+      <s:sku>5117</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/284426862613</id>
+    <published>2018-04-04T12:39:19-07:00</published>
+    <updated>2018-04-04T12:39:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5116"/>
+    <title>5116</title>
+    <s:type>Cabinets &amp; Side Tables</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5116_3.JPG?v=1563228630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cabinets &amp; Side Tables<br>
+        <strong>Price: </strong>
+            365.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Low Console Table with Sliding Doors</p><p>L: 46" x W: 16" x H: 19.75"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/284426862613</id>
+      <title>Default Title</title>
+      <s:price currency="USD">365.00</s:price>
+      <s:sku>5116</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/130149220373</id>
+    <published>2018-01-16T10:44:41-08:00</published>
+    <updated>2018-01-16T10:44:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5119"/>
+    <title>5119</title>
+    <s:type>Cabinets &amp; Side Tables</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5119_1.jpg?v=1603218869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cabinets &amp; Side Tables<br>
+        <strong>Price: </strong>
+            225.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A gray wash, wooden, 2 drawer and 2 door cabinet with one inner shelf</p><p>L: 30" x W: 13.75" x H: 31.5"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/130149220373</id>
+      <title>Default Title</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>5119</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906612245</id>
+    <published>2017-10-19T10:14:06-07:00</published>
+    <updated>2017-10-19T10:14:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5057"/>
+    <title>5057</title>
+    <s:type>Cabinets &amp; Side Tables</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5057_1.jpg?v=1623781098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cabinets &amp; Side Tables<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round, wooden, multicolor, two tiered side table. </p><p>L: 15.75" x W: 15.75" x H: 23.75"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/11906612245</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>5057</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841996117</id>
+    <published>2017-06-23T12:59:11-07:00</published>
+    <updated>2017-06-23T12:59:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4979"/>
+    <title>4979</title>
+    <s:type>Cabinets &amp; Side Tables</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4979_2.JPG?v=1509477809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cabinets &amp; Side Tables<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wood and metal side table</p><p>L: 21.75" x W: 11.75" x H: 32.25"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 23lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841996117</id>
+      <title>Default Title</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>4979</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841990101</id>
+    <published>2017-06-23T12:58:59-07:00</published>
+    <updated>2017-06-23T12:58:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4906"/>
+    <title>4906</title>
+    <s:type>Cabinets &amp; Side Tables</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4906_1.jpg?v=1572901597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cabinets &amp; Side Tables<br>
+        <strong>Price: </strong>
+            158.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 drawer wood multicolor plank table with metal legs</p><p>L: 18.5" x W: 13.75" x H: 36.5"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 30lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841990101</id>
+      <title>Default Title</title>
+      <s:price currency="USD">158.00</s:price>
+      <s:sku>4906</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841990037</id>
+    <published>2017-06-23T12:58:58-07:00</published>
+    <updated>2017-06-23T12:58:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4905"/>
+    <title>4905</title>
+    <s:type>Cabinets &amp; Side Tables</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4905_1.JPG?v=1567100484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cabinets &amp; Side Tables<br>
+        <strong>Price: </strong>
+            225.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 door 4 drawer wood multicolor plk table with metal legs</p><p>L: 27.5" x W: 13.75" x H: 32"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 40lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841990037</id>
+      <title>Default Title</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>4905</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841989973</id>
+    <published>2017-06-23T12:58:58-07:00</published>
+    <updated>2017-06-23T12:58:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4904"/>
+    <title>4904</title>
+    <s:type>Cabinets &amp; Side Tables</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4904_1.jpg?v=1600470515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cabinets &amp; Side Tables<br>
+        <strong>Price: </strong>
+            132.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 door 1 drawer wood multicolor plank table with metal legs</p><p>L: 16.5" x W: 13.75" x H: 30"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 20.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841989973</id>
+      <title>Default Title</title>
+      <s:price currency="USD">132.00</s:price>
+      <s:sku>4904</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841984149</id>
+    <published>2017-06-23T12:58:27-07:00</published>
+    <updated>2017-06-23T12:58:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4893"/>
+    <title>4893</title>
+    <s:type>Cabinets &amp; Side Tables</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4893_1.jpg?v=1585509552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cabinets &amp; Side Tables<br>
+        <strong>Price: </strong>
+            198.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wood multicolor plank cabinet with 2 doors and 1 shelf</p><p>L: 40" x W: 15.75" x H: 29.25"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 45lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841984149</id>
+      <title>Default Title</title>
+      <s:price currency="USD">198.00</s:price>
+      <s:sku>4893</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841984085</id>
+    <published>2017-06-23T12:58:26-07:00</published>
+    <updated>2017-06-23T12:58:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4892"/>
+    <title>4892</title>
+    <s:type>Cabinets &amp; Side Tables</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4892_1.jpg?v=1585509547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cabinets &amp; Side Tables<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden multicolor plank cabinet with 1 door and 1 drawer</p><p>L: 18" x W: 14" x H: 27"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841984085</id>
+      <title>Default Title</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>4892</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10572136341</id>
+    <published>2017-05-12T16:00:49-07:00</published>
+    <updated>2017-05-12T16:00:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3406"/>
+    <title>FP-3406</title>
+    <s:type>Cabinets &amp; Side Tables</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3406_1.jpg?v=1600470529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cabinets &amp; Side Tables<br>
+        <strong>Price: </strong>
+            163.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aged multicolor 3 drawer and 1 door cabinet</p><p>L: 23.5" x W: 13.5" x 27.5"h</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 29lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10572136341</id>
+      <title>Default Title</title>
+      <s:price currency="USD">163.00</s:price>
+      <s:sku>FP-3406</s:sku>
+      <s:grams>29</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10180209606</id>
+    <published>2017-03-29T11:35:40-07:00</published>
+    <updated>2017-03-29T11:35:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3896"/>
+    <title>FP-3896</title>
+    <s:type>Cabinets &amp; Side Tables</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3896.jpg?v=1490894300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cabinets &amp; Side Tables<br>
+        <strong>Price: </strong>
+            185.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden blue cabinet with 3 white drawers</p><p>L: 34" x W: 14" x 30" h</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 44.85lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10180209606</id>
+      <title>Default Title</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>FP-3896</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10180209542</id>
+    <published>2017-03-29T11:35:40-07:00</published>
+    <updated>2017-03-29T11:35:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3895"/>
+    <title>FP-3895</title>
+    <s:type>Cabinets &amp; Side Tables</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3895_1.jpg?v=1600470565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cabinets &amp; Side Tables<br>
+        <strong>Price: </strong>
+            158.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden blue frame low rise cabinet with front white shuttered doors</p><p>L: 27.75" x W: 13.75" x 27" h</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 22lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10180209542</id>
+      <title>Default Title</title>
+      <s:price currency="USD">158.00</s:price>
+      <s:sku>FP-3895</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/9095801350</id>
+    <published>2016-12-10T15:55:00-08:00</published>
+    <updated>2016-12-10T15:55:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4123"/>
+    <title>FP-4123</title>
+    <s:type>Cabinets &amp; Side Tables</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4123_1.jpg?v=1615929265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cabinets &amp; Side Tables<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 Drawers Wooden Cabinet w/ Galvanized Decorative Strip</p><p>L: 17.75" x W: 13.75" x H: 28.25"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 19lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/9095801350</id>
+      <title>Default Title</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>FP-4123</s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8894269510</id>
+    <published>2016-11-09T14:13:54-08:00</published>
+    <updated>2016-11-09T14:13:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4307"/>
+    <title>FP-4307</title>
+    <s:type>Cabinets &amp; Side Tables</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4307_1.JPG?v=1564074731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cabinets &amp; Side Tables<br>
+        <strong>Price: </strong>
+            138.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal shelf with 4 wire drawers, wood top and bottom wheels</p><p>L: 15.25" x W: 11.75" x 41"h</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 14.55lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wire</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/8894269510</id>
+      <title>Default Title</title>
+      <s:price currency="USD">138.00</s:price>
+      <s:sku>FP-4307</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8547012678</id>
+    <published>2016-09-12T21:46:28-07:00</published>
+    <updated>2016-09-12T21:46:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4610"/>
+    <title>4610</title>
+    <s:type>Cabinets &amp; Side Tables</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4610_1.JPG?v=1557261955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cabinets &amp; Side Tables<br>
+        <strong>Price: </strong>
+            165.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medium wooden nightstand with 3 side drawers and 1 tall door storage unit</p><p>L: 23.5" x W: 13.75" x H: 29.75"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 29lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/8547012678</id>
+      <title>Default Title</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>4610</s:sku>
+      <s:grams>29</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8547012614</id>
+    <published>2016-09-12T21:46:27-07:00</published>
+    <updated>2016-09-12T21:46:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4609"/>
+    <title>4609</title>
+    <s:type>Cabinets &amp; Side Tables</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4609_1.JPG?v=1557261942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cabinets &amp; Side Tables<br>
+        <strong>Price: </strong>
+            132.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Short wooden nightstand with 3 drawers</p><p>L: 19" x W: 13.75" x H: 26"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 22lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/8547012614</id>
+      <title>Default Title</title>
+      <s:price currency="USD">132.00</s:price>
+      <s:sku>4609</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+</feed>

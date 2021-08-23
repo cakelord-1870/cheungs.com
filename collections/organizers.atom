@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/organizers.atom"/>
+  <title>Cheungs</title>
+  <updated>2020-06-11T10:24:41-07:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/4490597269577</id>
+    <published>2020-06-11T10:24:41-07:00</published>
+    <updated>2020-06-11T10:24:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5319"/>
+    <title>5319</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5319_1.jpg?v=1621367588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3, 4.75" bamboo plates on a 3 compartment metal stand</p><p>L: 18" x TL: 19.75" x W: 6.25" x H: 5.25" x TH: 6.25"</p><p>Inside: L: 4.75" x W: 4.75" x H: 1.25"</p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 1.96lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4490597269577</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>5319</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4490597236809</id>
+    <published>2020-06-11T10:24:40-07:00</published>
+    <updated>2020-06-11T10:24:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5318"/>
+    <title>5318</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5318_1.jpg?v=1621367582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4, 4.75" bamboo plates on a metal stand with a center handle</p><p>L: 12" x W: 12" x H: 4" x TH: 10.25"</p><p>Inside: L: 4.75" x W: 4.75" x H: 1.25"</p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 2.35lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4490597236809</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>5318</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4490597204041</id>
+    <published>2020-06-11T10:24:39-07:00</published>
+    <updated>2020-06-11T10:24:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5317"/>
+    <title>5317</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5317_1.jpg?v=1591896861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>20" rectangular bamboo plate on a metal stand</p><p>L: 20.25" x W: 6.25" x H: 4.5"</p><p>Compartment: L: 19" x W: 4.75" x H: 1.25"</p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 1.54lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4490597204041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>5317</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4490597171273</id>
+    <published>2020-06-11T10:24:38-07:00</published>
+    <updated>2020-06-11T10:24:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5316"/>
+    <title>5316</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5316_1.jpg?v=1591896857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>16" rectangular bamboo plate on a metal stand</p><p>L: 16.5" x W: 5.5" x H: 3.75"</p><p>Compartment: L: 15" x W: 4" x H: 1.25"</p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 1.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4490597171273</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>5316</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4490597105737</id>
+    <published>2020-06-11T10:24:37-07:00</published>
+    <updated>2020-06-11T10:24:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5205"/>
+    <title>5205</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5205_1.jpg?v=1621367264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All wood, 4 compartment caddy with a raised center handle and 4 glass bottles</p><p>L: 8.75" x W: 8.75" x H: 4.75" x TH: 9.5"</p><p>Jar: Opening: 2.25" x Base: 3" x Height: 6.5"</p><p>Square Slot: L: 3.5" x W: 3.5"</p><p></p><p></p><p>Case: 1</p><p>Weight: 4.34lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4490597105737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>5205</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000483713097</id>
+    <published>2019-01-02T14:37:07-08:00</published>
+    <updated>2019-01-02T14:37:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3879pw"/>
+    <title>FP-3879PW</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3879PW_1.jpg?v=1619025474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rectangular wood storage piece with 4 compartments in a light brown finish and a center overlapping wood panel along with dual side metal handles</p><p>W: 19" x D: 4.75" x H: 3.5" x TW: 20.25" x TH: 4.75</p><p>Slot: W: 4" x D: 3.75"</p><p></p><p></p><p></p><p>Case: 20</p><p>Weight: 1.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000483713097</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>FP-3879PW</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000483680329</id>
+    <published>2019-01-02T14:37:07-08:00</published>
+    <updated>2019-01-02T14:37:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3878pw"/>
+    <title>FP-3878PW</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3878PW_1.jpg?v=1619025417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rectangular wood storage piece with 3 compartments in a light brown finish and a center overlapping wood panel along with dual side metal handles</p><p>W: 15" x D: 4.75" x H: 3.5" x TW: 16.25" x TH: 4.75"</p><p>Slot: W: 4.25" x D: 4" x H: 3.5"</p><p></p><p></p><p></p><p>Case: 20</p><p>Weight: 1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000483680329</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>FP-3878PW</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419285135433</id>
+    <published>2018-08-02T16:32:10-07:00</published>
+    <updated>2018-08-02T16:32:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5289"/>
+    <title>5289</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5289_1.JPG?v=1535645377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 compartment, wooden table organizer with 2 wooden and 1 galvanized metal pencil box</p><p>L: 14.5" x W: 5" x H: 2.75" x TH: 4"</p><p>Wood Insert: L: 3.5" x W: 3.5" x H: 4"</p><p>Metal Insert: L: 4" x W: 4" x H: 4"</p><p></p><p></p><p>Case: 12</p><p>Weight: 2.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419285135433</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>5289</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419283103817</id>
+    <published>2018-08-02T16:31:56-07:00</published>
+    <updated>2018-08-02T16:31:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5235"/>
+    <title>5235</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5235_1.jpg?v=1621367411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            26.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rotating, gavalnized metal, table display with 6 compartments</p><p>L: 12" x W: 12" x H: 4" x TH: 7.5"</p><p>Tray Height: 1.75" x Slot: 5.5"</p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 2.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/1419283103817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.50</s:price>
+      <s:sku>5235</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419281760329</id>
+    <published>2018-08-02T16:31:46-07:00</published>
+    <updated>2018-08-02T16:31:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5206"/>
+    <title>5206</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5206_2.jpg?v=1621367312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden 5 slot candle holder with 5 glass jars</p><p>L: 15.75" x W: 3.5" x H: 2.5"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 1.65lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419281760329</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>5206</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906607701</id>
+    <published>2017-10-19T10:13:47-07:00</published>
+    <updated>2017-10-19T10:13:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5012r"/>
+    <title>5012R</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5012R_1.jpg?v=1611180623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            13.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White metal container with red rim and wooden handles.</p><p>L: 5.75" x W: 5.75" x TL: 7.25" x H: 3.5" x TH: 5.25"</p><p></p><p></p><p></p><p></p><p>Case: 24</p><p>Weight: 0.71lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906607701</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>5012R</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906607637</id>
+    <published>2017-10-19T10:13:47-07:00</published>
+    <updated>2017-10-19T10:13:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5012bl"/>
+    <title>5012BL</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5012BL_1.jpg?v=1611180623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            13.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White metal container with blue rim and wooden handles. </p><p>L: 5.75" x W: 5.75" x TL: 7.25" x H: 3.5" x TH: 5.25"</p><p></p><p></p><p></p><p></p><p>Case: 24</p><p>Weight: 0.71lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906607637</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>5012BL</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906607573</id>
+    <published>2017-10-19T10:13:46-07:00</published>
+    <updated>2017-10-19T10:13:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5012bk"/>
+    <title>5012BK</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5012BK_1.jpg?v=1611180617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            13.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White metal container with black rim and wooden handles. </p><p>L: 5.75" x W: 5.75" x TL: 7.25" x H: 3.5" x TH: 5.25"</p><p></p><p></p><p></p><p></p><p>Case: 24</p><p>Weight: 0.71lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906607573</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>5012BK</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11291787797</id>
+    <published>2017-07-20T16:25:23-07:00</published>
+    <updated>2017-07-20T16:25:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3879gw"/>
+    <title>FP-3879GW</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3879GW_1.jpg?v=1621368802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray-white wooden 3 slot storage caddy with side metal handles and center galvanized accent</p><p>L: 18" x W: 4.75" x 3.5" h x 5" total height</p><p></p><p></p><p></p><p></p><p>Case: 20</p><p>Weight: 0.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11291787797</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>FP-3879GW</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11291787733</id>
+    <published>2017-07-20T16:25:23-07:00</published>
+    <updated>2017-07-20T16:25:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3878gw"/>
+    <title>FP-3878GW</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3878GW_1.jpg?v=1619025410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            8.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray-white wooden 3 slot storage caddy with side metal handles and center galvanized accent</p><p>L: 13.25" x W: 4.75" x 3.5" h x 4.75" total height</p><p></p><p></p><p></p><p></p><p>Case: 20</p><p>Weight: 0.7lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11291787733</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>FP-3878GW</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841987605</id>
+    <published>2017-06-23T12:58:53-07:00</published>
+    <updated>2017-06-23T12:58:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4814gw"/>
+    <title>4814GW</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4814GW_1.jpg?v=1608650171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray wash stackable wood storage</p><p>L: 13" x W: 11.5" x H: 7" x FH: 3"</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 1.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10841987605</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.50</s:price>
+      <s:sku>4814GW</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841987541</id>
+    <published>2017-06-23T12:58:53-07:00</published>
+    <updated>2017-06-23T12:58:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4814br"/>
+    <title>4814BR</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4814BR_1.jpg?v=1619029337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brown stackable wood storage</p><p>L: 13" x W: 11.5" x H: 7" x FH: 3"</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 1.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10841987541</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.50</s:price>
+      <s:sku>4814BR</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10246331526</id>
+    <published>2017-04-03T15:00:30-07:00</published>
+    <updated>2017-04-03T15:00:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3764"/>
+    <title>FP-3764</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3764LS_2.JPG?v=1548103246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden 4 slot desk organizer</p><p>L: 12.5" x W: 10" x 6.25" h</p><p>Slot: L: 5.5" x W: 4.5"</p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10246331526</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>FP-3764</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10246331462</id>
+    <published>2017-04-03T15:00:30-07:00</published>
+    <updated>2017-04-03T15:00:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3763"/>
+    <title>FP-3763</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3763_1.jpg?v=1603409308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            9.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden 2 slot desk organizer</p><p>L: 10" x W: 6" x 5.75" h x 3.75" front height</p><p>Slot: L: 5.5" x W: 4.5"</p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1.1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10246331462</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.75</s:price>
+      <s:sku>FP-3763</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10180208454</id>
+    <published>2017-03-29T11:35:38-07:00</published>
+    <updated>2017-03-29T11:35:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3879w"/>
+    <title>FP-3879W</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3879W_1.jpg?v=1619025481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White wooden 4 slot storage caddy with side metal handles and center galvanized accent</p><p>L: 18" x W: 4.75" x 3.5" h x 5" total height</p><p></p><p></p><p></p><p></p><p>Case: 20</p><p>Weight: 0.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10180208454</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>FP-3879W</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10180208390</id>
+    <published>2017-03-29T11:35:37-07:00</published>
+    <updated>2017-03-29T11:35:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3879br"/>
+    <title>FP-3879BR</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3879BR_1.jpg?v=1593399167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dark brown wooden 4 slot storage caddy with side metal handles and center galvanized accent</p><p>L: 18" x W: 4.75" x 3.5" h x 5" total height</p><p></p><p></p><p></p><p></p><p>Case: 20</p><p>Weight: 0.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10180208390</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>FP-3879BR</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10180208326</id>
+    <published>2017-03-29T11:35:37-07:00</published>
+    <updated>2017-03-29T11:35:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3878w"/>
+    <title>FP-3878W</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3878W_1.jpg?v=1621368816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            8.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White wooden 3 slot storage caddy with side metal handles and center galvanized accent</p><p>L: 13.25" x W: 4.75" x 3.5" h x 4.75" total height</p><p></p><p></p><p></p><p></p><p>Case: 20</p><p>Weight: 0.7lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10180208326</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>FP-3878W</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10180208262</id>
+    <published>2017-03-29T11:35:37-07:00</published>
+    <updated>2017-03-29T11:35:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3878br"/>
+    <title>FP-3878BR</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3878BR_1.JPG?v=1562471890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            8.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dark brown wooden 3 slot storage caddy with side metal handles and center galvanized accent</p><p>L: 13.25" x W: 4.75" x 3.5" h x 4.75" total height</p><p></p><p></p><p></p><p></p><p>Case: 20</p><p>Weight: 0.7lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10180208262</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>FP-3878BR</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10180208198</id>
+    <published>2017-03-29T11:35:37-07:00</published>
+    <updated>2017-03-29T11:35:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3877w"/>
+    <title>FP-3877W</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3877WLS_1.JPG?v=1550777335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden organizer crate with 8 identical slots and side metal handles</p><p>L: 18" x W: 9.5" x H: 4" x TL: 19.5" x TH: 5"</p><p>Slot: L: 4" x W: 4" x H: 3.75"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 2.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10180208198</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>FP-3877W</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8893663302</id>
+    <published>2016-11-09T12:39:43-08:00</published>
+    <updated>2016-11-09T12:39:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4486"/>
+    <title>FP-4486</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4486_1.jpg?v=1572901526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden dark brown 2 square 1 rectangular caddy with metal corner accents</p><p>L: 9.5" x W: 9.5" x H: 4.25"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1.3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Office</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/8893663302</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>FP-4486</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+</feed>

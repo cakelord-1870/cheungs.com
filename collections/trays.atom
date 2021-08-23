@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/trays.atom"/>
+  <title>Cheungs</title>
+  <updated>2020-12-11T15:47:30-08:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/4578409873481</id>
+    <published>2020-12-11T15:47:30-08:00</published>
+    <updated>2020-12-11T15:47:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5599nt"/>
+    <title>5599NT</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5599NT_1.jpg?v=1607730495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aba Natural Wood, Rope Handled Tray</p><p>L: 19.75" x W: 11.75" x H: 2"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4578409873481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.50</s:price>
+      <s:sku>5599NT</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4578409840713</id>
+    <published>2020-12-11T15:47:29-08:00</published>
+    <updated>2020-12-11T15:47:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5599gw"/>
+    <title>5599GW</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5599GW_1.jpg?v=1607730490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aba Gray-washed Wood, Rope Handled Tray</p><p>L: 19.75" x W: 11.75" x H: 2"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4578409840713</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.50</s:price>
+      <s:sku>5599GW</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4578409939017</id>
+    <published>2020-10-26T13:14:40-07:00</published>
+    <updated>2020-10-26T13:14:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5723w"/>
+    <title>5723W</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5723W_1.jpg?v=1603820126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cerulli White-washed Wood Table Tray</p><p>L: 20" x W: 11.5" x H: 2"</p><p></p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4578409939017</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>5723W</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4578409906249</id>
+    <published>2020-10-26T13:14:39-07:00</published>
+    <updated>2020-10-26T13:14:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5723"/>
+    <title>5723</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5723_1.jpg?v=1603820072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cerulli Natural Wood Table Tray</p><p>L: 20" x W: 11.5" x H: 2"</p><p></p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4578409906249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>5723</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4578409807945</id>
+    <published>2020-10-26T13:14:38-07:00</published>
+    <updated>2020-10-26T13:14:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5710nt"/>
+    <title>5710NT</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5710NT_1.jpg?v=1603819723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ena Natural Wood Table Tray</p><p>L: 18.75" x W: 11.75" x H: 2"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4578409807945</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>5710NT</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4578409742409</id>
+    <published>2020-10-26T13:14:37-07:00</published>
+    <updated>2020-10-26T13:14:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5710gw"/>
+    <title>5710GW</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5710GW_1.jpg?v=1603819665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ena Gray-washed Wood Table Tray</p><p>L: 18.75" x W: 11.75" x H: 2"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4578409742409</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>5710GW</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4578409709641</id>
+    <published>2020-10-26T13:14:37-07:00</published>
+    <updated>2020-10-26T13:14:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5710dbr"/>
+    <title>5710DBR</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5710DBR_1.jpg?v=1603819610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ena Dark Brown Wood Table Tray</p><p>L: 18.75" x W: 11.75" x H: 2"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4578409709641</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>5710DBR</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4578409676873</id>
+    <published>2020-10-26T13:14:36-07:00</published>
+    <updated>2020-10-26T13:14:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5710bk"/>
+    <title>5710BK</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5710BK_1.jpg?v=1603819013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ena Black Wood Table Tray</p><p>L: 18.75" x W: 11.75" x H: 2"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4578409676873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>5710BK</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4406908125257</id>
+    <published>2020-03-18T09:55:53-07:00</published>
+    <updated>2020-03-18T09:55:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4023w"/>
+    <title>FP-4023W</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4023W_1.jpg?v=1584550590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White-washed wooden rectangular tray with side rope handles</p><p>L: 20" x W: 11.5" x H: 2"</p><p></p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4406908125257</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>FP-4023W</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4405352562761</id>
+    <published>2020-03-13T16:42:02-07:00</published>
+    <updated>2020-03-13T16:42:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3844bk"/>
+    <title>FP-3844BK</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3844BK_1.jpg?v=1595009494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black faux alligator skin serving tray with beveled mirror</p><p>L: 15.75" x W: 9.25" x H: 1.75"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4405352562761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>FP-3844BK</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373242183753</id>
+    <published>2020-01-06T15:48:40-08:00</published>
+    <updated>2020-01-06T15:48:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5646"/>
+    <title>5646</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5646_1.jpg?v=1578355808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Single grid cut-out wood tray</p><p>L: 16.25" x W: 10.5" x H: 2"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373242183753</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>5646</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373242118217</id>
+    <published>2020-01-06T15:48:40-08:00</published>
+    <updated>2020-01-06T15:48:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5644-3"/>
+    <title>5644-3</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5644-3_1.jpg?v=1578355709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 slatted wood trays</p><p>Lg: L: 18" x W: 12" x H: 3.5"</p><p>Md: L: 16.5" x W: 10.5" x H: 3"</p><p>Sm: L: 15" x W: 8.75" x H: 2.75"</p><p></p><p></p><p>Case: 6</p><p>Weight: 6lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373242118217</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>5644-3</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373241954377</id>
+    <published>2020-01-06T15:48:37-08:00</published>
+    <updated>2020-01-06T15:48:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5639-2"/>
+    <title>5639-2</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5639-2_1.jpg?v=1578355196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Contemporary 2 piece black mirror trays</p><p>Lg: L: 19.5" x W: 12.25" x H: 2.5"</p><p>Sm: L: 17.25" x W: 11" x H: 2.5"</p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 9.7lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373241954377</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>5639-2</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373241331785</id>
+    <published>2020-01-06T15:48:31-08:00</published>
+    <updated>2020-01-06T15:48:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5630-3"/>
+    <title>5630-3</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5630-3_1.jpg?v=1578355432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Modern cottage themed 3 piece bamboo tray set</p><p>Lg: L: 19" x W: 13.5" x H: 1.75"</p><p>Md: L: 17.25" x W: 11.75" x H: 1.75"</p><p>Sm: L: 15.75" x W: 10.25" x H: 1.75"</p><p></p><p></p><p>Case: 6</p><p>Weight: 4.45lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373241331785</id>
+      <title>Default Title</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>5630-3</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373241299017</id>
+    <published>2020-01-06T15:48:30-08:00</published>
+    <updated>2020-01-06T15:48:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5629"/>
+    <title>5629</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5629_1.jpg?v=1578355451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Modern cottage themed woven tray</p><p>L: 17.25" x W: 10.5" x H: 1.5"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1.55lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373241299017</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>5629</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373241266249</id>
+    <published>2020-01-06T15:48:30-08:00</published>
+    <updated>2020-01-06T15:48:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5628-3"/>
+    <title>5628-3</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5628-3_1.jpg?v=1578355471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Modern cottage themed 3 piece woven tray set</p><p>Lg: L: 18.75" x W: 11.75" x H: 1.5"</p><p>Md: L: 17.25" x W: 10.75" x H: 1.5"</p><p>Sm: L: 15.75" x W: 9.5" x H: 1.5"</p><p></p><p></p><p>Case: 6</p><p>Weight: 4.7lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373241266249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>5628-3</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2218979000393</id>
+    <published>2019-07-24T15:00:58-07:00</published>
+    <updated>2019-07-24T15:00:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5599dbr"/>
+    <title>5599DBR</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5599DBR_1.jpg?v=1593398682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden dark brown tray with side rope handles</p><p>L: 19.75" x W: 12" x H: 2"</p><p>Interior: L: 18" x W: 11" x H: 1.75"</p><p>Wood Thickness: 0.375"</p><p></p><p></p><p>Case: 8</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2218979000393</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.50</s:price>
+      <s:sku>5599DBR</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2218978967625</id>
+    <published>2019-07-24T15:00:57-07:00</published>
+    <updated>2019-07-24T15:00:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5599bk"/>
+    <title>5599BK</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5599BK_1.jpg?v=1593398719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden black finished tray with side rope handles</p><p>L: 19.75" x W: 12" x H: 2"</p><p>Interior: L: 18" x W: 11" x H: 1.75"</p><p>Wood Thickness: 0.375"</p><p></p><p></p><p>Case: 8</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2218978967625</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.50</s:price>
+      <s:sku>5599BK</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2208461979721</id>
+    <published>2019-07-06T20:01:10-07:00</published>
+    <updated>2019-07-06T20:01:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5516bb"/>
+    <title>5516BB</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5516BB_1.jpg?v=1609271310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Baby Blue Wood Tray with Side Gold Handles</p><p>L: 15.75" x W: 10" x H: 2"</p><p>Tray: L: 15" x W: 10" x H: 2"</p><p>Tray Interior: L: 14" x W: 9.25" x H: 1.75"</p><p>Wood Thickness: 3/8"</p><p></p><p>Case: 12</p><p>Weight: 1.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2208461979721</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>5516BB</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2208461946953</id>
+    <published>2019-07-06T20:01:09-07:00</published>
+    <updated>2019-07-06T20:01:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5516gr"/>
+    <title>5516GR</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5516GR_1.jpg?v=1599170005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray Wood Tray with Side Gold Handles</p><p>L: 15.75" x W: 10" x H: 2"</p><p>Tray: L: 15" x W: 10" x H: 2"</p><p>Tray Interior: L: 14" x W: 9.25" x H: 1.75"</p><p>Wood Thickness: 3/8"</p><p></p><p>Case: 12</p><p>Weight: 1.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2208461946953</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>5516GR</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2208461914185</id>
+    <published>2019-07-06T20:01:09-07:00</published>
+    <updated>2019-07-06T20:01:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5516nb"/>
+    <title>5516NB</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5516NB_1.jpg?v=1599169922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dark Blue Wood Tray with Side Gold Handles</p><p>L: 15.75" x W: 10" x H: 2"</p><p>Tray: L: 15" x W: 10" x H: 2"</p><p>Tray Interior: L: 14" x W: 9.25" x H: 1.75"</p><p>Wood Thickness: 3/8"</p><p></p><p>Case: 12</p><p>Weight: 1.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2208461914185</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>5516NB</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2208461881417</id>
+    <published>2019-07-06T20:01:09-07:00</published>
+    <updated>2019-07-06T20:01:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5516wt"/>
+    <title>5516WT</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5516WT_1.jpg?v=1599169928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Wood Tray with Side Gold Handles</p><p>L: 15.75" x W: 10" x H: 2"</p><p>Tray: L: 15" x W: 10" x H: 2"</p><p>Tray Interior: L: 14" x W: 9.25" x H: 1.75"</p><p>Wood Thickness: 3/8"</p><p></p><p>Case: 12</p><p>Weight: 1.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2208461881417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>5516WT</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2208461848649</id>
+    <published>2019-07-06T20:01:08-07:00</published>
+    <updated>2019-07-06T20:01:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5516bk"/>
+    <title>5516BK</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5516BK_1.jpg?v=1599169905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Wood Tray with Side Gold Handles</p><p>L: 15.75" x W: 10" x H: 3"</p><p>Tray: L: 15" x W: 10" x H: 2"</p><p>Tray Interior: L: 14" x W: 9.25" x H: 1.75"</p><p>Wood Thickness: 3/8"</p><p></p><p>Case: 12</p><p>Weight: 1.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2208461848649</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>5516BK</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198643540041</id>
+    <published>2019-06-19T09:15:02-07:00</published>
+    <updated>2019-06-19T09:15:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5539-3"/>
+    <title>5539-3</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5539-3_7.jpg?v=1600468926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 brown wooden trays with center wicker pattern and rope wrapped handles</p><p>Lg: L: 19" x W: 12" x H: 1.5"</p><p>Md: L: 17.5" x W: 10.75" x H: 1.5"</p><p>Sm: L: 15.75" x W: 9.5" x H: 1.5"</p><p>Inner L: L: 18" x W: 11" x H: 1.25"</p><p>Inner M: L: 16.5" x W: 9.5" x H: 1.25"</p><p>Case: 6</p><p>Weight: 4.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198643540041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>5539-3</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198643507273</id>
+    <published>2019-06-19T09:15:01-07:00</published>
+    <updated>2019-06-19T09:15:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5538-3"/>
+    <title>5538-3</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5538-3_1.jpg?v=1603218331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 brown wooden trays with center rattan pattern and rope wrapped handles</p><p>Lg: L: 19" x W: 12" x H: 1.5"</p><p>Md: L: 17.5" x W: 10.75" x H: 1.5"</p><p>Sm: L: 15.75" x W: 9.5" x H: 1.5"</p><p>Inner L: L: 18" x W: 11" x H: 1.25"</p><p>Inner M: L: 16.5" x W: 9.5" x H: 1.25"</p><p>Case: 6</p><p>Weight: 4.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198643507273</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>5538-3</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+</feed>

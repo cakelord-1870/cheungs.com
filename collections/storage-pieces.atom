@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/storage-pieces.atom"/>
+  <title>Cheungs</title>
+  <updated>2021-05-04T09:59:57-07:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/6569895034953</id>
+    <published>2021-05-04T09:59:57-07:00</published>
+    <updated>2021-05-04T09:59:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5571bk"/>
+    <title>5571BK</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Bamboo Style Metal Lantern with Hanging Loop</p><p>L: 7.5" x W: 7.5" x H: 15.25" x Total H: 16.5"</p><p>Body: L: 6.25" x W: 6.25" x H: 8"</p><p>Lantern Base Interior: L: 5.75" x W: 5.75"</p><p></p><p></p><p>Case: 4</p><p>Weight: 1.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/6569895034953</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>5571BK</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4615576191049</id>
+    <published>2021-02-10T15:29:30-08:00</published>
+    <updated>2021-02-10T15:29:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5715-2"/>
+    <title>5715-2</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5715-2_1.jpg?v=1612379909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Caler 2 Piece Storage Box Set</p><p>Large: W: 11.75" x D: 7.75" x H: 4.75"</p><p>Small: W: 9.75" x D: 6" x H: 3.5"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 3.95lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4615576191049</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>5715-2</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4609925873737</id>
+    <published>2021-02-05T10:00:39-08:00</published>
+    <updated>2021-02-05T10:00:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3102-2"/>
+    <title>FP-3102-2</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3102-2_1.jpg?v=1612548028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Quintia Baggage Style Two Piece Box Set</p><p>Large: W: 11.75" x D: 7.25" x H: 6.5" x Total H: 8"</p><p>Small: W: 9.75" x D: 5.25" x H : 5.25" x Total H: 6.25"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4609925873737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>FP-3102-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4609925840969</id>
+    <published>2021-02-05T10:00:39-08:00</published>
+    <updated>2021-02-05T10:00:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3101-2"/>
+    <title>FP-3101-2</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3101-2_1.jpg?v=1612548022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Quintia Rectangular Two Piece Box Set</p><p>Large: W: 11.75" x D: 8.75" x H: 4.5"</p><p>Small: W: 9.75" x D: 7.25" x H: 3.25"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4609925840969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>FP-3101-2</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4609925775433</id>
+    <published>2021-02-05T10:00:38-08:00</published>
+    <updated>2021-02-05T10:00:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3100b-2"/>
+    <title>FP-3100B-2</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3100B-2_1.jpg?v=1612548003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Quintia Rounded Two Piece Box Set</p><p>Large: W: 11.75" x D: 6.5" x H: 5"</p><p>Small: W: 9.75" x D: 5.25" x H: 4.25"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4609925775433</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>FP-3100B-2</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4609925742665</id>
+    <published>2021-02-05T10:00:38-08:00</published>
+    <updated>2021-02-05T10:00:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3100a-2"/>
+    <title>FP-3100A-2</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3100A-2_1.jpg?v=1612547981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Quintia Rectangular Two Piece Box Set</p><p>Large: W: 11.75" x D: 6.5" x H: 4"</p><p>Small: W: 9.75" x D: 5.25" x H: 3.25"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4609925742665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>FP-3100A-2</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4609925709897</id>
+    <published>2021-02-05T10:00:37-08:00</published>
+    <updated>2021-02-05T10:00:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3098-3"/>
+    <title>FP-3098-3</title>
+    <s:type>Trunk</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3098-3_1.jpg?v=1612547967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Trunk<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Quintia Three Piece Trunk Set</p><p>Large: W: 20.5" x D: 14.25" x H: 14.75"</p><p>Medium: W: 17.5" x D: 11.25" x H: 11.75"</p><p>Small: W: 15" x D: 8.75" x H: 9.25"</p><p></p><p></p><p>Case: 1</p><p>Weight: 28lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4609925709897</id>
+      <title>Default Title</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>FP-3098-3</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4578409873481</id>
+    <published>2020-12-11T15:47:30-08:00</published>
+    <updated>2020-12-11T15:47:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5599nt"/>
+    <title>5599NT</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5599NT_1.jpg?v=1607730495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aba Natural Wood, Rope Handled Tray</p><p>L: 19.75" x W: 11.75" x H: 2"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4578409873481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.50</s:price>
+      <s:sku>5599NT</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4578409840713</id>
+    <published>2020-12-11T15:47:29-08:00</published>
+    <updated>2020-12-11T15:47:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5599gw"/>
+    <title>5599GW</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5599GW_1.jpg?v=1607730490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aba Gray-washed Wood, Rope Handled Tray</p><p>L: 19.75" x W: 11.75" x H: 2"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4578409840713</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.50</s:price>
+      <s:sku>5599GW</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4578409939017</id>
+    <published>2020-10-26T13:14:40-07:00</published>
+    <updated>2020-10-26T13:14:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5723w"/>
+    <title>5723W</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5723W_1.jpg?v=1603820126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cerulli White-washed Wood Table Tray</p><p>L: 20" x W: 11.5" x H: 2"</p><p></p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4578409939017</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>5723W</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4578409906249</id>
+    <published>2020-10-26T13:14:39-07:00</published>
+    <updated>2020-10-26T13:14:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5723"/>
+    <title>5723</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5723_1.jpg?v=1603820072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cerulli Natural Wood Table Tray</p><p>L: 20" x W: 11.5" x H: 2"</p><p></p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4578409906249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>5723</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4578409807945</id>
+    <published>2020-10-26T13:14:38-07:00</published>
+    <updated>2020-10-26T13:14:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5710nt"/>
+    <title>5710NT</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5710NT_1.jpg?v=1603819723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ena Natural Wood Table Tray</p><p>L: 18.75" x W: 11.75" x H: 2"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4578409807945</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>5710NT</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4578409742409</id>
+    <published>2020-10-26T13:14:37-07:00</published>
+    <updated>2020-10-26T13:14:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5710gw"/>
+    <title>5710GW</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5710GW_1.jpg?v=1603819665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ena Gray-washed Wood Table Tray</p><p>L: 18.75" x W: 11.75" x H: 2"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4578409742409</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>5710GW</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4578409709641</id>
+    <published>2020-10-26T13:14:37-07:00</published>
+    <updated>2020-10-26T13:14:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5710dbr"/>
+    <title>5710DBR</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5710DBR_1.jpg?v=1603819610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ena Dark Brown Wood Table Tray</p><p>L: 18.75" x W: 11.75" x H: 2"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4578409709641</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>5710DBR</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4578409676873</id>
+    <published>2020-10-26T13:14:36-07:00</published>
+    <updated>2020-10-26T13:14:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5710bk"/>
+    <title>5710BK</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5710BK_1.jpg?v=1603819013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ena Black Wood Table Tray</p><p>L: 18.75" x W: 11.75" x H: 2"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4578409676873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>5710BK</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4490597564489</id>
+    <published>2020-06-11T10:24:45-07:00</published>
+    <updated>2020-06-11T10:24:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5552"/>
+    <title>5552</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5552_1.jpg?v=1591897049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden Lantern with Center Candle Holder and Rope Hanger</p><p>L: 11.25" x W: 11.25" x H: 13.25" x Total H: 21"</p><p>Candle Cup: Dia: 3.5"</p><p>Wood Thickness: 0.25"</p><p></p><p></p><p>Case: 6</p><p>Weight: 1.4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4490597564489</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>5552</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4490597531721</id>
+    <published>2020-06-11T10:24:45-07:00</published>
+    <updated>2020-06-11T10:24:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5551"/>
+    <title>5551</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5551_1.jpg?v=1591897048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lattice pattern bamboo lantern with a center glass container, rope accents and a metal handle</p><p>Dia: 8.5" x H: 9.5" x Total H: 14"</p><p>Includes an inner, glass candle holder measuring: Dia: 3.5" x H: 5.5"</p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 1.4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4490597531721</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>5551</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4490597498953</id>
+    <published>2020-06-11T10:24:44-07:00</published>
+    <updated>2020-06-11T10:24:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5550a"/>
+    <title>5550A</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5550A_1.jpg?v=1591897035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lattice pattern bamboo lantern with a center glass container and a metal handle</p><p>Dia: 8.5" x H: 10" x Total H: 14"</p><p>Includes an inner, glass candle holder measuring: Dia: 2.75" x H: 4"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 0.9lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4490597498953</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>5550A</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4490597335113</id>
+    <published>2020-06-11T10:24:42-07:00</published>
+    <updated>2020-06-11T10:24:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5408"/>
+    <title>5408</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5408_1.jpg?v=1621367887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A single, rustic style themed lantern with an electric light, side elegant panels, a dark galvanized finished metal top and bottom and a high center handle</p><p>L: 8.75" x W: 8.75" x H: 12.5" x TH: 18.5" x TL: 10.25"</p><p>Opening Dia: 4.75"</p><p>Internal: L: 7" x W: 7" x H: 10"</p><p></p><p></p><p>Case: 2</p><p>Weight: 6.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4490597335113</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>5408</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4490597269577</id>
+    <published>2020-06-11T10:24:41-07:00</published>
+    <updated>2020-06-11T10:24:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5319"/>
+    <title>5319</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5319_1.jpg?v=1621367588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3, 4.75" bamboo plates on a 3 compartment metal stand</p><p>L: 18" x TL: 19.75" x W: 6.25" x H: 5.25" x TH: 6.25"</p><p>Inside: L: 4.75" x W: 4.75" x H: 1.25"</p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 1.96lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4490597269577</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>5319</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4490597236809</id>
+    <published>2020-06-11T10:24:40-07:00</published>
+    <updated>2020-06-11T10:24:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5318"/>
+    <title>5318</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5318_1.jpg?v=1621367582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4, 4.75" bamboo plates on a metal stand with a center handle</p><p>L: 12" x W: 12" x H: 4" x TH: 10.25"</p><p>Inside: L: 4.75" x W: 4.75" x H: 1.25"</p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 2.35lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4490597236809</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>5318</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4490597204041</id>
+    <published>2020-06-11T10:24:39-07:00</published>
+    <updated>2020-06-11T10:24:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5317"/>
+    <title>5317</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5317_1.jpg?v=1591896861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>20" rectangular bamboo plate on a metal stand</p><p>L: 20.25" x W: 6.25" x H: 4.5"</p><p>Compartment: L: 19" x W: 4.75" x H: 1.25"</p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 1.54lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4490597204041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>5317</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4490597171273</id>
+    <published>2020-06-11T10:24:38-07:00</published>
+    <updated>2020-06-11T10:24:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5316"/>
+    <title>5316</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5316_1.jpg?v=1591896857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>16" rectangular bamboo plate on a metal stand</p><p>L: 16.5" x W: 5.5" x H: 3.75"</p><p>Compartment: L: 15" x W: 4" x H: 1.25"</p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 1.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4490597171273</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>5316</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4490597105737</id>
+    <published>2020-06-11T10:24:37-07:00</published>
+    <updated>2020-06-11T10:24:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5205"/>
+    <title>5205</title>
+    <s:type>Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5205_1.jpg?v=1621367264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Organizer<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All wood, 4 compartment caddy with a raised center handle and 4 glass bottles</p><p>L: 8.75" x W: 8.75" x H: 4.75" x TH: 9.5"</p><p>Jar: Opening: 2.25" x Base: 3" x Height: 6.5"</p><p>Square Slot: L: 3.5" x W: 3.5"</p><p></p><p></p><p>Case: 1</p><p>Weight: 4.34lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4490597105737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>5205</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4490597040201</id>
+    <published>2020-06-11T10:24:36-07:00</published>
+    <updated>2020-06-11T10:24:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5167"/>
+    <title>5167</title>
+    <s:type>Caddy</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5167_1.jpg?v=1619023853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Caddy<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden low rise caddy with long center handle</p><p></p><p></p><p></p><p></p><p></p><p>Case: 3</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4490597040201</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>5167</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

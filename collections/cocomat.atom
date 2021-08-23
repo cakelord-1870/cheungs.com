@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/cocomat.atom"/>
+  <title>Cheungs</title>
+  <updated>2017-09-21T16:02:48-07:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/11757978197</id>
+    <published>2017-09-21T16:02:48-07:00</published>
+    <updated>2017-09-21T16:02:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-19102"/>
+    <title>CR-19102</title>
+    <s:type>Cocomat</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-19102NL.jpg?v=1506036473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cocomat<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round cocomat jar basket</p><p>L: 10.5" x W: 10.5" x H: 9.5"</p><p></p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11757978197</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>CR-19102</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175183381</id>
+    <published>2017-07-12T15:53:04-07:00</published>
+    <updated>2017-07-12T15:53:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-9092"/>
+    <title>CR-9092</title>
+    <s:type>Cocomat</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-9092_1.JPG?v=1558893297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cocomat<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round cocomat basket with side handles</p><p>L: 10" x W: 10" x H: 7.5"</p><p></p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175183381</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>CR-9092</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175183317</id>
+    <published>2017-07-12T15:53:04-07:00</published>
+    <updated>2017-07-12T15:53:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-8448"/>
+    <title>CR-8448</title>
+    <s:type>Cocomat</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-8448NL.jpg?v=1499965954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cocomat<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round cocomat bowl with rope bowtie accent</p><p>L: 7" x W: 7" x H:6"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175183317</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>CR-8448</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175183253</id>
+    <published>2017-07-12T15:53:04-07:00</published>
+    <updated>2017-07-12T15:53:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-7021m"/>
+    <title>CR-7021M</title>
+    <s:type>Cocomat</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-7021M_1.JPG?v=1558893287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cocomat<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cocomat jar basket with vine handles and accent - Medium</p><p>L: 12" x W: 12" x H: 10" x TH: 13"</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175183253</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>CR-7021M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175183189</id>
+    <published>2017-07-12T15:53:04-07:00</published>
+    <updated>2017-07-12T15:53:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-7020nl"/>
+    <title>CR-7020NL</title>
+    <s:type>Cocomat</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-7020NL.jpg?v=1499965939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cocomat<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round cocomat tray with side handles</p><p>L: 15.5" x W: 15.5" x H: 6.5" x TH: 9.5"</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175183189</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>CR-7020NL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175183125</id>
+    <published>2017-07-12T15:53:04-07:00</published>
+    <updated>2017-07-12T15:53:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-7014l"/>
+    <title>CR-7014L</title>
+    <s:type>Cocomat</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-7014L-NL.JPG?v=1499965928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cocomat<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large cocomat jar with rope accent</p><p>L: 12" x W: 12" x H: 14"</p><p></p><p></p><p></p><p></p><p>Case: 3</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175183125</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>CR-7014L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175182421</id>
+    <published>2017-07-12T15:53:01-07:00</published>
+    <updated>2017-07-12T15:53:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-6861nl"/>
+    <title>CR-6861NL</title>
+    <s:type>Cocomat</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-6861NL_3.JPG?v=1542311214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cocomat<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round cocomat jar with rope bowtie accent</p><p>L: 10" x W: 10" x H: 8"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175182421</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>CR-6861NL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175180821</id>
+    <published>2017-07-12T15:52:56-07:00</published>
+    <updated>2017-07-12T15:52:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-25223"/>
+    <title>CR-25223</title>
+    <s:type>Cocomat</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-25223.jpg?v=1499902263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cocomat<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oval cocomat magazine basket with raffia accent</p><p>L: 21" x W: 18" x H: 5" x Side H: 7"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175180821</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>CR-25223</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175179541</id>
+    <published>2017-07-12T15:52:53-07:00</published>
+    <updated>2017-07-12T15:52:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-19529"/>
+    <title>CR-19529</title>
+    <s:type>Cocomat</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-19529NL.jpg?v=1499901636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cocomat<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round bottle-shaped cocomat basket</p><p>L: 10" x W: 10" x H: 20"</p><p></p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175179541</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>CR-19529</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175179477</id>
+    <published>2017-07-12T15:52:52-07:00</published>
+    <updated>2017-07-12T15:52:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-19528"/>
+    <title>CR-19528</title>
+    <s:type>Cocomat</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-19528_1.JPG?v=1558893316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cocomat<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round cocomat jar with side handles</p><p>L: 12.75" x W: 12.75" x H: 15.5"</p><p></p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175179477</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>CR-19528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175179349</id>
+    <published>2017-07-12T15:52:52-07:00</published>
+    <updated>2017-07-12T15:52:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-19208"/>
+    <title>CR-19208</title>
+    <s:type>Cocomat</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-19208NL.JPG?v=1499900804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cocomat<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round cocomat jar with bacbac rope accent</p><p>L: 10" x :W 10" x H: 7.5"</p><p></p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175179349</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>CR-19208</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175179285</id>
+    <published>2017-07-12T15:52:52-07:00</published>
+    <updated>2017-07-12T15:52:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-19199"/>
+    <title>CR-19199</title>
+    <s:type>Cocomat</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-19199NL.jpg?v=1499900788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cocomat<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round cocomat jar with vine accent</p><p>L: 12" x W: 12" x H: 15.5"</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175179285</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>CR-19199</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175179157</id>
+    <published>2017-07-12T15:52:52-07:00</published>
+    <updated>2017-07-12T15:52:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-19198"/>
+    <title>CR-19198</title>
+    <s:type>Cocomat</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-19198NL.jpg?v=1499900779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cocomat<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round cocomat jar with vine accent</p><p>L: 13" x W: 13" x H: 14"</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175179157</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>CR-19198</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175179029</id>
+    <published>2017-07-12T15:52:51-07:00</published>
+    <updated>2017-07-12T15:52:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-19092nl"/>
+    <title>CR-19092NL</title>
+    <s:type>Cocomat</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-19092NL.jpg?v=1499900760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cocomat<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small round cocomat basket with rope bowtie accent</p><p>L: 8" x W: 8" x H: 6"</p><p></p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175179029</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>CR-19092NL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175178645</id>
+    <published>2017-07-12T15:52:50-07:00</published>
+    <updated>2017-07-12T15:52:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-18682"/>
+    <title>CR-18682</title>
+    <s:type>Cocomat</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-18682NL.jpg?v=1499900682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cocomat<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tall cocomat jar with rope bowtie accent</p><p>L: 9.5" x W: 9.5" x H: 10.5"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175178645</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>CR-18682</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175178581</id>
+    <published>2017-07-12T15:52:50-07:00</published>
+    <updated>2017-07-12T15:52:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-18681"/>
+    <title>CR-18681</title>
+    <s:type>Cocomat</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-18681NL.jpg?v=1499900674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cocomat<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tall cocomat jar with vine bowtie accent</p><p>L: 10" x W: 10" x H: 13"</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175178581</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>CR-18681</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175178325</id>
+    <published>2017-07-12T15:52:49-07:00</published>
+    <updated>2017-07-12T15:52:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-18666s"/>
+    <title>CR-18666S</title>
+    <s:type>Cocomat</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-18666-S.JPG?v=1499900643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cocomat<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round cocomat jar with tied rope accent</p><p>L: 13" x W: 13" x H: 10"</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175178325</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>CR-18666S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175178261</id>
+    <published>2017-07-12T15:52:49-07:00</published>
+    <updated>2017-07-12T15:52:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-18666nl"/>
+    <title>CR-18666NL</title>
+    <s:type>Cocomat</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-18666NL.jpg?v=1499900635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cocomat<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round cocomat jar with tied rope accent</p><p>L: 14" x W: 14" x H: 13" </p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175178261</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>CR-18666NL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175178197</id>
+    <published>2017-07-12T15:52:49-07:00</published>
+    <updated>2017-07-12T15:52:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-18665nl"/>
+    <title>CR-18665NL</title>
+    <s:type>Cocomat</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-18665NL.JPG?v=1499900625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cocomat<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small round cocomat jar with tied rope accent</p><p>L:10" x W:10" x 7.5" h </p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175178197</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CR-18665NL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175178069</id>
+    <published>2017-07-12T15:52:48-07:00</published>
+    <updated>2017-07-12T15:52:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-18664nl"/>
+    <title>CR-18664NL</title>
+    <s:type>Cocomat</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-18664NL_1.JPG?v=1558893306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cocomat<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small round cocomat jar with side vine handles</p><p>L:9" x W:9" x 8" h </p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175178069</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CR-18664NL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175178005</id>
+    <published>2017-07-12T15:52:48-07:00</published>
+    <updated>2017-07-12T15:52:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-18661nl"/>
+    <title>CR-18661NL</title>
+    <s:type>Cocomat</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-18661NL.jpg?v=1499900607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cocomat<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round cocomat jar with tied rope accent</p><p>L:12.5" x W:12.5" x 11" h </p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175178005</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CR-18661NL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175177813</id>
+    <published>2017-07-12T15:52:48-07:00</published>
+    <updated>2017-07-12T15:52:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-18636nl"/>
+    <title>CR-18636NL</title>
+    <s:type>Cocomat</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-18636NL_1.jpg?v=1627930521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cocomat<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round cocomat saucer with vine accent</p><p>L:18" x W:18 x 7" h </p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175177813</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CR-18636NL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175176789</id>
+    <published>2017-07-12T15:52:44-07:00</published>
+    <updated>2017-07-12T15:52:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-11813nl"/>
+    <title>CR-11813NL</title>
+    <s:type>Cocomat</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-11813NL.jpg?v=1499900332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cocomat<br>
+        <strong>Price: </strong>
+            47.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round cocomat jar with vine rim accent</p><p>14" top diameter x W:18" h x 17" h</p><p></p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175176789</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.00</s:price>
+      <s:sku>CR-11813NL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175176725</id>
+    <published>2017-07-12T15:52:44-07:00</published>
+    <updated>2017-07-12T15:52:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-11812nl"/>
+    <title>CR-11812NL</title>
+    <s:type>Cocomat</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-11812NL_1.jpg?v=1579201763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cocomat<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round cocomat jar with vine accent</p><p>L:14" x W:14" x 18" h </p><p></p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175176725</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>CR-11812NL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175176661</id>
+    <published>2017-07-12T15:52:44-07:00</published>
+    <updated>2017-07-12T15:52:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-11751nl"/>
+    <title>CR-11751NL</title>
+    <s:type>Cocomat</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-11751NL.jpg?v=1499900301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cocomat<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round cocomat wall pocket</p><p>L:14" x W:17th x 4" depth</p><p></p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175176661</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>CR-11751NL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

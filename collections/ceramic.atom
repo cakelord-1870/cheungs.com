@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/ceramic.atom"/>
+  <title>Cheungs</title>
+  <updated>2021-07-26T12:41:58-07:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/6582645981257</id>
+    <published>2021-07-26T12:41:58-07:00</published>
+    <updated>2021-07-26T12:41:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5745"/>
+    <title>5745</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5745Family_1.jpg?v=1624906557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            4.50 - 11.00
+            <a href="https://cheungs.com/products/5745">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Idola Tapered Blue Ceramic Pot</p><p>Lg: Dia: 6.25" x H: 5.75" x Base Dia: 4.25"</p><p>Md: Dia: 5.25" x H: 4.25" x Base Dia: 3.5"</p><p>Sm: Dia: 4.25" x H: 3.5" x Base Dia: 3"</p><p>Lg Case: 12</p><p>Md Case: 18</p><p> Sm Case: 24</p><p>Weight: 2.05lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/6582645981257</id>
+      <title>Large</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>5745L</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cheungs.com/products/6582645981257</id>
+      <title>Medium</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>5745M</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cheungs.com/products/6582645981257</id>
+      <title>Small</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>5745S</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/6582645948489</id>
+    <published>2021-07-26T12:41:57-07:00</published>
+    <updated>2021-07-26T12:41:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5744"/>
+    <title>5744</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5744Family_1.jpg?v=1624906543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            6.50 - 14.50
+            <a href="https://cheungs.com/products/5744">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medea Two-toned Round Ceramic Pot</p><p>Lg: Dia: 7" x H: 6" x Base Dia: 6"</p><p>Md: Dia: 5.5" x H: 4.5" x Base Dia: 4.5"</p><p>Sm: Dia: 5" x H: 3.75" x Base Dia: 4.25"</p><p>Lg Case: 8</p><p>Md Case: 18</p><p> Sm Case: 24</p><p>Weight: 2.65lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/6582645948489</id>
+      <title>Large</title>
+      <s:price currency="USD">14.50</s:price>
+      <s:sku>5744L</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cheungs.com/products/6582645948489</id>
+      <title>Medium</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>5744M</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cheungs.com/products/6582645948489</id>
+      <title>Small</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>5744S</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/6582645915721</id>
+    <published>2021-07-26T12:41:56-07:00</published>
+    <updated>2021-07-26T12:41:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5743"/>
+    <title>5743</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5743Family_1.jpg?v=1624906529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            5.00 - 12.00
+            <a href="https://cheungs.com/products/5743">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Osanna Curved Beige Ceramic Pot</p><p>Lg: Top Dia: 6.5" x Mid Dia: 7" x Base Dia: 5" x H: 6"</p><p>Md: Top Dia: 5.75" x Mid Dia: 6.25" x Base Dia: 4" x H: 5.25"</p><p>Sm: Top Dia: 3.75" x Mid Dia: 4" x Base Dia: 2.75" x H: 3.5"</p><p>Lg Case: 8</p><p>Md Case: 12</p><p> Sm Case: 24</p><p>Weight: 2.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/6582645915721</id>
+      <title>Large</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>5743L</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cheungs.com/products/6582645915721</id>
+      <title>Medium</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>5743M</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cheungs.com/products/6582645915721</id>
+      <title>Small</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>5743S</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/6582645882953</id>
+    <published>2021-07-26T12:41:55-07:00</published>
+    <updated>2021-07-26T12:41:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5742"/>
+    <title>5742</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5742Family_1.jpg?v=1624906515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            5.00 - 9.00
+            <a href="https://cheungs.com/products/5742">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Osanna Off-white Patterned Ceramic Pot</p><p>Lg: Dia: 6" x H: 5" x Base Dia: 5.25"</p><p>Md: Dia: 5.5" x H: 4.25" x Base Dia: 5.25"</p><p>Sm: Dia: 4.5" x H: 3.75" x Base Dia: 4.25"</p><p>Lg Case: 12</p><p>Md Case: 18</p><p> Sm Case: 24</p><p>Weight: 1.7lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/6582645882953</id>
+      <title>Large</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>5742L</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cheungs.com/products/6582645882953</id>
+      <title>Medium</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>5742M</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cheungs.com/products/6582645882953</id>
+      <title>Small</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>5742S</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/6582645850185</id>
+    <published>2021-07-26T12:41:54-07:00</published>
+    <updated>2021-07-26T12:41:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5741"/>
+    <title>5741</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5741Family_1.jpg?v=1624906365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            4.50 - 9.00
+            <a href="https://cheungs.com/products/5741">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Arianthe Orb Patterned Ceramic Pot</p><p>Lg: Dia: 6" x H: 5.25" x Base Dia: 5.5"</p><p>Md: Dia: 4.75" x H: 4.25" x Base Dia: 4.5"</p><p>Sm: Dia: 4" x H: 3.25" x Base Dia: 3.75"</p><p>Lg Case: 12</p><p>Md Case: 16</p><p> Sm Case: 24</p><p>Weight: 2.05lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/6582645850185</id>
+      <title>Large</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>5741L</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cheungs.com/products/6582645850185</id>
+      <title>Medium</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>5741M</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cheungs.com/products/6582645850185</id>
+      <title>Small</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>5741S</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469918335049</id>
+    <published>2020-05-21T12:19:43-07:00</published>
+    <updated>2020-05-21T12:19:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5664wt"/>
+    <title>5664WT</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5664WT_1.jpg?v=1590091426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White curved ceramic planter</p><p>Dia: 3.75" x H: 4"</p><p>Base: Dia: 3.75"</p><p></p><p></p><p></p><p>Case: 32</p><p>Weight: 0.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469918335049</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>5664WT</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469918302281</id>
+    <published>2020-05-21T12:19:42-07:00</published>
+    <updated>2020-05-21T12:19:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5664grn"/>
+    <title>5664GRN</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5664GRN_1.jpg?v=1590091426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celadon green curved ceramic planter</p><p>Dia: 3.75" x H: 4"</p><p>Base: Dia: 3.75"</p><p></p><p></p><p></p><p>Case: 32</p><p>Weight: 0.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469918302281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>5664GRN</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469918236745</id>
+    <published>2020-05-21T12:19:42-07:00</published>
+    <updated>2020-05-21T12:19:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5664gr"/>
+    <title>5664GR</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5664GR_1.jpg?v=1590091419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray curved ceramic planter</p><p>Dia: 3.75" x H: 4"</p><p>Base: Dia: 3.75"</p><p></p><p></p><p></p><p>Case: 32</p><p>Weight: 0.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469918236745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>5664GR</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469918171209</id>
+    <published>2020-05-21T12:19:41-07:00</published>
+    <updated>2020-05-21T12:19:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5663wt"/>
+    <title>5663WT</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5663WT_1.jpg?v=1590091410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White curved ceramic planter</p><p>Dia: 5" x H: 4.75"</p><p>Base: Dia: 5"</p><p></p><p></p><p></p><p>Case: 18</p><p>Weight: 1.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469918171209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>5663WT</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469918138441</id>
+    <published>2020-05-21T12:19:41-07:00</published>
+    <updated>2020-05-21T12:19:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5663grn"/>
+    <title>5663GRN</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5663GRN_1.jpg?v=1590091408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celadon green curved ceramic planter</p><p>Dia: 5" x H: 4.75"</p><p>Base: Dia: 5"</p><p></p><p></p><p></p><p>Case: 18</p><p>Weight: 1.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469918138441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>5663GRN</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469918105673</id>
+    <published>2020-05-21T12:19:40-07:00</published>
+    <updated>2020-05-21T12:19:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5663gr"/>
+    <title>5663GR</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5663GR_1.jpg?v=1590091403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray curved ceramic planter</p><p>Dia: 5" x H: 4.75"</p><p>Base: Dia: 5"</p><p></p><p></p><p></p><p>Case: 18</p><p>Weight: 1.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469918105673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>5663GR</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469918072905</id>
+    <published>2020-05-21T12:19:40-07:00</published>
+    <updated>2020-05-21T12:19:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5662wt"/>
+    <title>5662WT</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5662WT_1.jpg?v=1590091358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White curved ceramic planter</p><p>Dia: 6.25" x H: 5.5"</p><p>Base: Dia: 6.25"</p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469918072905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>5662WT</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469918040137</id>
+    <published>2020-05-21T12:19:40-07:00</published>
+    <updated>2020-05-21T12:19:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5662grn"/>
+    <title>5662GRN</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5662GRN_1.jpg?v=1590091354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celadon green curved ceramic planter</p><p>Dia: 6.25" x H: 5.5"</p><p>Base: Dia: 6.25"</p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469918040137</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>5662GRN</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469917974601</id>
+    <published>2020-05-21T12:19:39-07:00</published>
+    <updated>2020-05-21T12:19:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5662gr"/>
+    <title>5662GR</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5662GR_1.jpg?v=1590091347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray curved ceramic planter</p><p>Dia: 6.25" x H: 5.5"</p><p>Base: Dia: 6.25"</p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469917974601</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>5662GR</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469917941833</id>
+    <published>2020-05-21T12:19:39-07:00</published>
+    <updated>2020-05-21T12:19:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5661wt"/>
+    <title>5661WT</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5661WT_1.jpg?v=1590091325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White rippled ceramic planter</p><p>Dia: 3" x H: 3.25"</p><p>Base: Dia: 2.25"</p><p></p><p></p><p></p><p>Case: 48</p><p>Weight: 0.45lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469917941833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>5661WT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469917909065</id>
+    <published>2020-05-21T12:19:38-07:00</published>
+    <updated>2020-05-21T12:19:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5661grn"/>
+    <title>5661GRN</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5661GRN_1.jpg?v=1590091323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celadon green rippled ceramic planter</p><p>Dia: 3" x H: 3.25"</p><p>Base: Dia: 2.25"</p><p></p><p></p><p></p><p>Case: 48</p><p>Weight: 0.45lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469917909065</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>5661GRN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469917876297</id>
+    <published>2020-05-21T12:19:38-07:00</published>
+    <updated>2020-05-21T12:19:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5661gr"/>
+    <title>5661GR</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5661GR_1.jpg?v=1590091318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray rippled ceramic planter</p><p>Dia: 3" x H: 3.25"</p><p>Base: Dia: 2.25"</p><p></p><p></p><p></p><p>Case: 48</p><p>Weight: 0.45lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469917876297</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>5661GR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469917843529</id>
+    <published>2020-05-21T12:19:37-07:00</published>
+    <updated>2020-05-21T12:19:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5660wt"/>
+    <title>5660WT</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5660WT_1.jpg?v=1590091301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White rippled ceramic planter</p><p>Dia: 3.75" x H: 4.25"</p><p>Base: Dia: 2.75"</p><p></p><p></p><p></p><p>Case: 32</p><p>Weight: 0.85lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469917843529</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>5660WT</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469917810761</id>
+    <published>2020-05-21T12:19:37-07:00</published>
+    <updated>2020-05-21T12:19:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5660grn"/>
+    <title>5660GRN</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5660GRN_1.jpg?v=1590091297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celadon green rippled ceramic planter</p><p>Dia: 3.75" x H: 4.25"</p><p>Base: Dia: 2.75"</p><p></p><p></p><p></p><p>Case: 32</p><p>Weight: 0.85lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469917810761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>5660GRN</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469917777993</id>
+    <published>2020-05-21T12:19:36-07:00</published>
+    <updated>2020-05-21T12:19:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5660gr"/>
+    <title>5660GR</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5660GR_1.jpg?v=1590091293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray rippled ceramic planter</p><p>Dia: 3.75" x H: 4.25"</p><p>Base: Dia: 2.75"</p><p></p><p></p><p></p><p>Case: 32</p><p>Weight: 0.85lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469917777993</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>5660GR</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469917745225</id>
+    <published>2020-05-21T12:19:36-07:00</published>
+    <updated>2020-05-21T12:19:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5659wt"/>
+    <title>5659WT</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5659WT_1.jpg?v=1590091268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White rippled ceramic planter</p><p>Dia: 4.5" x H: 4.25"</p><p>Base: Dia: 3.5"</p><p></p><p></p><p></p><p>Case: 24</p><p>Weight: 1.1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469917745225</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>5659WT</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469917712457</id>
+    <published>2020-05-21T12:19:35-07:00</published>
+    <updated>2020-05-21T12:19:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5659grn"/>
+    <title>5659GRN</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5659GRN_1.jpg?v=1590091267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celadon green rippled ceramic planter</p><p>Dia: 4.5" x H: 4.25"</p><p>Base: Dia: 3.5"</p><p></p><p></p><p></p><p>Case: 24</p><p>Weight: 1.1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469917712457</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>5659GRN</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469917679689</id>
+    <published>2020-05-21T12:19:35-07:00</published>
+    <updated>2020-05-21T12:19:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5659gr"/>
+    <title>5659GR</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5659GR_1.jpg?v=1590091260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray rippled ceramic planter</p><p>Dia: 4.5" x H: 4.25"</p><p>Base: Dia: 3.5"</p><p></p><p></p><p></p><p>Case: 24</p><p>Weight: 1.1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469917679689</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>5659GR</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469917581385</id>
+    <published>2020-05-21T12:19:35-07:00</published>
+    <updated>2020-05-21T12:19:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5658wt"/>
+    <title>5658WT</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5658WT_1.jpg?v=1590091246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White rippled ceramic planter</p><p>Dia: 5" x H: 5.5"</p><p>Base: Dia: 3.75"</p><p></p><p></p><p></p><p>Case: 16</p><p>Weight: 1.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469917581385</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>5658WT</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469917548617</id>
+    <published>2020-05-21T12:19:34-07:00</published>
+    <updated>2020-05-21T12:19:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5658grn"/>
+    <title>5658GRN</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5658GRN_1.jpg?v=1590091243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celadon green rippled ceramic planter</p><p>Dia: 5" x H: 5.5"</p><p>Base: Dia: 3.75"</p><p></p><p></p><p></p><p>Case: 16</p><p>Weight: 1.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469917548617</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>5658GRN</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+</feed>

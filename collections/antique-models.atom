@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/antique-models.atom"/>
+  <title>Cheungs</title>
+  <updated>2019-06-11T16:59:48-07:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/2195783352393</id>
+    <published>2019-06-11T16:59:48-07:00</published>
+    <updated>2019-06-11T16:59:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/ja-0284y"/>
+    <title>JA-0284Y</title>
+    <s:type>Vintage Model</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/JA-0284Y_1.JPG?v=1561482766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vintage Model<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Decorative, yellow fire chief helmet with chin straps</p><p>L: 14.75" x W: 12.5" x H: 8.25"</p><p></p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 2.1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2195783352393</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>JA-0284Y</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2195783319625</id>
+    <published>2019-06-11T16:59:47-07:00</published>
+    <updated>2019-06-11T16:59:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/ja-0284r"/>
+    <title>JA-0284R</title>
+    <s:type>Vintage Model</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/JA-0284R_1.JPG?v=1560798413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vintage Model<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Decorative, red fire chief helmet with chin straps</p><p>L: 14.75" x W: 12.5" x H: 8.25"</p><p></p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 2.1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2195783319625</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>JA-0284R</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419287298121</id>
+    <published>2018-08-02T16:32:27-07:00</published>
+    <updated>2018-08-02T16:32:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/ja-0323y"/>
+    <title>JA-0323Y</title>
+    <s:type>Vintage Model</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/JA-0323Y_1.jpg?v=1619028011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vintage Model<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Volkswagen - Yellow beetle</p><p>W: 5" x D: 13.5" x H: 4"</p><p></p><p></p><p></p><p></p><p>Case: 9</p><p>Weight: 1.4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419287298121</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>JA-0323Y</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419287199817</id>
+    <published>2018-08-02T16:32:27-07:00</published>
+    <updated>2018-08-02T16:32:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/ja-0323r"/>
+    <title>JA-0323R</title>
+    <s:type>Vintage Model</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/JA-0323R_1.jpg?v=1619027970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vintage Model<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Volkswagen - Red beetle</p><p>W: 5" x D: 13.5" x H: 4"</p><p></p><p></p><p></p><p></p><p>Case: 9</p><p>Weight: 1.4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419287199817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>JA-0323R</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419287167049</id>
+    <published>2018-08-02T16:32:26-07:00</published>
+    <updated>2018-08-02T16:32:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/ja-0323lb"/>
+    <title>JA-0323LB</title>
+    <s:type>Vintage Model</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/JA-0323LB_1.jpg?v=1619030349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vintage Model<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Volkswagen - Light blue beetle</p><p>W: 5" x D: 14" x H: 4.25"</p><p></p><p></p><p></p><p></p><p>Case: 9</p><p>Weight: 1.4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419287167049</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>JA-0323LB</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419287134281</id>
+    <published>2018-08-02T16:32:26-07:00</published>
+    <updated>2018-08-02T16:32:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/ja-0322rw"/>
+    <title>JA-0322RW</title>
+    <s:type>Vintage Model</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/JA-0322RW_1.JPG?v=1607124172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vintage Model<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Volkswagen - Red and white Samba bus with top surfboard accents</p><p>W: 4.25" x D: 10.5" x H: 5.5"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1.4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/1419287134281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>JA-0322RW</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419287101513</id>
+    <published>2018-08-02T16:32:26-07:00</published>
+    <updated>2018-08-02T16:32:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/ja-0321pk"/>
+    <title>JA-0321PK</title>
+    <s:type>Vintage Model</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/JA-0321PK_1.jpg?v=1619027960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vintage Model<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Volkswagen - Pink Samba bus with top surfboard accents</p><p>W: 4.25" x D: 10.5" x H: 5.5"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1.4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/1419287101513</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>JA-0321PK</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419287035977</id>
+    <published>2018-08-02T16:32:26-07:00</published>
+    <updated>2018-08-02T16:32:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/ja-0320bl"/>
+    <title>JA-0320BL</title>
+    <s:type>Vintage Model</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/JA-0320BL_1.JPG?v=1607124184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vintage Model<br>
+        <strong>Price: </strong>
+            43.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Volkswagen - Blue Samba bus with top surfboard accents</p><p>W: 4.5" x D: 12" x H : 5.5"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 2.02lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/1419287035977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku>JA-0320BL</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419287003209</id>
+    <published>2018-08-02T16:32:25-07:00</published>
+    <updated>2018-08-02T16:32:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/ja-0319y"/>
+    <title>JA-0319Y</title>
+    <s:type>Vintage Model</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/JA-0319Y_1.jpg?v=1586234712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vintage Model<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Volkswagen - Yellow convertible beetle</p><p>W: 5.5" x D: 13.5" x H: 4"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 2.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419287003209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>JA-0319Y</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419286970441</id>
+    <published>2018-08-02T16:32:25-07:00</published>
+    <updated>2018-08-02T16:32:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/ja-0319r"/>
+    <title>JA-0319R</title>
+    <s:type>Vintage Model</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/JA-0319R_1.jpg?v=1586234690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vintage Model<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Volkswagen - Red convertible beetle</p><p>W: 5.5" x D: 13.5" x H: 4"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 2.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419286970441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>JA-0319R</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10420404870</id>
+    <published>2017-04-17T15:56:14-07:00</published>
+    <updated>2017-04-17T15:56:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/ja-0318"/>
+    <title>JA-0318</title>
+    <s:type>Vintage Model</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/JA-0318_1.jpg?v=1619027909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vintage Model<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>WWII P-47D Thunderbolt</p><p>L: 14" x W: 12.25" x 3.75"h</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 0.9lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Airplanes</s:tag>
+    <s:tag>WWII</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10420404870</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>JA-0318</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10420404806</id>
+    <published>2017-04-17T15:56:14-07:00</published>
+    <updated>2017-04-17T15:56:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/ja-0317"/>
+    <title>JA-0317</title>
+    <s:type>Vintage Model</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/JA-0317_1.jpg?v=1621369087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vintage Model<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>WWI S.E.5.</p><p>L: 14.25" x W: 13.5" x 5.5"h</p><p></p><p></p><p></p><p></p><p>Case: 3</p><p>Weight: 1.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Airplanes</s:tag>
+    <s:tag>Biplane</s:tag>
+    <s:tag>WWI</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10420404806</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>JA-0317</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10420404742</id>
+    <published>2017-04-17T15:56:14-07:00</published>
+    <updated>2017-04-17T15:56:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/ja-0316"/>
+    <title>JA-0316</title>
+    <s:type>Vintage Model</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/JA-0316_1.JPG?v=1561482820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vintage Model<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>WWII PT-17 Stearman</p><p>L: 14.25" x W: 14" x 5.5"h</p><p></p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 1.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Airplanes</s:tag>
+    <s:tag>Biplane</s:tag>
+    <s:tag>WWII</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10420404742</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>JA-0316</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10420404678</id>
+    <published>2017-04-17T15:56:13-07:00</published>
+    <updated>2017-04-17T15:56:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/ja-0315"/>
+    <title>JA-0315</title>
+    <s:type>Vintage Model</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/JA-0315_1.jpg?v=1619027832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vintage Model<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>WWII Spitfire</p><p>L: 17.75" x W: 16.5" x 6"h</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 1.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Airplanes</s:tag>
+    <s:tag>WWII</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10420404678</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>JA-0315</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10420404614</id>
+    <published>2017-04-17T15:56:13-07:00</published>
+    <updated>2017-04-17T15:56:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/ja-0314"/>
+    <title>JA-0314</title>
+    <s:type>Vintage Model</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/JA-0314_1.jpg?v=1619027726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vintage Model<br>
+        <strong>Price: </strong>
+            43.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1925 Type 35 race car</p><p>L: 14.5" x W: 5.75" x 4.25"h</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cars</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10420404614</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku>JA-0314</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10420404486</id>
+    <published>2017-04-17T15:56:13-07:00</published>
+    <updated>2017-04-17T15:56:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/ja-0313y"/>
+    <title>JA-0313Y</title>
+    <s:type>Vintage Model</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/JA-0313Y_1_794c8a88-9c5a-4ffc-b30c-f9f8dff503c7.JPG?v=1560798432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vintage Model<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1950's yellow scooter</p><p>L: 15.4" x W: 6.3" x 8.5"h</p><p></p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 1.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Motorcycles &amp; Scooters</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10420404486</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>JA-0313Y</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10420404422</id>
+    <published>2017-04-17T15:56:13-07:00</published>
+    <updated>2017-04-17T15:56:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/ja-0313r"/>
+    <title>JA-0313R</title>
+    <s:type>Vintage Model</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/JA-0313R_1_a10188cb-5238-4dfa-b96d-846797505f5c.JPG?v=1560798429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vintage Model<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1950's red Scooter</p><p>L: 15.4" x W: 6.3" x 8.5"h</p><p></p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 1.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Motorcycles &amp; Scooters</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10420404422</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>JA-0313R</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10420404102</id>
+    <published>2017-04-17T15:56:12-07:00</published>
+    <updated>2017-04-17T15:56:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/ja-0305"/>
+    <title>JA-0305</title>
+    <s:type>Vintage Model</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/JA-0305_1.jpg?v=1586234662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vintage Model<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>WWII F6F Hellcat carrier fighter</p><p>L: 15" x W: 11.8" x 4.7"h</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 1.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Airplanes</s:tag>
+    <s:tag>WWII</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10420404102</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>JA-0305</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10420403526</id>
+    <published>2017-04-17T15:56:11-07:00</published>
+    <updated>2017-04-17T15:56:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/ja-0291"/>
+    <title>JA-0291</title>
+    <s:type>Vintage Model</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/JA-0291_1.jpg?v=1619030142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vintage Model<br>
+        <strong>Price: </strong>
+            43.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue beach themed station wagon</p><p>L: 12.6" x W: 4.5" x 4.7"h</p><p></p><p></p><p></p><p></p><p>Case: 9</p><p>Weight: 1.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cars</s:tag>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10420403526</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.50</s:price>
+      <s:sku>JA-0291</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10420403462</id>
+    <published>2017-04-17T15:56:11-07:00</published>
+    <updated>2017-04-17T15:56:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/ja-0290"/>
+    <title>JA-0290</title>
+    <s:type>Vintage Model</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/JA-0290_1.jpg?v=1571684287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vintage Model<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue scooter with ski gears</p><p>L: 16.9" x W: 6.3" x 7.9"h</p><p></p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Motorcycles &amp; Scooters</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10420403462</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>JA-0290</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10420403206</id>
+    <published>2017-04-17T15:56:10-07:00</published>
+    <updated>2017-04-17T15:56:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/ja-0287"/>
+    <title>JA-0287</title>
+    <s:type>Vintage Model</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/JA-0287_1.jpg?v=1619030153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vintage Model<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>London double decker bus</p><p>L: 11.4" x W: 3.5" x 5.5"h</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1.6lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cars</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10420403206</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>JA-0287</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10420403142</id>
+    <published>2017-04-17T15:56:10-07:00</published>
+    <updated>2017-04-17T15:56:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/ja-0283"/>
+    <title>JA-0283</title>
+    <s:type>Vintage Model</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/JA-0283_1.jpg?v=1621369042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vintage Model<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>American themed motorcycle</p><p>L: 13" x W: 6" x 8"h</p><p></p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 1.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Motorcycles &amp; Scooters</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10420403142</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>JA-0283</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10420403014</id>
+    <published>2017-04-17T15:56:09-07:00</published>
+    <updated>2017-04-17T15:56:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/ja-0281"/>
+    <title>JA-0281</title>
+    <s:type>Vintage Model</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/JA-0281_1.jpg?v=1619030300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vintage Model<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>WWII P-51 Mustang</p><p>L: 13" x W: 12" x 5"h</p><p></p><p></p><p></p><p></p><p>Case: 3</p><p>Weight: 1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Airplanes</s:tag>
+    <s:tag>WWII</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10420403014</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>JA-0281</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10420402950</id>
+    <published>2017-04-17T15:56:09-07:00</published>
+    <updated>2017-04-17T15:56:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/ja-0279"/>
+    <title>JA-0279</title>
+    <s:type>Vintage Model</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/JA-0279_1.jpg?v=1619029936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vintage Model<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yellow biplane</p><p>L: 12" x W: 12" x 6"h</p><p></p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 1.35lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Airplanes</s:tag>
+    <s:tag>Biplane</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10420402950</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>JA-0279</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10420402886</id>
+    <published>2017-04-17T15:56:09-07:00</published>
+    <updated>2017-04-17T15:56:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/ja-0278"/>
+    <title>JA-0278</title>
+    <s:type>Vintage Model</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/JA-0278_1.jpg?v=1619027640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vintage Model<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>WWII Havilland DH.98 Mosquito</p><p>L: 17" x W: 13" x 4"h</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 1.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Airplanes</s:tag>
+    <s:tag>WWII</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10420402886</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>JA-0278</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+</feed>

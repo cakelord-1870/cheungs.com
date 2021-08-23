@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/chairs.atom"/>
+  <title>Cheungs</title>
+  <updated>2019-06-19T09:14:37-07:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/2198641377353</id>
+    <published>2019-06-19T09:14:37-07:00</published>
+    <updated>2019-06-19T09:14:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5472"/>
+    <title>5472</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5472_1.jpg?v=1604625052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Water hyacinth ottoman</p><p>L: 16" x W: 16" x H: 15.5"</p><p></p><p></p><p></p><p></p><p>Case: </p><p>Weight: 3.15lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198641377353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>5472</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000483057737</id>
+    <published>2019-01-02T14:37:01-08:00</published>
+    <updated>2019-01-02T14:37:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5442"/>
+    <title>5442</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5442_1.jpg?v=1619024069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bar themed metal chair with back and arm rests</p><p>W: 17.5" x D: 17.5" x TH: 40.5"</p><p>Seat Height 29.5"</p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 12.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000483057737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>5442</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000483024969</id>
+    <published>2019-01-02T14:37:01-08:00</published>
+    <updated>2019-01-02T14:37:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5441"/>
+    <title>5441</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5441_1.jpg?v=1619024036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bar themed metal chair with back and arm rests</p><p>W: 17.5" x D: 17.5" x TH: 34"</p><p>Seat Height: 23"</p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 11.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000483024969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>5441</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419280941129</id>
+    <published>2018-08-02T16:31:37-07:00</published>
+    <updated>2018-08-02T16:31:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5029bk"/>
+    <title>5029BK</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5029BK_1.jpg?v=1627929849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal stool with black frame and white seat</p><p>L: 15" x W: 15" x H: 18"</p><p>Seat: L: 12" x W: 12" x H: 1"</p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 6.7lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419280941129</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>5029BK</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419280908361</id>
+    <published>2018-08-02T16:31:37-07:00</published>
+    <updated>2018-08-02T16:31:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5028bk"/>
+    <title>5028BK</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5028BK_1.jpg?v=1627929700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal bar stool with black frame and white seat</p><p>L: 17" x W: 17" x H: 30.5"</p><p>Seat: L: 12" x W: 12" x H: 1"</p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 9.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419280908361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>5028BK</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906609429</id>
+    <published>2017-10-19T10:13:54-07:00</published>
+    <updated>2017-10-19T10:13:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5029"/>
+    <title>5029</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5029_1.jpg?v=1627929727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden top shot stool with metal base. </p><p>L: 15.25" x W: 15.25" x H: 18.25"</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 6.7lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906609429</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>5029</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906609365</id>
+    <published>2017-10-19T10:13:54-07:00</published>
+    <updated>2017-10-19T10:13:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5028"/>
+    <title>5028</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5028_1.jpg?v=1627929570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden stool with foot rest. </p><p>L: 17" x W: 17" x H: 30.5"</p><p></p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 10.4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906609365</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>5028</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8894269830</id>
+    <published>2016-11-09T14:13:55-08:00</published>
+    <updated>2016-11-09T14:13:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4313gr"/>
+    <title>FP-4313GR</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4313GR_1.jpg?v=1583443123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray metal stool with wood top</p><p>L: 13.75" x W: 13.75" x 18"h</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 5.1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/8894269830</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>FP-4313GR</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

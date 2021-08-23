@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/galvanized-planter.atom"/>
+  <title>Cheungs</title>
+  <updated>2018-01-16T10:44:42-08:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/130149679125</id>
+    <published>2018-01-16T10:44:42-08:00</published>
+    <updated>2018-01-16T10:44:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5135"/>
+    <title>5135</title>
+    <s:type>Galvanized Planter</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5135_1.jpg?v=1579557207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Planter<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An all galvanized metal, 4 small and 1 large planter piece</p><p>L: 13" x W: 13" x H: 7.5"</p><p>Large Pot: L: 5.75" x H: 7.25" x Base: 3.75"</p><p>Small Pot: L: 4" x H: 4.5" x Base: 2.25"</p><p></p><p></p><p>Case: 6</p><p>Weight: 1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/130149679125</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>5135</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906609301</id>
+    <published>2017-10-19T10:13:54-07:00</published>
+    <updated>2017-10-19T10:13:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5027-3"/>
+    <title>5027-3</title>
+    <s:type>Galvanized Planter</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5027-3_2.jpg?v=1619133401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Planter<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of three square metal planter on stand. </p><p>Large: L: 13" x W: 13" x H: 8" x TH: 25.5" x Base: 11"</p><p>Medium: L: 11" x W: 11" x H: 7" x TH: 22" x Base: 8.75"</p><p>Small: L: 8.5" x W: 8.5" x H: 6" x TH: 18.25" x Base: 7"</p><p></p><p></p><p>Case: 1</p><p>Weight: 12.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906609301</id>
+      <title>Default Title</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>5027-3</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906609045</id>
+    <published>2017-10-19T10:13:53-07:00</published>
+    <updated>2017-10-19T10:13:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5024s"/>
+    <title>5024S</title>
+    <s:type>Galvanized Planter</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5024S_1.jpg?v=1579557107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Planter<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small galvanized round metal hanging planter with rope. </p><p>Diameter: 9.75" x H: 4" x TH: 25" x Base: 8.25"</p><p></p><p></p><p></p><p></p><p>Case: 16</p><p>Weight: 0.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906609045</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>5024S</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906608981</id>
+    <published>2017-10-19T10:13:53-07:00</published>
+    <updated>2017-10-19T10:13:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5024l"/>
+    <title>5024L</title>
+    <s:type>Galvanized Planter</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5024L_1.jpg?v=1579557079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Planter<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large galvanized round metal hanging planter with rope. </p><p>L: 11.5" x W: 11.5" x H: 4" x TH: 26"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 0.95lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906608981</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>5024L</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906608597</id>
+    <published>2017-10-19T10:13:51-07:00</published>
+    <updated>2017-10-19T10:13:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5019s"/>
+    <title>5019S</title>
+    <s:type>Galvanized Planter</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5019S_1.jpg?v=1585509804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Planter<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small galvanzied tapered mini bucket with handle. </p><p>L: 5.25" x W: 4.25" x H: 4.25" x TH: 7.25"</p><p></p><p></p><p></p><p></p><p>Case: 96</p><p>Weight: 0.22lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/11906608597</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>5019S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906608533</id>
+    <published>2017-10-19T10:13:51-07:00</published>
+    <updated>2017-10-19T10:13:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5019m"/>
+    <title>5019M</title>
+    <s:type>Galvanized Planter</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5019M_1.jpg?v=1585509800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Planter<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medium galvanized tapered mini bucket with handle. </p><p>L: 5.75" x W: 4.75" x H: 5.5" x TH: 8"</p><p></p><p></p><p></p><p></p><p>Case: 72</p><p>Weight: 0.3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/11906608533</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>5019M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906608405</id>
+    <published>2017-10-19T10:13:50-07:00</published>
+    <updated>2017-10-19T10:13:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5019l"/>
+    <title>5019L</title>
+    <s:type>Galvanized Planter</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5019L_1.jpg?v=1606938748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Planter<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large galvanized tapered mini bucket  with handle.</p><p>L: 6.5" x W: 5.5" x H: 5.25" x TH: 9"</p><p></p><p></p><p></p><p></p><p>Case: 48</p><p>Weight: 0.4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/11906608405</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>5019L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906608149</id>
+    <published>2017-10-19T10:13:49-07:00</published>
+    <updated>2017-10-19T10:13:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5017"/>
+    <title>5017</title>
+    <s:type>Galvanized Planter</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5017_1.jpg?v=1569443638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Planter<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Galvanized metal watering pot with black rim and wooden handle.</p><p>L: 7.75" x W: 5.5" x H: 5.25"</p><p></p><p></p><p></p><p></p><p>Case: 24</p><p>Weight: 0.44lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906608149</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>5017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841988821</id>
+    <published>2017-06-23T12:58:56-07:00</published>
+    <updated>2017-06-23T12:58:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4877-3"/>
+    <title>4877-3</title>
+    <s:type>Galvanized Planter</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4877-3_1.jpg?v=1619030706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Planter<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 round buckets with raised side handles</p><p>Large: Dia: 13.75" x H: 10" x TH: 12"</p><p>Medium: Dia: 11.75" x H: 9" x TH: 11"</p><p>Small: Dia: 10.25" x H: 8" x TH: 10"</p><p></p><p></p><p>Case: 2</p><p>Weight: 5.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841988821</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>4877-3</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841988757</id>
+    <published>2017-06-23T12:58:56-07:00</published>
+    <updated>2017-06-23T12:58:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4874s"/>
+    <title>4874S</title>
+    <s:type>Galvanized Planter</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4874S_1.JPG?v=1557970700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Planter<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Galvanized metal abstract pyramid planter with rope hanger </p><p>L: 9.25" x W: 9.25" x H: 26.38"</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841988757</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>4874S</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841988693</id>
+    <published>2017-06-23T12:58:55-07:00</published>
+    <updated>2017-06-23T12:58:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4874l"/>
+    <title>4874L</title>
+    <s:type>Galvanized Planter</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4874L_1.JPG?v=1557970697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Planter<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Galvanized metal abstract pyramid planter with rope hanger </p><p>L: 10.5" x W: 12." x H: 18" x TH: 28"</p><p></p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 1.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841988693</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>4874L</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841977941</id>
+    <published>2017-06-23T12:58:15-07:00</published>
+    <updated>2017-06-23T12:58:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4793"/>
+    <title>4793</title>
+    <s:type>Galvanized Planter</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4793_1.jpg?v=1618941441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Planter<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Long low set galvanized storage with side wood handles</p><p>L: 27.95" x W: 6.5" x H: 3.75"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 1.7lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10841977941</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>4793</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10587525845</id>
+    <published>2017-05-15T16:03:34-07:00</published>
+    <updated>2017-05-15T16:03:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3399"/>
+    <title>FP-3399</title>
+    <s:type>Galvanized Planter</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3399_1.JPG?v=1561742150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Planter<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Jardin Galvanized Caddy With Double Center Handles</p><p>L: 13.5" x W: 4" x H: 4" x TH: 9.5"</p><p></p><p></p><p></p><p></p><p>Case: 16</p><p>Weight: 0.7lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10587525845</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>FP-3399</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10587522965</id>
+    <published>2017-05-15T16:03:25-07:00</published>
+    <updated>2017-05-15T16:03:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3338"/>
+    <title>FP-3338</title>
+    <s:type>Galvanized Planter</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3338_1.JPG?v=1546027372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Planter<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oval galvanized "Flower &amp; Garden" planter with side rope handles</p><p>L: 19.75" x W: 14.5" x 10.25"h</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 2.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10587522965</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>FP-3338</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10295361542</id>
+    <published>2017-04-06T15:37:08-07:00</published>
+    <updated>2017-04-06T15:37:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3607l"/>
+    <title>FP-3607L</title>
+    <s:type>Galvanized Planter</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3607L_3.JPG?v=1547225646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Planter<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal double pot with center handle</p><p>L: 10.85" x W: 5.35" x 9.25" h</p><p></p><p></p><p></p><p></p><p>Case: 24</p><p>Weight: 0.66lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10295361542</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>FP-3607L</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10246329606</id>
+    <published>2017-04-03T15:00:26-07:00</published>
+    <updated>2017-04-03T15:00:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3743-3"/>
+    <title>FP-3743-3</title>
+    <s:type>Galvanized Planter</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3743-3_1.jpg?v=1598982320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Planter<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 round galvanized buckets with top handle</p><p>Large: L: 10" x W: 10" x 9" h x 7.5" base</p><p>Medium: L: 8.5" x W: 8.5" x 8" h x 6.25" base</p><p>Small: L: 7" x W: 7" x 6.5" h x 5.5" base</p><p></p><p></p><p>Case: 6</p><p>Weight: 2.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10246329606</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>FP-3743-3</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10246328838</id>
+    <published>2017-04-03T15:00:25-07:00</published>
+    <updated>2017-04-03T15:00:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3730"/>
+    <title>FP-3730</title>
+    <s:type>Galvanized Planter</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3730_1.JPG?v=1543815711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Planter<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Galvanized metal oval tub with side rope handles</p><p>L: 24" x W: 17.5" x 9.5" h</p><p></p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 3.15lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10246328838</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>FP-3730</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10167686086</id>
+    <published>2017-03-28T15:35:00-07:00</published>
+    <updated>2017-03-28T15:35:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3999-3"/>
+    <title>FP-3999-3</title>
+    <s:type>Galvanized Planter</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3999-3_1.jpg?v=1597269779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Planter<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 galvanized metal tapered buckets with center swinging handle</p><p>Large: L: 9.75" x W: 9.75" x 7.5"h</p><p>Medium: L: 8.25" x W: 8.25" x 6"h</p><p>Small: L: 7" x W: 7" x 5"h</p><p></p><p></p><p>Case: 8</p><p>Weight: 1.95lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10167686086</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>FP-3999-3</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/9099435014</id>
+    <published>2016-12-11T17:21:14-08:00</published>
+    <updated>2016-12-11T17:21:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4053s"/>
+    <title>FP-4053S</title>
+    <s:type>Galvanized Planter</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4053S_1.jpg?v=1621368904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Planter<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>17" tall metal bucket with 2 side rope handles</p><p>L: 9.5" x W: 9.5" x H: 17" x Base: 6"</p><p></p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 1.7lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/9099435014</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>FP-4053S</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/9099434950</id>
+    <published>2016-12-11T17:21:14-08:00</published>
+    <updated>2016-12-11T17:21:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4053m"/>
+    <title>FP-4053M</title>
+    <s:type>Galvanized Planter</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4053M_1.jpg?v=1621368894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Planter<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>22" tall metal bucket with 2 side rope handles</p><p>L: 11.25" x W: 11.25" x H: 22"x Base: 7.25"</p><p></p><p></p><p></p><p></p><p>Case: 5</p><p>Weight: 2.45lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/9099434950</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>FP-4053M</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/9099434886</id>
+    <published>2016-12-11T17:21:14-08:00</published>
+    <updated>2016-12-11T17:21:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4053l"/>
+    <title>FP-4053L</title>
+    <s:type>Galvanized Planter</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4053L_1.jpg?v=1621368889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Planter<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>27.5" tall metal bucket with 2 side rope handles</p><p>L: 13.25" x W: 13.25" x H: 27.5"x Base: 7.5"</p><p></p><p></p><p></p><p></p><p>Case: 3</p><p>Weight: 3.4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/9099434886</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>FP-4053L</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/9099432006</id>
+    <published>2016-12-11T17:21:09-08:00</published>
+    <updated>2016-12-11T17:21:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4003-3"/>
+    <title>FP-4003-3</title>
+    <s:type>Galvanized Planter</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4003-3.jpg?v=1482283911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Planter<br>
+        <strong>Price: </strong>
+            78.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal set of 3 tapered square planters with side metal handles</p><p>Large: L: 15.75" x W: 15.75" x H: 16.5"</p><p>Medium: L: 13.75" x W: 13.75" x H: 14.5"</p><p>Small: L: 12" x W: 12" x H: 13"</p><p></p><p></p><p>Case: 2</p><p>Weight: 13.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/9099432006</id>
+      <title>Default Title</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku>FP-4003-3</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/9099431750</id>
+    <published>2016-12-11T17:21:00-08:00</published>
+    <updated>2016-12-11T17:21:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4000-3"/>
+    <title>FP-4000-3</title>
+    <s:type>Galvanized Planter</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4000-3_1.JPG?v=1557971498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Planter<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 metal round cylinder buckets with top metal handle</p><p>Large: L: 10" x W: 10" x H: 9.25" </p><p>Medium: L: 8.25" x W: 7.25" x H: 7.5"</p><p>Small: L: 7.25" x W: 7.25" x H: 6.25"</p><p></p><p></p><p>Case: 4</p><p>Weight: 3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/9099431750</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>FP-4000-3</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8894275654</id>
+    <published>2016-11-09T14:14:00-08:00</published>
+    <updated>2016-11-09T14:14:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4397"/>
+    <title>FP-4397</title>
+    <s:type>Galvanized Planter</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4397.JPG?v=1479279282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Planter<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Double storage slotted pots with center handle</p><p>L: 12.25" x W: 6.25" x H: 6.5"</p><p></p><p></p><p></p><p></p><p>Case: 16</p><p>Weight: 1.05lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/8894275654</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>FP-4397</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8547026182</id>
+    <published>2016-09-12T21:46:50-07:00</published>
+    <updated>2016-09-12T21:46:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4725-2"/>
+    <title>4725-2</title>
+    <s:type>Galvanized Planter</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4725-2_1.jpg?v=1589844231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Planter<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 galvanized barrel planters</p><p>Large: L: 17.25" x W: 17.25" x H: 22"</p><p>Small: L: 13" x W: 13" x H: 19.5"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 9.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/8547026182</id>
+      <title>Default Title</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>4725-2</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+</feed>

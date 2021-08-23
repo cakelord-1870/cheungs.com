@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/lanterns.atom"/>
+  <title>Cheungs</title>
+  <updated>2021-05-04T09:59:57-07:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/6569895034953</id>
+    <published>2021-05-04T09:59:57-07:00</published>
+    <updated>2021-05-04T09:59:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5571bk"/>
+    <title>5571BK</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Bamboo Style Metal Lantern with Hanging Loop</p><p>L: 7.5" x W: 7.5" x H: 15.25" x Total H: 16.5"</p><p>Body: L: 6.25" x W: 6.25" x H: 8"</p><p>Lantern Base Interior: L: 5.75" x W: 5.75"</p><p></p><p></p><p>Case: 4</p><p>Weight: 1.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/6569895034953</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>5571BK</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4490597564489</id>
+    <published>2020-06-11T10:24:45-07:00</published>
+    <updated>2020-06-11T10:24:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5552"/>
+    <title>5552</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5552_1.jpg?v=1591897049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden Lantern with Center Candle Holder and Rope Hanger</p><p>L: 11.25" x W: 11.25" x H: 13.25" x Total H: 21"</p><p>Candle Cup: Dia: 3.5"</p><p>Wood Thickness: 0.25"</p><p></p><p></p><p>Case: 6</p><p>Weight: 1.4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4490597564489</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>5552</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4490597531721</id>
+    <published>2020-06-11T10:24:45-07:00</published>
+    <updated>2020-06-11T10:24:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5551"/>
+    <title>5551</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5551_1.jpg?v=1591897048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lattice pattern bamboo lantern with a center glass container, rope accents and a metal handle</p><p>Dia: 8.5" x H: 9.5" x Total H: 14"</p><p>Includes an inner, glass candle holder measuring: Dia: 3.5" x H: 5.5"</p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 1.4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4490597531721</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>5551</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4490597498953</id>
+    <published>2020-06-11T10:24:44-07:00</published>
+    <updated>2020-06-11T10:24:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5550a"/>
+    <title>5550A</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5550A_1.jpg?v=1591897035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lattice pattern bamboo lantern with a center glass container and a metal handle</p><p>Dia: 8.5" x H: 10" x Total H: 14"</p><p>Includes an inner, glass candle holder measuring: Dia: 2.75" x H: 4"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 0.9lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4490597498953</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>5550A</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4490597335113</id>
+    <published>2020-06-11T10:24:42-07:00</published>
+    <updated>2020-06-11T10:24:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5408"/>
+    <title>5408</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5408_1.jpg?v=1621367887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A single, rustic style themed lantern with an electric light, side elegant panels, a dark galvanized finished metal top and bottom and a high center handle</p><p>L: 8.75" x W: 8.75" x H: 12.5" x TH: 18.5" x TL: 10.25"</p><p>Opening Dia: 4.75"</p><p>Internal: L: 7" x W: 7" x H: 10"</p><p></p><p></p><p>Case: 2</p><p>Weight: 6.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4490597335113</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>5408</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4317038542921</id>
+    <published>2019-10-24T13:59:29-07:00</published>
+    <updated>2019-10-24T13:59:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5550b"/>
+    <title>5550B</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5550B_2.jpg?v=1571955342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            22.11
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vertical panel bamboo lantern</p><p>Dia: 9" x H: 10.5" x Total H: 14.5"</p><p></p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4317038542921</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.11</s:price>
+      <s:sku>5550B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2217044279369</id>
+    <published>2019-07-21T10:24:23-07:00</published>
+    <updated>2019-07-21T10:24:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5572bk"/>
+    <title>5572BK</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5572BK_1.JPG?v=1564069195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Bamboo Style Metal Lantern with Hanging Loop</p><p>L: 8.5" x W: 8.5" x H: 15.25" x Total H: 16.5"</p><p>Body: L: 7" x W: 7" x H: 8.5"</p><p>Candle Holder: Dia: 4.75"</p><p></p><p></p><p>Case: 4</p><p>Weight: 1.3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2217044279369</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>5572BK</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2217044246601</id>
+    <published>2019-07-21T10:24:23-07:00</published>
+    <updated>2019-07-21T10:24:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5572gd"/>
+    <title>5572GD</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5572GD_1.JPG?v=1564069197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Golden Bamboo Style Metal Lantern with Hanging Loop</p><p>L: 8.5" x W: 8.5" x H: 15.25" x Total H: 16.5"</p><p>Body: L: 7" x W: 7" x H: 8.5"</p><p>Candle Holder: Dia: 4.75"</p><p></p><p></p><p>Case: 4</p><p>Weight: 1.3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2217044246601</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>5572GD</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198644326473</id>
+    <published>2019-06-19T09:15:10-07:00</published>
+    <updated>2019-06-19T09:15:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5557gd-l"/>
+    <title>5557GD-L</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5557GD-L_1.JPG?v=1560962317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold colored metal candle holder in a diamond shape</p><p>L: 7.25" x W: 7.25" x H: 11"</p><p>Cup: Dia: 2.75"</p><p>Internal H: 9.75"</p><p></p><p></p><p>Case: 18</p><p>Weight: 0.55lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198644326473</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>5557GD-L</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198644260937</id>
+    <published>2019-06-19T09:15:09-07:00</published>
+    <updated>2019-06-19T09:15:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5557gd-s"/>
+    <title>5557GD-S</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5557GD-S_1.JPG?v=1560962320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold colored metal candle holder in a diamond shape</p><p>L: 6.5" x W: 6.5" x H: 10"</p><p>Cup: Dia: 2.75"</p><p>Internal H: 9"</p><p></p><p></p><p>Case: 18</p><p>Weight: 0.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198644260937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>5557GD-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198644228169</id>
+    <published>2019-06-19T09:15:09-07:00</published>
+    <updated>2019-06-19T09:15:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5557chg-l"/>
+    <title>5557CHG-L</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5557CHG-L_1.JPG?v=1560962344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Champagne colored metal candle holder in a diamond shape</p><p>L: 7.25" x W: 7.25" x H: 11"</p><p>Cup: Dia: 2.75"</p><p>Internal H: 9.75"</p><p></p><p></p><p>Case: 18</p><p>Weight: 0.55lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198644228169</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>5557CHG-L</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198644195401</id>
+    <published>2019-06-19T09:15:09-07:00</published>
+    <updated>2019-06-19T09:15:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5557chg-s"/>
+    <title>5557CHG-S</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5557CHG-S_1.JPG?v=1560962309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Champagne colored metal candle holder in a diamond shape</p><p>L: 6.5" x W: 6.5" x H: 10"</p><p>Cup: Dia: 2.75"</p><p>Internal H: 9"</p><p></p><p></p><p>Case: 18</p><p>Weight: 0.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198644195401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>5557CHG-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198641672265</id>
+    <published>2019-06-19T09:14:41-07:00</published>
+    <updated>2019-06-19T09:14:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5481s"/>
+    <title>5481S</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5481S_1.JPG?v=1560961270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            28.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal lattice lantern with a top swivel handle and wood base</p><p>Dia: 6.75" x H: 9.75" x Total H: 14.25" Base Dia: 5.5"</p><p>Glass Insert: Dia: 4.75" x H: 5.5"</p><p>Base Cup: Dia: 4.75" x H: 0.25"</p><p></p><p></p><p>Case: 6</p><p>Weight: 1.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198641672265</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>5481S</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198641639497</id>
+    <published>2019-06-19T09:14:40-07:00</published>
+    <updated>2019-06-19T09:14:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5480s"/>
+    <title>5480S</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5480S_1.JPG?v=1560961419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal lattice lantern with a top swivel handle and wood base</p><p>Dia: 6" x H: 10" x Total H: 14.75" Base Dia: 6.5"</p><p>Glass Insert: Dia: 3.5" x H: 4.5"</p><p>Base Cup: Dia: 3.75" x H: 0.25"</p><p></p><p></p><p>Case: 8</p><p>Weight: 1.7lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198641639497</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>5480S</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419284807753</id>
+    <published>2018-08-02T16:32:08-07:00</published>
+    <updated>2018-08-02T16:32:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5279"/>
+    <title>5279</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5279_1.jpg?v=1609268306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rectangular wooden lantern with a black metal roof, swing-out door and a bottom, floral themed, galvanized metal accent pattern</p><p>L: 10.25" x W: 5.75" x H: 15.5" x TH: 19.5"</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 2.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419284807753</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>5279</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419284774985</id>
+    <published>2018-08-02T16:32:07-07:00</published>
+    <updated>2018-08-02T16:32:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5278-2"/>
+    <title>5278-2</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5278-2_1.jpg?v=1603409022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2, hexagonal lanterns with black metal roof and top latch</p><p>Large: L: 12.5" x W: 12.5" x H: 23" x TH: 25"</p><p>Small: L: 9.25" x W: 9.25" x H: 16" x TH: 19"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 8.4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/1419284774985</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>5278-2</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419282972745</id>
+    <published>2018-08-02T16:31:55-07:00</published>
+    <updated>2018-08-02T16:31:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5232-2wt"/>
+    <title>5232-2WT</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5232-2WT_1.jpg?v=1621367384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            88.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 white, hexagonal lanterns with metal frames and glass windows</p><p>L: 11.25" x W: 9.75" x H: 29"</p><p>Small: L: 8.75" x W: 7.5" x H: 20.75"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 11.15lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419282972745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>5232-2WT</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419282907209</id>
+    <published>2018-08-02T16:31:55-07:00</published>
+    <updated>2018-08-02T16:31:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5232-2br"/>
+    <title>5232-2BR</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5232-2BR_1.jpg?v=1621367380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            88.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 brown, hexagonal lanterns with metal frames and glass windows</p><p>L: 11.25" x W: 9.75" x H: 29"</p><p>Small: L: 8.75" x W: 7.5" x H: 20.75"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 11.15lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419282907209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>5232-2BR</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10591775125</id>
+    <published>2017-05-17T12:52:52-07:00</published>
+    <updated>2017-05-17T12:52:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3247b-2"/>
+    <title>FP-3247B-2</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3247-2B_1.JPG?v=1565026324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 timeworn wooden garden lanterns</p><p>Large: L: 13.25" x W: 11.5" x 24.5"h</p><p>Small: L: 9.75" x W: 8.5" x 18.75"h</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 10.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10591775125</id>
+      <title>Default Title</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>FP-3247B-2</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10591775061</id>
+    <published>2017-05-17T12:52:52-07:00</published>
+    <updated>2017-05-17T12:52:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3247a-2"/>
+    <title>FP-3247A-2</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3247-2A_1.JPG?v=1565026260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 timeworn wooden garden lanterns</p><p>Large: L: 13.5" x W: 13.5" x 25"h</p><p>Small: L: 9" x W: 9" x 18.75"h</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 12lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10591775061</id>
+      <title>Default Title</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>FP-3247A-2</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10572138645</id>
+    <published>2017-05-12T16:00:57-07:00</published>
+    <updated>2017-05-12T16:00:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3452"/>
+    <title>FP-3452</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3452_1.JPG?v=1551633495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden lantern with glass windows and metal roof with ring</p><p>L: 6.25" x W: 6.25" x 16.5"h</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 2.65lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10572138645</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>FP-3452</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10572138517</id>
+    <published>2017-05-12T16:00:56-07:00</published>
+    <updated>2017-05-12T16:00:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3449-2"/>
+    <title>FP-3449-2</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3449-2_1.JPG?v=1565026333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 wooden tapered lanterns with glass windows and top metal ring</p><p>Large: L: 10" x W: 10" x 18"h</p><p>Small: L: 6.75" x W: 6.75" x 11.5"h</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 6lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10572138517</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>FP-3449-2</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10572138389</id>
+    <published>2017-05-12T16:00:56-07:00</published>
+    <updated>2017-05-12T16:00:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3448-2"/>
+    <title>FP-3448-2</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3448-2_1.JPG?v=1565298122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 wooden lanterns with glass windows and top metal ring</p><p>Large: L: 11.75" x H: 11.75" x 32"h</p><p>Small: L: 8.25" x W: 8.25" x 22.25"h</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 12.65lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10572138389</id>
+      <title>Default Title</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>FP-3448-2</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10295363142</id>
+    <published>2017-04-06T15:37:11-07:00</published>
+    <updated>2017-04-06T15:37:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3642-2b"/>
+    <title>FP-3642-2B</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3642-2B_1.jpg?v=1621368591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            128.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 square wooden lanterns with glass windows</p><p>Large: L: 11.5" x W: 11.5" x 33" h</p><p>Small: L: 9" x W: 9" x 26.75" h</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 20lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10295363142</id>
+      <title>Default Title</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>FP-3642-2B</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10295363078</id>
+    <published>2017-04-06T15:37:11-07:00</published>
+    <updated>2017-04-06T15:37:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3642-2a"/>
+    <title>FP-3642-2A</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3642-2A_1.jpg?v=1569443809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            128.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 hexagon wooden lanterns with glass windows</p><p>Large: L: 16" x W: 14" x 31.5" h</p><p>Small: L: 12.5" x W: 11" x 27" h</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 18lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10295363078</id>
+      <title>Default Title</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>FP-3642-2A</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+</feed>

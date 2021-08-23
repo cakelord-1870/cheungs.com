@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/tiered-planters-stands.atom"/>
+  <title>Cheungs</title>
+  <updated>2020-01-06T15:48:16-08:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/4373240217673</id>
+    <published>2020-01-06T15:48:16-08:00</published>
+    <updated>2020-01-06T15:48:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5603"/>
+    <title>5603</title>
+    <s:type>Tiered planters &amp; stands</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5603_1.jpg?v=1578354834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tiered planters &amp; stands<br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Industrial style 3 tier display stand</p><p>W: 28.75" x Top D: 7.25" x Btm D: 14.5" x H: 62.5"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 23lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373240217673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku>5603</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000482697289</id>
+    <published>2019-01-02T14:36:58-08:00</published>
+    <updated>2019-01-02T14:36:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5433"/>
+    <title>5433</title>
+    <s:type>Tiered planters &amp; Stands</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5433_1.JPG?v=1550776138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tiered planters &amp; Stands<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 Tier Metal Shelf Rack</p><p>Overall: W 18" x H: 22.5" x D: 8.75"</p><p>Shelf: Top: 17" x 4.75" x H: 2.75" Mid: 17" x 6" x H: 2.75" Btm: 17"x 7.75" x H: 2.75"</p><p>Distance Between: T to M 6.75" M to B:8"</p><p></p><p></p><p>Case: 2</p><p>Weight: 5.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2000482697289</id>
+      <title>Default Title</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>5433</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419285987401</id>
+    <published>2018-08-02T16:32:17-07:00</published>
+    <updated>2018-08-02T16:32:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5312"/>
+    <title>5312</title>
+    <s:type>Tiered planters &amp; Stands</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5312_1.JPG?v=1538813974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tiered planters &amp; Stands<br>
+        <strong>Price: </strong>
+            78.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 tier wooden planter stand with a folding stand</p><p>L: 27.75" x W: 27.5" x H: 33.25"</p><p>Trough: L: 25.5" x W: 7.75" x H: 5.25"</p><p>Inside: L: 24.5" x W: 3.5" x H: Top Depth: 6.75"</p><p>Distance Between Shelves: 8"</p><p></p><p>Case: 2</p><p>Weight: 8.6lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419285987401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku>5312</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419283759177</id>
+    <published>2018-08-02T16:32:01-07:00</published>
+    <updated>2018-08-02T16:32:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5251"/>
+    <title>5251</title>
+    <s:type>Tiered planters &amp; Stands</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5251_1.jpg?v=1609268283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tiered planters &amp; Stands<br>
+        <strong>Price: </strong>
+            158.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large, 9 compartment, galvanized metal, freestanding storage piece with a top chalkboard</p><p>L: 11.5" x W: 32" x H: 40.5"</p><p>Slot: 10.25" x W: 7.25" x H: 7.25"</p><p>Base: 9.75" x 4.75"</p><p>Chalkboard: 28.25" x 3.5"</p><p></p><p>Case: 1</p><p>Weight: 17.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419283759177</id>
+      <title>Default Title</title>
+      <s:price currency="USD">158.00</s:price>
+      <s:sku>5251</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419283169353</id>
+    <published>2018-08-02T16:31:56-07:00</published>
+    <updated>2018-08-02T16:31:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5236l"/>
+    <title>5236L</title>
+    <s:type>Tiered planters &amp; Stands</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5236L_1.JPG?v=1534800907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tiered planters &amp; Stands<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 tier, table display shelf with 3 removable, galvanized plates and a top handle</p><p>L: 10.75" x W: 10.75" x H: 33"</p><p>Tray: L: 9.75" x W: 9.75" x H: 1.25"</p><p>Distance Between Shelves: 7"</p><p></p><p></p><p>Case: 1</p><p>Weight: 5.3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419283169353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>5236L</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419281530953</id>
+    <published>2018-08-02T16:31:44-07:00</published>
+    <updated>2018-08-02T16:31:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5201"/>
+    <title>5201</title>
+    <s:type>Tiered planters &amp; stands</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5201_1.jpg?v=1603219407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tiered planters &amp; stands<br>
+        <strong>Price: </strong>
+            138.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>8 Pot plant stand with galvanized pots</p><p>W: 29" x D: 7" x Base Depth: 11.75" x H: 41"</p><p>Pot: Width: 5.75" x H: 15" x Base Diameter: 3.75"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 15lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/1419281530953</id>
+      <title>Default Title</title>
+      <s:price currency="USD">138.00</s:price>
+      <s:sku>5201</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/284426731541</id>
+    <published>2018-04-04T12:39:19-07:00</published>
+    <updated>2018-04-04T12:39:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5105"/>
+    <title>5105</title>
+    <s:type>Tiered planters &amp; Stands</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5105_1.jpg?v=1603219354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tiered planters &amp; Stands<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 Tier Folding Metal Shelf with Removable Shelf</p><p>Overall: W: 17.5" x D: 14.5" open x H: 41.5"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 8.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/284426731541</id>
+      <title>Default Title</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>5105</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/130149056533</id>
+    <published>2018-01-16T10:44:40-08:00</published>
+    <updated>2018-01-16T10:44:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5110"/>
+    <title>5110</title>
+    <s:type>Tiered Planters &amp; Stands</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5110_1.jpg?v=1580759069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tiered Planters &amp; Stands<br>
+        <strong>Price: </strong>
+            84.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Multi tier, 6 pot, metal folding plant stand with wooden planter bases</p><p>Open: L: 16.5" x W: 16.5" x H: 32"</p><p>Closed: L: 10" x W: 10" x H: 32"</p><p>Pot: Diameter: 8.25" x H: 2.75"</p><p></p><p></p><p>Case: 2</p><p>Weight: 8.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/130149056533</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.00</s:price>
+      <s:sku>5110</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906609813</id>
+    <published>2017-10-19T10:13:55-07:00</published>
+    <updated>2017-10-19T10:13:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5032"/>
+    <title>5032</title>
+    <s:type>Tiered Planters &amp; Stands</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5032_1.jpg?v=1619023589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tiered Planters &amp; Stands<br>
+        <strong>Price: </strong>
+            108.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rolling cart with 6 pots and chalkboard. </p><p>L: 15.25" X W: 18" x H: 45.25"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 8.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/11906609813</id>
+      <title>Default Title</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku>5032</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841994005</id>
+    <published>2017-06-23T12:59:07-07:00</published>
+    <updated>2017-06-23T12:59:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4952"/>
+    <title>4952</title>
+    <s:type>Tiered Planters &amp; Stands</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4952_1.jpg?v=1604426730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tiered Planters &amp; Stands<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>5 tier folding shelf storage</p><p>L: 16.25" x W: 29" x H: 68"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 10.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841994005</id>
+      <title>Default Title</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>4952</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841989781</id>
+    <published>2017-06-23T12:58:58-07:00</published>
+    <updated>2017-06-23T12:58:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4901"/>
+    <title>4901</title>
+    <s:type>Tiered planters &amp; Stands</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4901_1.jpg?v=1585509651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tiered planters &amp; Stands<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Tier wood folding storage</p><p>L: 14.5" x W: 20" x H: 29.5"</p><p>Tray: L: 12.5" x W: 10.5" x H: 2"</p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 5.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841989781</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>4901</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841989717</id>
+    <published>2017-06-23T12:58:58-07:00</published>
+    <updated>2017-06-23T12:58:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4900"/>
+    <title>4900</title>
+    <s:type>Tiered planters &amp; Stands</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4900_1.jpg?v=1585509625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tiered planters &amp; Stands<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Tier wood folding storage</p><p>L: 12.5" x W: 12" x H: 21"</p><p>Tray: L: 10.75" x W: 8" x H: 2"</p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 3.3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841989717</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>4900</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841980949</id>
+    <published>2017-06-23T12:58:20-07:00</published>
+    <updated>2017-06-23T12:58:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4846"/>
+    <title>4846</title>
+    <s:type>Tiered planters &amp; Stands</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4846_1.jpg?v=1589844260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tiered planters &amp; Stands<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 Tier wood shelf table top storage</p><p>Bottom: L: 16.75" x W: 12" x H: 27.75" x TH: 30.75"</p><p>Middle: L: 15.75" x W: 10"</p><p>Top: L: 15.75" x W: 8"</p><p></p><p></p><p>Case: 2</p><p>Weight: 7.9lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841980949</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>4846</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841977813</id>
+    <published>2017-06-23T12:58:15-07:00</published>
+    <updated>2017-06-23T12:58:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4791"/>
+    <title>4791</title>
+    <s:type>Tiered planters &amp; Stands</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4791_1.jpg?v=1613156324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tiered planters &amp; Stands<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12 Slot galvanized planter stand with Chalk headboard</p><p>W: 17.75" x H: 36" x Depth: 6.75</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 8.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841977813</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>4791</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841977109</id>
+    <published>2017-06-23T12:58:13-07:00</published>
+    <updated>2017-06-23T12:58:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4781"/>
+    <title>4781</title>
+    <s:type>Tiered planters &amp; Stands</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4781_1.JPG?v=1564075103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tiered planters &amp; Stands<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Tier wooden storage with metal frame</p><p>L: 16.75" x W: 10" x H: 21"</p><p></p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841977109</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>4781</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841976981</id>
+    <published>2017-06-23T12:58:13-07:00</published>
+    <updated>2017-06-23T12:58:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4780"/>
+    <title>4780</title>
+    <s:type>Tiered planters &amp; Stands</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4780_1.JPG?v=1564074989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tiered planters &amp; Stands<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 Tier wooden storage with metal frame</p><p>L: 16.75" x W: 9" x H: 29.25"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 6lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841976981</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>4780</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10295367110</id>
+    <published>2017-04-06T15:37:19-07:00</published>
+    <updated>2017-04-06T15:37:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3689w"/>
+    <title>FP-3689W</title>
+    <s:type>Tiered Planters &amp; Stands</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3689W_2.jpg?v=1618336420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tiered Planters &amp; Stands<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 tier white 6 slot garden planter stand</p><p>L: 17" x W: 14" x 21" h</p><p></p><p></p><p></p><p></p><p>Case: 3</p><p>Weight: 5.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10295367110</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>FP-3689W</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10295367046</id>
+    <published>2017-04-06T15:37:19-07:00</published>
+    <updated>2017-04-06T15:37:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3689"/>
+    <title>FP-3689</title>
+    <s:type>Tiered Planters &amp; Stands</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3689_1.JPG?v=1565121192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tiered Planters &amp; Stands<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 tier 6 slot garden planter stand</p><p>L: 17" x W: 14" x 21" h</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 5.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10295367046</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>FP-3689</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10180207366</id>
+    <published>2017-03-29T11:35:35-07:00</published>
+    <updated>2017-03-29T11:35:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3862w"/>
+    <title>FP-3862W</title>
+    <s:type>Tiered Planters &amp; Stands</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3862W_1.jpg?v=1571684014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tiered Planters &amp; Stands<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 tier wooden shelf stand in white tone</p><p>L: 16.5" x W: 13.75" x 44" h</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 8.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shelf</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10180207366</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>FP-3862W</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10180207238</id>
+    <published>2017-03-29T11:35:35-07:00</published>
+    <updated>2017-03-29T11:35:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3862"/>
+    <title>FP-3862</title>
+    <s:type>Tiered Planters &amp; Stands</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3862_1.jpg?v=1608577725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tiered Planters &amp; Stands<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 tier wooden shelf stand in dark brown tone</p><p>L: 16.5" x W: 13.75" x 44" h</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 8.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shelf</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10180207238</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>FP-3862</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8894269766</id>
+    <published>2016-11-09T14:13:55-08:00</published>
+    <updated>2016-11-09T14:13:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4312"/>
+    <title>FP-4312</title>
+    <s:type>Tiered Planters &amp; Stands</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4312_1.JPG?v=1563834891"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tiered Planters &amp; Stands<br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden 3 tiered A-board stand with top chalkboard..</p><p>L: 21.75" x W: 23.75" x 51"h</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 7.85lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/8894269766</id>
+      <title>Default Title</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>FP-4312</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8547027718</id>
+    <published>2016-09-12T21:46:00-07:00</published>
+    <updated>2016-09-12T21:46:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4739"/>
+    <title>4739</title>
+    <s:type>Tiered planters &amp; Stands</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4739_1_d5a84fe7-0ac7-49e9-b620-10eae9f9cfeb.JPG?v=1563834622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tiered planters &amp; Stands<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden 9 potted stand with chalkboard</p><p>L: 17.75" x W: 18" x H: 40"</p><p>Slot: 5" x 5" x 4.5"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 7.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/8547027718</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>4739</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+</feed>

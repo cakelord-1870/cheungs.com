@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/trunks.atom"/>
+  <title>Cheungs</title>
+  <updated>2021-02-05T10:00:37-08:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/4609925709897</id>
+    <published>2021-02-05T10:00:37-08:00</published>
+    <updated>2021-02-05T10:00:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3098-3"/>
+    <title>FP-3098-3</title>
+    <s:type>Trunk</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3098-3_1.jpg?v=1612547967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Trunk<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Quintia Three Piece Trunk Set</p><p>Large: W: 20.5" x D: 14.25" x H: 14.75"</p><p>Medium: W: 17.5" x D: 11.25" x H: 11.75"</p><p>Small: W: 15" x D: 8.75" x H: 9.25"</p><p></p><p></p><p>Case: 1</p><p>Weight: 28lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4609925709897</id>
+      <title>Default Title</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>FP-3098-3</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4484390125641</id>
+    <published>2020-06-04T15:57:46-07:00</published>
+    <updated>2020-06-04T15:57:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5478-2"/>
+    <title>5478-2</title>
+    <s:type>Trunk</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5478-2_1.jpg?v=1591313604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Trunk<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 Rectangular Trunks</p><p>Large: W: 23.75" x D: 14" x H: 16"</p><p>Small: W: 20" x D: 12" x H: 13"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 19.85lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4484390125641</id>
+      <title>Default Title</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>5478-2</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2218978508873</id>
+    <published>2019-07-24T15:00:49-07:00</published>
+    <updated>2019-07-24T15:00:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5047-3bk"/>
+    <title>5047-3BK</title>
+    <s:type>Trunk</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5047-3BK_1.jpg?v=1619023669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Trunk<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 Black Wash Wooden Crates with Side Rope Handles</p><p>Lg: W: 19" x D: 12" x H: 10"</p><p>Md: W: 15.75" x D: 10" x H: 8.75"</p><p>Sm: W: 13.25" x D: 8" x H: 7"</p><p></p><p></p><p>Case: 1</p><p>Weight: 14.3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2218978508873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>5047-3BK</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198643441737</id>
+    <published>2019-06-19T09:15:00-07:00</published>
+    <updated>2019-06-19T09:15:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5542-2"/>
+    <title>5542-2</title>
+    <s:type>Trunk</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5542-2_1.JPG?v=1600468984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Trunk<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 woven brown vinyl pattern suitcases with front buckles bronze corners and side straps</p><p>Lg: W: 18" x D: 14.25" x H: 6"</p><p>Sm: W: 16" x D: 12" x H: 4.5"</p><p>Inner L: W: 17" x D: 13" x H: 5"</p><p>Inner S: W: 15" x D: 11" x H: 4"</p><p></p><p>Case: 2</p><p>Weight: 12.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198643441737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>5542-2</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198643408969</id>
+    <published>2019-06-19T09:15:00-07:00</published>
+    <updated>2019-06-19T09:15:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5541-3"/>
+    <title>5541-3</title>
+    <s:type>Trunk</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5541-3_1.JPG?v=1600468966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Trunk<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 woven brown vinyl pattern trunks with front buckle and bronze corners</p><p>Lg: W: 16.25" x D: 9.5" x H: 8.75"</p><p>Md: W: 13.75" x D: 7.75" x H: 7.25"</p><p>Sm: W: 11.25" x D: 6.25" x H: 5.75"</p><p>Inner L: W: 14.75" x D: 8" x H: 7.75"</p><p>Inner M: W: 12.5" x D: 6.5" x H: 6.25"</p><p>Case: 2</p><p>Weight: 14.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198643408969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>5541-3</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906611029</id>
+    <published>2017-10-19T10:14:00-07:00</published>
+    <updated>2017-10-19T10:14:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5047-3"/>
+    <title>5047-3</title>
+    <s:type>Trunk</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5047-3_1.jpg?v=1619023658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Trunk<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of three wooden trunk with rope handle.</p><p>Large: L: 18.75" x W: 11.75" x H: 10.25"</p><p>Medium: L: 15.75" x W: 9.75" x H: 8.75"</p><p>Small: L: 13.25" x W: 7.75" x H: 7"</p><p></p><p></p><p>Case: 1</p><p>Weight: 14.3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906611029</id>
+      <title>Default Title</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>5047-3</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10326279302</id>
+    <published>2017-04-10T15:39:41-07:00</published>
+    <updated>2017-04-10T15:39:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3513-2us"/>
+    <title>FP-3513-2US</title>
+    <s:type>Trunk</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3513-2US.jpg?v=1491864341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Trunk<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 US Flag storage containers</p><p>Large: L: 11.75" x W: 6.75" x 6.5" h</p><p>Small: L: 9.5" x W: 5" x 5" h</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>USA</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10326279302</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>FP-3513-2US</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10180207046</id>
+    <published>2017-03-29T11:35:34-07:00</published>
+    <updated>2017-03-29T11:35:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3855-3nb"/>
+    <title>FP-3855-3NB</title>
+    <s:type>Trunk</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3855-3NB_1.jpg?v=1591819489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Trunk<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 navy blue linen storage trunks with studded frame</p><p>Large: L: 19.75" x W: 12" x 12.25" h</p><p>Medium: L: 16.5" x W: 10" x 10" h</p><p>Small: L: 12.75" x W: 7.75" x 8" h</p><p></p><p></p><p>Case: 1</p><p>Weight: 23.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10180207046</id>
+      <title>Default Title</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>FP-3855-3NB</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10180206982</id>
+    <published>2017-03-29T11:35:34-07:00</published>
+    <updated>2017-03-29T11:35:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3855-3"/>
+    <title>FP-3855-3</title>
+    <s:type>Trunk</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3855-3_1.jpg?v=1589844434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Trunk<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 natural linen storage trunks with studded frame</p><p>Large: L: 19.75" x W: 12" x 12.25" h</p><p>Medium: L: 16.5" x W: 10" x 10" h</p><p>Small: L: 12.75" x W: 7.75" x 8" h</p><p></p><p></p><p>Case: 1</p><p>Weight: 23.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10180206982</id>
+      <title>Default Title</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>FP-3855-3</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+</feed>

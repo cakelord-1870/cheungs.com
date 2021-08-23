@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/metal-storage.atom"/>
+  <title>Cheungs</title>
+  <updated>2020-06-11T10:24:41-07:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/4490597302345</id>
+    <published>2020-06-11T10:24:41-07:00</published>
+    <updated>2020-06-11T10:24:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5357"/>
+    <title>5357</title>
+    <s:type>Metal Storage</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5357_1.jpg?v=1591896963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Storage<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White metal caddy with gray rim and 4 compartments with a high center handle and wood grip</p><p>Dia: 6" x H: 5.25" x TH: 12.25"</p><p>Compartments (triangular) : 2.75" radius</p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4490597302345</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>5357</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2217044410441</id>
+    <published>2019-07-21T10:24:25-07:00</published>
+    <updated>2019-07-21T10:24:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5574s"/>
+    <title>5574S</title>
+    <s:type>Metal Storage</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5574S_1.JPG?v=1564069210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Storage<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Washed Galvanized Metal Jug</p><p>Dia: 5.25" x H: 10.25"</p><p>Opening: Dia: 3"</p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 0.7lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2217044410441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>5574S</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2217044377673</id>
+    <published>2019-07-21T10:24:25-07:00</published>
+    <updated>2019-07-21T10:24:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5574l"/>
+    <title>5574L</title>
+    <s:type>Metal Storage</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5574L_1.JPG?v=1564069208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Storage<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Washed Galvanized Metal Jug</p><p>W: 6.5" x H: 13"</p><p>Opening: Dia: 3.75"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2217044377673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>5574L</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2217044148297</id>
+    <published>2019-07-21T10:24:22-07:00</published>
+    <updated>2019-07-21T10:24:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5569s"/>
+    <title>5569S</title>
+    <s:type>Metal Storage</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5569S_1.JPG?v=1564069104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Storage<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Washed Galvanized Metal Jug Decor with Garden Pattern</p><p>L: 6.5" x W: 6.25" x H: 11.5"</p><p>Jug: Dia: 6.25"</p><p>Opening: Dia: 3.75"</p><p></p><p></p><p>Case: 6</p><p>Weight: 1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2217044148297</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>5569S</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2217043722313</id>
+    <published>2019-07-21T10:24:16-07:00</published>
+    <updated>2019-07-21T10:24:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5523-3"/>
+    <title>5523-3</title>
+    <s:type>Metal Storage</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5523-3_1.JPG?v=1563737772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Storage<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 Round Metal Buckets with Top and Bottom Gold Accent Bands</p><p>Lg: Dia: 8" x H: 8 Base: Dia: 6"</p><p>Md: Dia: 7" x H: 7" Base: Dia: 5"</p><p>Small: Dia: 5.5" x H: 6" Base: Dia: 4"</p><p></p><p></p><p>Case: 12</p><p>Weight: 1.95lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2217043722313</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>5523-3</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2217043591241</id>
+    <published>2019-07-21T10:24:15-07:00</published>
+    <updated>2019-07-21T10:24:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5517-3"/>
+    <title>5517-3</title>
+    <s:type>Metal Storage</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5517-3_1.JPG?v=1563737712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Storage<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 Round Galvanized Metal Buckets with X Frame Metal Stands</p><p>Lg: Dia: 11.75"x H: 27"</p><p>Md: Dia: 9.75" x H: 21"</p><p>Sm: Dia: 8" x H: 15.5"</p><p>Lg Bucket: Dia: 11.75" x H: 9.75"</p><p>Md Bucket: Dia: 9.75" x H: 7.75"</p><p>Case: 1</p><p>Weight: 13.65lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2217043591241</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>5517-3</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2208462307401</id>
+    <published>2019-07-06T20:01:13-07:00</published>
+    <updated>2019-07-06T20:01:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5598"/>
+    <title>5598</title>
+    <s:type>Metal Storage</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5598_1.JPG?v=1562470524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Storage<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Galvanized Metal Piglet Planter</p><p>L: 10.25" x W: 8.25" x H: 6.5"</p><p>Pot: Dia: 7.5" x H: 4"</p><p>Leg Height: 2.25"</p><p></p><p></p><p>Case: 8</p><p>Weight: 0.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2208462307401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.50</s:price>
+      <s:sku>5598</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2208462274633</id>
+    <published>2019-07-06T20:01:13-07:00</published>
+    <updated>2019-07-06T20:01:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5597-2"/>
+    <title>5597-2</title>
+    <s:type>Metal Storage</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5597-2_1.JPG?v=1562470523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Storage<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 Galvanized Metal Hen Planters</p><p>Lg: L: 17.25" x W: 8.5" x H: 3" x Total H: 6"</p><p>Sm: L: 13" x W: 6" x H: 2.5" x Total H: 5.25"</p><p>Lg Interior: L: 10.25" x W: 7.5" x H: 2.5"</p><p>Sm Interior: L: 7.25" x W: 5.5" x H: 2"</p><p></p><p>Case: 8</p><p>Weight: 1.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2208462274633</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>5597-2</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2208462241865</id>
+    <published>2019-07-06T20:01:13-07:00</published>
+    <updated>2019-07-06T20:01:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5596-2"/>
+    <title>5596-2</title>
+    <s:type>Metal Storage</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5596-2_1.JPG?v=1562470520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Storage<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 Galvanized Metal Piglet Planters</p><p>Lg: L: 14" x W: 8.5" x H: 4"</p><p>Sm: L: 10.5" x W: 6.25" x H: 3.25</p><p>Lg Interior: L: 10.25" x W: 7.5" x H: 2.5"</p><p>Sm Interior: L: 7.25" x W: 5.5" x H: 2"</p><p></p><p>Case: 12</p><p>Weight: 1.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2208462241865</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>5596-2</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198644523081</id>
+    <published>2019-06-19T09:15:12-07:00</published>
+    <updated>2019-06-19T09:15:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5586-2"/>
+    <title>5586-2</title>
+    <s:type>Metal Storage</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5586-2_1.JPG?v=1560962410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Storage<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 rustic, galvanized metal oval buckets with swivel handles</p><p>Lg: L: 12" x W: 9.25" x H: 5.75" x Total H: 12.25" Base: L: 9.25" x W: 6.75"</p><p>Sm: L: 9.5" x W: 7.75:" x H: 5" x Total H: 10" Base: L: 7.5" x W: 5.5"</p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 1.6lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198644523081</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>5586-2</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198644424777</id>
+    <published>2019-06-19T09:15:11-07:00</published>
+    <updated>2019-06-19T09:15:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5584"/>
+    <title>5584</title>
+    <s:type>Metal Storage</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5584_1.JPG?v=1560962398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Storage<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rustic, galvanized metal pitcher decor</p><p>Total L: 8.5" x W: 3.75" x H: 8.75"</p><p>Base: L: 7.5" x W: 3.75"</p><p>Opening: L: 4.25" x W: 2.75"</p><p></p><p></p><p>Case: 20</p><p>Weight: 0.55lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198644424777</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>5584</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198644392009</id>
+    <published>2019-06-19T09:15:11-07:00</published>
+    <updated>2019-06-19T09:15:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5583-3"/>
+    <title>5583-3</title>
+    <s:type>Metal Storage</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5583-3_1.jpg?v=1578344762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Storage<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 rustic, galvanized metal "Farmers Market" buckets</p><p>Lg: Dia: 12" x H: 10.25" x Base: Dia: 9.25"</p><p>Md: Dia: 10.25" x H: 9.25" x Base: Dia: 7.75"</p><p>Sm: Dia: 8.75" x H: 8.25" Base: Dia: 6.5"</p><p></p><p></p><p>Case: 4</p><p>Weight: 3.65lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198644392009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>5583-3</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000483090505</id>
+    <published>2019-01-02T14:37:01-08:00</published>
+    <updated>2019-01-02T14:37:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5443-2"/>
+    <title>5443-2</title>
+    <s:type>Metal Storage</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5443-2_2.jpg?v=1619029564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Storage<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 Oval Container with Gold Rim and Handles</p><p>Large: L: 16.5" x W: 6.25" x H: 3.75" x TL: 18" x TH: 5.5"</p><p>Small: L: 13.75" x W: 4.5" x H: 2.75" x TL: 15" x TH: 4.25"</p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000483090505</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>5443-2</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000478994505</id>
+    <published>2019-01-02T14:36:31-08:00</published>
+    <updated>2019-01-02T14:36:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5355"/>
+    <title>5355</title>
+    <s:type>Metal Storage</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5355_1.jpg?v=1603218262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Storage<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cast iron, silver and gold painted, table storage piece</p><p>L: 12.5" x W: 4.5" x H: 2.25"</p><p>Inner: L: 12" x W: 4" x H: 2" x Base: 4" x 2.25"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Holiday</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2000478994505</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>5355</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000478208073</id>
+    <published>2019-01-02T14:36:25-08:00</published>
+    <updated>2019-01-02T14:36:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5338-2"/>
+    <title>5338-2</title>
+    <s:type>Metal Storage</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5338-2LS_1.JPG?v=1548604943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Storage<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2, round, galvanized metal containers with a black rim and side metal handles with a ridged belt</p><p>Large: L: 10" x W: 10" x H: 4" x TL: 12" x TH: 6" x Base: L: 7.5" x W: 7.5"</p><p>Small: L: 8.25" x W: 8.25" x H: 3.5" x TL: 9.75" x TH: 5.5" x Base: L: 6" x W: 6"</p><p>Large Internal: Top Dia: 9.25" x H: 3.75" x Base Dia: 7.5"</p><p>Small Internal: Top Dia: 7.75" x H: 3.5" x Base Dia: 6"</p><p></p><p>Case: 10</p><p>Weight: 1.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2000478208073</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>5338-2</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/284428369941</id>
+    <published>2018-04-04T12:39:26-07:00</published>
+    <updated>2018-04-04T12:39:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5180-2"/>
+    <title>5180-2</title>
+    <s:type>Metal Storage</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5180-2_1.jpg?v=1624383975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Storage<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 Metal Storage with Jardin Label</p><p>Large: L: 17.25" x W: 9" x H: 5.25"</p><p>Small: L: 15.5" x W: 8" x H: 4.5"</p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 5.3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/284428369941</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>5180-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906614933</id>
+    <published>2017-10-19T10:14:17-07:00</published>
+    <updated>2017-10-19T10:14:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5082-2"/>
+    <title>5082-2</title>
+    <s:type>Metal Storage</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5082-2_1.jpg?v=1594152662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Storage<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of two metal long oval storage with handle. </p><p>Large: L: 24.25" x W: 8.5" x H: 5.5"</p><p>Small: L: 20.75" x W: 6" x H: 4.25"</p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 3.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906614933</id>
+      <title>Default Title</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>5082-2</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906614869</id>
+    <published>2017-10-19T10:14:17-07:00</published>
+    <updated>2017-10-19T10:14:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5081-3"/>
+    <title>5081-3</title>
+    <s:type>Metal Storage</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5081-3_1.jpg?v=1596216979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Storage<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of three metal oval storage with rope. </p><p>Large: L: 20.25" x W: 13.75" x H: 9.5"</p><p>Medium: L: 17" x W: 11.75" x H: 8"</p><p>Small: L: 13" x W: 8.5" x H: 6"</p><p></p><p></p><p>Case: 2</p><p>Weight: 6.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/11906614869</id>
+      <title>Default Title</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>5081-3</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906614805</id>
+    <published>2017-10-19T10:14:17-07:00</published>
+    <updated>2017-10-19T10:14:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5080-3"/>
+    <title>5080-3</title>
+    <s:type>Metal Storage</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5080-3_1.jpg?v=1596216940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Storage<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of three round metal storage with rope. </p><p>Large: Diameter: 15.75" x H: 7.25"</p><p>Medium: Diameter: 13.5" x H: 6.75"</p><p>Small: Diameter: 10.75" x H: 5.75"</p><p></p><p></p><p>Case: 3</p><p>Weight: 5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/11906614805</id>
+      <title>Default Title</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>5080-3</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906609749</id>
+    <published>2017-10-19T10:13:55-07:00</published>
+    <updated>2017-10-19T10:13:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5031s"/>
+    <title>5031S</title>
+    <s:type>Metal Storage</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5031S_3.jpg?v=1619133727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Storage<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small galvanized metal container with handle. </p><p>L: 7.75" x W: 7.75" x H: 11" x TH: 15.75"</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 1.65lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/11906609749</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>5031S</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841988501</id>
+    <published>2017-06-23T12:58:55-07:00</published>
+    <updated>2017-06-23T12:58:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4839-2w"/>
+    <title>4839-2W</title>
+    <s:type>Metal Storage</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4839-2WT_1.jpg?v=1579201442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Storage<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 Oval white handle buckets labeld: Hardware, Tools</p><p>Large: L: 12.75" x W: 7.75" x H: 5" x TH: 11.5"</p><p>Small: L: 10.75" x W: 6.75" x H: 4.25" x TH: 9.5"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 3.3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10841988501</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>4839-2W</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841988437</id>
+    <published>2017-06-23T12:58:55-07:00</published>
+    <updated>2017-06-23T12:58:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4839-2"/>
+    <title>4839-2</title>
+    <s:type>Metal Storage</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4839-2_1.jpg?v=1579201438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Storage<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 Oval galvanized handle buckets labeld: Hardware, Tools</p><p>Large: L: 12.75" x W: 7.75" x H: 5" x TH: 11.5"</p><p>Small: L: 10.75" x W: 6.75" x H: 4.25" x TH: 9.5"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 1.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10841988437</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>4839-2</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841987925</id>
+    <published>2017-06-23T12:58:54-07:00</published>
+    <updated>2017-06-23T12:58:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4825-3"/>
+    <title>4825-3</title>
+    <s:type>Metal Storage</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4825-3_61572bba-98ca-41c4-8591-747d5dffbdbe.jpg?v=1516122557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Storage<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 galvanized rectangular buckets stamped  general store, hardware, tools</p><p>Large: L: 13.75" x W: 7.75" x H: 6"</p><p>Medium: L: 14.25" x W: 8.75" x H: 6.75"</p><p>Small: L: 15.75" x W: 9.5" x H: 7.75"</p><p></p><p></p><p>Case: 4</p><p>Weight: 2.45lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10841987925</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>4825-3</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10295361670</id>
+    <published>2017-04-06T15:37:09-07:00</published>
+    <updated>2017-04-06T15:37:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3611"/>
+    <title>FP-3611</title>
+    <s:type>Metal Storage</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3611_1.jpg?v=1578344814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Storage<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal 3 section garden bucket with handle</p><p>L: 10.75" x W: 6.5" x 4" h x 10" total height</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10295361670</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>FP-3611</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8894275782</id>
+    <published>2016-11-09T14:14:10-08:00</published>
+    <updated>2016-11-09T14:14:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4398s"/>
+    <title>FP-4398S</title>
+    <s:type>Metal Storage</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4398S_1.jpg?v=1589844481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Storage<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small metal slotted oval storage caddy</p><p>L: 10.5" x W: 6.5" x H: 3.5" x TH: 6.5"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/8894275782</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>FP-4398S</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+</feed>

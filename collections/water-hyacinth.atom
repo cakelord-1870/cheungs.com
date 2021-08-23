@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/water-hyacinth.atom"/>
+  <title>Cheungs</title>
+  <updated>2020-11-17T10:49:21-08:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/4586233331785</id>
+    <published>2020-11-17T10:49:21-08:00</published>
+    <updated>2020-11-17T10:49:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5681sl"/>
+    <title>5681SL</title>
+    <s:type>Table Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5681SL_1.jpg?v=1605637827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Table Décor<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nerilla Chestnut Weave Finish Trivet</p><p>W: 14" x D: 14" x H: 0.5"</p><p></p><p></p><p></p><p></p><p>Case: 48</p><p>Weight: 0.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:tag>Water Hyacinth</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4586233331785</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>5681SL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4586233299017</id>
+    <published>2020-11-17T10:49:21-08:00</published>
+    <updated>2020-11-17T10:49:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5681dw"/>
+    <title>5681DW</title>
+    <s:type>Table Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5681DW_1.jpg?v=1605637789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Table Décor<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nerilla Smoke Weave Finish Trivet</p><p>W: 14" x D: 14" x H: 0.5"</p><p></p><p></p><p></p><p></p><p>Case: 48</p><p>Weight: 0.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:tag>Water Hyacinth</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4586233299017</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>5681DW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4586233266249</id>
+    <published>2020-11-17T10:49:21-08:00</published>
+    <updated>2020-11-17T10:49:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5681"/>
+    <title>5681</title>
+    <s:type>Table Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5681.jpg?v=1605637770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Table Décor<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nerilla Natural Weave Finish Trivet</p><p>W: 14" x D: 14" x H: 0.5"</p><p></p><p></p><p></p><p></p><p>Case: 48</p><p>Weight: 0.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:tag>Water Hyacinth</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4586233266249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>5681</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4586233233481</id>
+    <published>2020-11-17T10:49:21-08:00</published>
+    <updated>2020-11-17T10:49:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5680-4"/>
+    <title>5680-4</title>
+    <s:type>Storage Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5680-4_1.jpg?v=1605637746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Basket<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Laelia Four Piece Water Hyacinth Oval Storage Bins</p><p>XLarge: W: 18.75" x D: 15" x H: 6.75"</p><p>Large: W: 16.25" x D: 12.75" x H: 6"</p><p>Medium: W: 14" x D: 10.5" x H: 4.75"</p><p>Small: W: 11.75" x D: 8" x H: 4.5"</p><p></p><p>Case: 4</p><p>Weight: 4.9lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:tag>Water Hyacinth</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4586233233481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>5680-4</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4586233200713</id>
+    <published>2020-11-17T10:49:08-08:00</published>
+    <updated>2020-11-17T10:49:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5679-2"/>
+    <title>5679-2</title>
+    <s:type>Serving Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5679-2_1.jpg?v=1605637700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Serving Basket<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Albia Two Piece Colored Weave Water Hyacinth Tray Set</p><p>Large: W: 14" x D: 10.5" x H: 4"</p><p>Small: W: 12.25" x D: 8.75" x H: 3.5"</p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 1.9lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:tag>Water Hyacinth</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4586233200713</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>5679-2</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4586233167945</id>
+    <published>2020-11-17T10:49:08-08:00</published>
+    <updated>2020-11-17T10:49:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5678-3"/>
+    <title>5678-3</title>
+    <s:type>Storage Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5678-3_1.jpg?v=1605637647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Basket<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Laelia Three Piece Water Hyacinth Storage Bins</p><p>Large: W: 15" x D: 10.5" x H: 6.5"</p><p>Small: W: 8.75" x D: 6" x H: 5.5"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 3.3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:tag>Water Hyacinth</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4586233167945</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>5678-3</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4586233102409</id>
+    <published>2020-11-17T10:49:07-08:00</published>
+    <updated>2020-11-17T10:49:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5676-2"/>
+    <title>5676-2</title>
+    <s:type>Storage Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5676-2_1.jpg?v=1605637362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Basket<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Servilia RectangularWater Hyacinth Basket Set</p><p>Large: W: 17.75" x D: 11.5" x H: 9" x Total H: 12.25"</p><p>Small: W: 15" x D: 9.75" x H: 7" x Total H: 11.25"</p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:tag>Water Hyacinth</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4586233102409</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>5676-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4586233069641</id>
+    <published>2020-11-17T10:49:07-08:00</published>
+    <updated>2020-11-17T10:49:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5675-2"/>
+    <title>5675-2</title>
+    <s:type>Storage Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5675-2_1.jpg?v=1605637296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Basket<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Servilia Round Water Hyacinth Basket Set</p><p>Large: W: 16" x D: 16" x H: 11.25" x Total H: 15"</p><p>Small: W: 13" x D: 13" x H: 9.5" x Total H: 13"</p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 5.35lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:tag>Water Hyacinth</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4586233069641</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>5675-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

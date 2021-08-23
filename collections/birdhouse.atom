@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/birdhouse.atom"/>
+  <title>Cheungs</title>
+  <updated>2019-06-11T09:21:36-07:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/2195071631433</id>
+    <published>2019-06-11T09:21:36-07:00</published>
+    <updated>2019-06-11T09:21:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-18657nl"/>
+    <title>CR-18657NL</title>
+    <s:type>Birdhouse</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-18657_1.JPG?v=1561742098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Birdhouse<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wood  twig 9" wall bird house natural</p><p>L: 5.5" x W: 3.5" x H: 9" x TH: 11.75"</p><p>Roof: 8.5" x 4.5"</p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2195071631433</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>CR-18657NL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419286446153</id>
+    <published>2018-08-02T16:32:21-07:00</published>
+    <updated>2018-08-02T16:32:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5325"/>
+    <title>5325</title>
+    <s:type>Birdhouse</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5325_2.jpg?v=1621367597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Birdhouse<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wood and metal windmill styled birdhouse</p><p>L: 7.75" x W: 7.75" x H: 11.75"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 1.1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/1419286446153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>5325</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419282317385</id>
+    <published>2018-08-02T16:31:50-07:00</published>
+    <updated>2018-08-02T16:31:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5219"/>
+    <title>5219</title>
+    <s:type>Birdhouse</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5219_1_5242990f-41ba-421b-a715-ecc7284c54e6.JPG?v=1558893276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Birdhouse<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal hanging birdhouse décor piece with rope</p><p>L: 12.25" x W: 4.75" x H: 10" x TH: 11.5" x H w/ Rope: 21"</p><p>Dia: 1.25"</p><p>Back door: W: 2.75" x H: 2.25"</p><p></p><p></p><p>Case: 6</p><p>Weight: 1.6lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/1419282317385</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>5219</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419282284617</id>
+    <published>2018-08-02T16:31:50-07:00</published>
+    <updated>2018-08-02T16:31:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5218"/>
+    <title>5218</title>
+    <s:type>Birdhouse</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5218_1.JPG?v=1533254457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Birdhouse<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Galvanized metal hanging birdhouse with top hanging loop</p><p>L: 8" x W: 6.25" x H: 9.25" x TH: 10.5"</p><p>Dia: 1.25"</p><p>Back door: 2.25"</p><p></p><p></p><p>Case: 8</p><p>Weight: 1.3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/1419282284617</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>5218</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419282251849</id>
+    <published>2018-08-02T16:31:50-07:00</published>
+    <updated>2018-08-02T16:31:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5217"/>
+    <title>5217</title>
+    <s:type>Birdhouse</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5217_1.jpg?v=1601672197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Birdhouse<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Galvanized metal hanging birdhouse with top hanging loop</p><p>L: 7" x W: 6.5" x H: 11.5" x TH: 13"</p><p>Dia: 1.25"</p><p>Back door: 2.25"</p><p></p><p></p><p>Case: 6</p><p>Weight: 1.65lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/1419282251849</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>5217</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419281596489</id>
+    <published>2018-08-02T16:31:45-07:00</published>
+    <updated>2018-08-02T16:31:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5202s"/>
+    <title>5202S</title>
+    <s:type>Birdhouse</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5202S_2.JPG?v=1533254103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Birdhouse<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Single story bird house with a single galvanized pot in a fenced yard</p><p>L: 9.5" x W: 5.5" x H: 5.5" x TH: 11"</p><p>Pot: L: 4" x W: 4" x H: 4.5" x Base: 2"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 1.9lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419281596489</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>5202S</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419281563721</id>
+    <published>2018-08-02T16:31:44-07:00</published>
+    <updated>2018-08-02T16:31:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5202l"/>
+    <title>5202L</title>
+    <s:type>Birdhouse</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5202L_2.JPG?v=1533254112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Birdhouse<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Story bird house with a single galvanized pot in a fenced yard</p><p>L: 12.25" x W: 7" x H: 6.5" x TH: 12.5"</p><p>Pot Diameter: 5.5" x H: 5.25" x Base: 3.25"</p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 2.3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419281563721</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>5202L</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11757977429</id>
+    <published>2017-09-21T16:02:41-07:00</published>
+    <updated>2017-09-21T16:02:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-18668"/>
+    <title>CR-18668</title>
+    <s:type>Birdhouse</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-18668NL.jpg?v=1506036754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Birdhouse<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden twig birdhouse</p><p>L: 12" x W: 6" x TH: 18"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11757977429</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>CR-18668</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11757977365</id>
+    <published>2017-09-21T16:02:40-07:00</published>
+    <updated>2017-09-21T16:02:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-18667"/>
+    <title>CR-18667</title>
+    <s:type>Birdhouse</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-18667NL.jpg?v=1506036744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Birdhouse<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden twig birdhouse</p><p>L: 10.5" x W: 4.5" x TH: 14"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11757977365</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>CR-18667</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11757976981</id>
+    <published>2017-09-21T16:02:36-07:00</published>
+    <updated>2017-09-21T16:02:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-18654nl"/>
+    <title>CR-18654NL</title>
+    <s:type>Birdhouse</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-18654NL.JPG?v=1506036706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Birdhouse<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden bark birdhouse on stand</p><p>L:10" x W:10" x 36" h</p><p></p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11757976981</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>CR-18654NL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11757976917</id>
+    <published>2017-09-21T16:02:35-07:00</published>
+    <updated>2017-09-21T16:02:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-18653nl"/>
+    <title>CR-18653NL</title>
+    <s:type>Birdhouse</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-18653NL.JPG?v=1506036695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Birdhouse<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden bark birdhouse on stand</p><p>L:10.5 x W:10.5" x 29.5" h </p><p></p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11757976917</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>CR-18653NL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175182037</id>
+    <published>2017-07-12T15:53:00-07:00</published>
+    <updated>2017-07-12T15:53:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-25957"/>
+    <title>CR-25957</title>
+    <s:type>Birdhouse</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-25957_1.jpg?v=1573500347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Birdhouse<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Twig bird house hanging planter</p><p>L: 12.5" x W: 11" x TH: 13"</p><p></p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175182037</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>CR-25957</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175181973</id>
+    <published>2017-07-12T15:53:00-07:00</published>
+    <updated>2017-07-12T15:53:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-25955"/>
+    <title>CR-25955</title>
+    <s:type>Birdhouse</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-25955_1.jpg?v=1573500344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Birdhouse<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rectangular twig bird house planter</p><p>L: 15" x W: 7" x TH: 10"</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175181973</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CR-25955</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175181909</id>
+    <published>2017-07-12T15:53:00-07:00</published>
+    <updated>2017-07-12T15:53:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-25954"/>
+    <title>CR-25954</title>
+    <s:type>Birdhouse</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-25954_1.jpg?v=1573500337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Birdhouse<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden 2 story twig bird house planter</p><p>L: 13" x W: 8" x TH: 12"</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175181909</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>CR-25954</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175181845</id>
+    <published>2017-07-12T15:52:59-07:00</published>
+    <updated>2017-07-12T15:52:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-25953"/>
+    <title>CR-25953</title>
+    <s:type>Birdhouse</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-25953_1.jpg?v=1573500329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Birdhouse<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hanging twig porch with flat back</p><p>L: 12" x W: 7.5" x TH: 12.75"</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175181845</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CR-25953</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10295368070</id>
+    <published>2017-04-06T15:37:00-07:00</published>
+    <updated>2017-04-06T15:37:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3696"/>
+    <title>FP-3696</title>
+    <s:type>Birdhouse</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3696_1.jpg?v=1571683633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Birdhouse<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden bird house on picket fence stand</p><p>L: 8" x W: 7.25" x 22.5h" h</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 4.4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10295368070</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>FP-3696</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+</feed>

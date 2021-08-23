@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/lifestyles.atom"/>
+  <title>Cheungs</title>
+  <updated>2021-05-26T13:51:43-07:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/6574594392137</id>
+    <published>2021-05-26T13:51:43-07:00</published>
+    <updated>2021-05-26T13:51:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/crlm-08-s"/>
+    <title>CRLM-08-S</title>
+    <s:type>Capiz</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Capiz<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A coastal shell themed capiz display dish</p><p>L: 8" x W: 5.5" x H: 3"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 0.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/6574594392137</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>CRLM-08-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/6574594359369</id>
+    <published>2021-05-26T13:51:43-07:00</published>
+    <updated>2021-05-26T13:51:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/crlm-08-l"/>
+    <title>CRLM-08-L</title>
+    <s:type>Capiz</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Capiz<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A coastal shell themed capiz display dish</p><p>L: 12" x W: 6.75" x H: 5"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 0.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/6574594359369</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>CRLM-08-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/6574594293833</id>
+    <published>2021-05-26T13:51:43-07:00</published>
+    <updated>2021-05-26T13:51:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/crlm-07-m"/>
+    <title>CRLM-07-M</title>
+    <s:type>Capiz</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Capiz<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A scallop shell themed capiz display dish</p><p>L: 7.75" x W: 7.75" x H: 0.75"</p><p></p><p></p><p></p><p></p><p>Case: 24</p><p>Weight: 0.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/6574594293833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>CRLM-07-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4615575339081</id>
+    <published>2021-03-31T15:57:27-07:00</published>
+    <updated>2021-03-31T15:57:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5696gd"/>
+    <title>5696GD</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5696GD_1.jpg?v=1612379629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bannes Bamboo Style Wall Mirror</p><p>W: 20.25" x D: 1.25" x H: 20.25"</p><p></p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 3.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4615575339081</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>5696GD</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4615576223817</id>
+    <published>2021-02-10T15:32:32-08:00</published>
+    <updated>2021-02-10T15:32:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5716gd"/>
+    <title>5716GD</title>
+    <s:type>Table Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5716GD_1.jpg?v=1612379928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Table Décor<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ceili Golden Cast Iron Sea Horse Tray</p><p>L: 5.5" x W: 10.25" x H: 1"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 2.55lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4615576223817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>5716GD</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4615576518729</id>
+    <published>2021-02-10T15:31:28-08:00</published>
+    <updated>2021-02-10T15:31:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5722s"/>
+    <title>5722S</title>
+    <s:type>Shelf</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5722S_1.jpg?v=1612379995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Shelf<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Caler Rowboat Wall Shelf - Small</p><p>W: 13.25" x D: 6.25" x H: 23.75"</p><p></p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 4.9lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4615576518729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>5722S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4615576485961</id>
+    <published>2021-02-10T15:31:27-08:00</published>
+    <updated>2021-02-10T15:31:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5722l"/>
+    <title>5722L</title>
+    <s:type>Shelf</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5722L_1.jpg?v=1612379992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Shelf<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Caler Rowboat Wall Shelf - Large</p><p>W: 16.75" x D: 7.25" x H: 30.25"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 7.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4615576485961</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>5722L</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4615576354889</id>
+    <published>2021-02-10T15:31:04-08:00</published>
+    <updated>2021-02-10T15:31:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5718sf"/>
+    <title>5718SF</title>
+    <s:type>Table Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5718SF_1.jpg?v=1612379939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Table Décor<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ceili Cast Iron Starfish Tray</p><p>L: 8.25" x W: 8.25" x H: 0.5"</p><p></p><p></p><p></p><p></p><p>Case: 16</p><p>Weight: 1.9lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4615576354889</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>5718SF</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4615576322121</id>
+    <published>2021-02-10T15:31:04-08:00</published>
+    <updated>2021-02-10T15:31:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5718f"/>
+    <title>5718F</title>
+    <s:type>Table Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5718F_1.jpg?v=1612379940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Table Décor<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ceili Cast Iron Angel Fish Tray</p><p>L: 7.5" x W: 7.75" x H: 1"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 2.55lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4615576322121</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>5718F</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4615576289353</id>
+    <published>2021-02-10T15:31:04-08:00</published>
+    <updated>2021-02-10T15:31:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5718c"/>
+    <title>5718C</title>
+    <s:type>Table Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5718C_1.jpg?v=1612379926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Table Décor<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ceili Coastal Sea Conch Tray</p><p>L: 5.5" x W: 7.75" x H: 0.5"</p><p></p><p></p><p></p><p></p><p>Case: 16</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4615576289353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>5718C</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4615576420425</id>
+    <published>2021-02-10T15:29:50-08:00</published>
+    <updated>2021-02-10T15:29:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5720-2"/>
+    <title>5720-2</title>
+    <s:type>Table Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5720-2_1.jpg?v=1612379977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Table Décor<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ceili Cast Iron Performing Seal Bookends</p><p>L: 9" x W: 3" x H: 5"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4615576420425</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>5720-2</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4615576387657</id>
+    <published>2021-02-10T15:29:45-08:00</published>
+    <updated>2021-02-10T15:29:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5719-2"/>
+    <title>5719-2</title>
+    <s:type>Table Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5719-2_1.jpg?v=1612379942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Table Décor<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ceili Cast Iron Sail Boat Bookends</p><p>L : 9.5" x W: 3.25" x H: 5.25"</p><p></p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 4.4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4615576387657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>5719-2</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4615576191049</id>
+    <published>2021-02-10T15:29:30-08:00</published>
+    <updated>2021-02-10T15:29:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5715-2"/>
+    <title>5715-2</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5715-2_1.jpg?v=1612379909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Caler 2 Piece Storage Box Set</p><p>Large: W: 11.75" x D: 7.75" x H: 4.75"</p><p>Small: W: 9.75" x D: 6" x H: 3.5"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 3.95lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4615576191049</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>5715-2</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4615576158281</id>
+    <published>2021-02-10T15:29:20-08:00</published>
+    <updated>2021-02-10T15:29:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5714"/>
+    <title>5714</title>
+    <s:type>Wall Sign</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5714_1.jpg?v=1612379897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall Sign<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Caler Coastal Welcome Sign</p><p>W: 31.5" x D: 3.125" x H: 6.25"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1.65lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4615576158281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>5714</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4490597662793</id>
+    <published>2020-06-11T10:24:48-07:00</published>
+    <updated>2020-06-11T10:24:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3368-14"/>
+    <title>FP-3368-14</title>
+    <s:type>Wire Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3368-14_1.jpg?v=1591897089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wire Basket<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14" Rectangular cocolined ledge planter with side handles</p><p>L: 14.5" x W: 5" x 4.5"h x 5.5"th base: 12.5" x 4" </p><p></p><p></p><p></p><p></p><p>Case: 15</p><p>Weight: 1.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4490597662793</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>FP-3368-14</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469918335049</id>
+    <published>2020-05-21T12:19:43-07:00</published>
+    <updated>2020-05-21T12:19:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5664wt"/>
+    <title>5664WT</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5664WT_1.jpg?v=1590091426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White curved ceramic planter</p><p>Dia: 3.75" x H: 4"</p><p>Base: Dia: 3.75"</p><p></p><p></p><p></p><p>Case: 32</p><p>Weight: 0.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469918335049</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>5664WT</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469918302281</id>
+    <published>2020-05-21T12:19:42-07:00</published>
+    <updated>2020-05-21T12:19:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5664grn"/>
+    <title>5664GRN</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5664GRN_1.jpg?v=1590091426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celadon green curved ceramic planter</p><p>Dia: 3.75" x H: 4"</p><p>Base: Dia: 3.75"</p><p></p><p></p><p></p><p>Case: 32</p><p>Weight: 0.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469918302281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>5664GRN</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469918236745</id>
+    <published>2020-05-21T12:19:42-07:00</published>
+    <updated>2020-05-21T12:19:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5664gr"/>
+    <title>5664GR</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5664GR_1.jpg?v=1590091419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray curved ceramic planter</p><p>Dia: 3.75" x H: 4"</p><p>Base: Dia: 3.75"</p><p></p><p></p><p></p><p>Case: 32</p><p>Weight: 0.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469918236745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>5664GR</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469918171209</id>
+    <published>2020-05-21T12:19:41-07:00</published>
+    <updated>2020-05-21T12:19:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5663wt"/>
+    <title>5663WT</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5663WT_1.jpg?v=1590091410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White curved ceramic planter</p><p>Dia: 5" x H: 4.75"</p><p>Base: Dia: 5"</p><p></p><p></p><p></p><p>Case: 18</p><p>Weight: 1.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469918171209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>5663WT</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469918138441</id>
+    <published>2020-05-21T12:19:41-07:00</published>
+    <updated>2020-05-21T12:19:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5663grn"/>
+    <title>5663GRN</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5663GRN_1.jpg?v=1590091408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celadon green curved ceramic planter</p><p>Dia: 5" x H: 4.75"</p><p>Base: Dia: 5"</p><p></p><p></p><p></p><p>Case: 18</p><p>Weight: 1.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469918138441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>5663GRN</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469918105673</id>
+    <published>2020-05-21T12:19:40-07:00</published>
+    <updated>2020-05-21T12:19:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5663gr"/>
+    <title>5663GR</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5663GR_1.jpg?v=1590091403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray curved ceramic planter</p><p>Dia: 5" x H: 4.75"</p><p>Base: Dia: 5"</p><p></p><p></p><p></p><p>Case: 18</p><p>Weight: 1.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469918105673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>5663GR</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469918072905</id>
+    <published>2020-05-21T12:19:40-07:00</published>
+    <updated>2020-05-21T12:19:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5662wt"/>
+    <title>5662WT</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5662WT_1.jpg?v=1590091358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White curved ceramic planter</p><p>Dia: 6.25" x H: 5.5"</p><p>Base: Dia: 6.25"</p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469918072905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>5662WT</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469918040137</id>
+    <published>2020-05-21T12:19:40-07:00</published>
+    <updated>2020-05-21T12:19:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5662grn"/>
+    <title>5662GRN</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5662GRN_1.jpg?v=1590091354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celadon green curved ceramic planter</p><p>Dia: 6.25" x H: 5.5"</p><p>Base: Dia: 6.25"</p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469918040137</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>5662GRN</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469917974601</id>
+    <published>2020-05-21T12:19:39-07:00</published>
+    <updated>2020-05-21T12:19:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5662gr"/>
+    <title>5662GR</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5662GR_1.jpg?v=1590091347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray curved ceramic planter</p><p>Dia: 6.25" x H: 5.5"</p><p>Base: Dia: 6.25"</p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469917974601</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>5662GR</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4469917941833</id>
+    <published>2020-05-21T12:19:39-07:00</published>
+    <updated>2020-05-21T12:19:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5661wt"/>
+    <title>5661WT</title>
+    <s:type>Ceramic</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5661WT_1.jpg?v=1590091325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Ceramic<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White rippled ceramic planter</p><p>Dia: 3" x H: 3.25"</p><p>Base: Dia: 2.25"</p><p></p><p></p><p></p><p>Case: 48</p><p>Weight: 0.45lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4469917941833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>5661WT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

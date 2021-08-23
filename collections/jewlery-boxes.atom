@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/jewlery-boxes.atom"/>
+  <title>Cheungs</title>
+  <updated>2021-02-10T15:29:30-08:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/4615576191049</id>
+    <published>2021-02-10T15:29:30-08:00</published>
+    <updated>2021-02-10T15:29:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5715-2"/>
+    <title>5715-2</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5715-2_1.jpg?v=1612379909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Caler 2 Piece Storage Box Set</p><p>Large: W: 11.75" x D: 7.75" x H: 4.75"</p><p>Small: W: 9.75" x D: 6" x H: 3.5"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 3.95lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4615576191049</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>5715-2</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4609925873737</id>
+    <published>2021-02-05T10:00:39-08:00</published>
+    <updated>2021-02-05T10:00:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3102-2"/>
+    <title>FP-3102-2</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3102-2_1.jpg?v=1612548028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Quintia Baggage Style Two Piece Box Set</p><p>Large: W: 11.75" x D: 7.25" x H: 6.5" x Total H: 8"</p><p>Small: W: 9.75" x D: 5.25" x H : 5.25" x Total H: 6.25"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4609925873737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>FP-3102-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4609925840969</id>
+    <published>2021-02-05T10:00:39-08:00</published>
+    <updated>2021-02-05T10:00:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3101-2"/>
+    <title>FP-3101-2</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3101-2_1.jpg?v=1612548022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Quintia Rectangular Two Piece Box Set</p><p>Large: W: 11.75" x D: 8.75" x H: 4.5"</p><p>Small: W: 9.75" x D: 7.25" x H: 3.25"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4609925840969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>FP-3101-2</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4609925775433</id>
+    <published>2021-02-05T10:00:38-08:00</published>
+    <updated>2021-02-05T10:00:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3100b-2"/>
+    <title>FP-3100B-2</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3100B-2_1.jpg?v=1612548003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Quintia Rounded Two Piece Box Set</p><p>Large: W: 11.75" x D: 6.5" x H: 5"</p><p>Small: W: 9.75" x D: 5.25" x H: 4.25"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4609925775433</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>FP-3100B-2</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4609925742665</id>
+    <published>2021-02-05T10:00:38-08:00</published>
+    <updated>2021-02-05T10:00:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3100a-2"/>
+    <title>FP-3100A-2</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3100A-2_1.jpg?v=1612547981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Quintia Rectangular Two Piece Box Set</p><p>Large: W: 11.75" x D: 6.5" x H: 4"</p><p>Small: W: 9.75" x D: 5.25" x H: 3.25"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4609925742665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>FP-3100A-2</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373241462857</id>
+    <published>2020-01-06T15:48:32-08:00</published>
+    <updated>2020-01-06T15:48:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3992-2w"/>
+    <title>FP-3992-2W</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3992-2W_1.jpg?v=1584053396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Off-white 2 piece storage box set</p><p>Lg: W: 10.25" x D: 6.5" x H: 5.25"</p><p>Sm: L: 8.5" x W: 5" x H: 4"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 3.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373241462857</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>FP-3992-2W</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373241430089</id>
+    <published>2020-01-06T15:48:32-08:00</published>
+    <updated>2020-01-06T15:48:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5540-2wt"/>
+    <title>5540-2WT</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5540-2WT_1.jpg?v=1578357635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White 2 piece woven vinyl storage box set</p><p>Lg: W: 10.25" x D: 6.5" x H: 5"</p><p>Sm: W: 8.5" x D: 5" x H: 3.75"</p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 3.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373241430089</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>5540-2WT</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373241364553</id>
+    <published>2020-01-06T15:48:31-08:00</published>
+    <updated>2020-01-06T15:48:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5540-2bk"/>
+    <title>5540-2BK</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5540-2BK_1.jpg?v=1578357639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black 2 piece woven vinyl storage box set</p><p>Lg: W: 10.25" x D: 6.5" x H: 5"</p><p>Sm: W: 8.5" x D: 5" x H: 3.75"</p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 3.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373241364553</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>5540-2BK</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373241167945</id>
+    <published>2020-01-06T15:48:29-08:00</published>
+    <updated>2020-01-06T15:48:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5627-2"/>
+    <title>5627-2</title>
+    <s:type>storage box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5627-2_1.jpg?v=1578355509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>storage box<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver 2 piece shagreen boxes</p><p>Lg: W: 11.75" x D: 6.75" x H: 6.75"</p><p>Sm: W: 9.5" x D: 5.25" x H: 5.25"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 4.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373241167945</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>5627-2</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373241135177</id>
+    <published>2020-01-06T15:48:28-08:00</published>
+    <updated>2020-01-06T15:48:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5626-2"/>
+    <title>5626-2</title>
+    <s:type>Storage box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5626-2_1.jpg?v=1578355532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage box<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Modern farm 2 piece wood storage boxes</p><p>Lg: W: 11.75" x D: 7.5" x H: 6.5"</p><p>Sm: W: 9.75" x D: 6" x H: 5.25"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 4.6lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373241135177</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>5626-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198643376201</id>
+    <published>2019-06-19T09:15:00-07:00</published>
+    <updated>2019-06-19T09:15:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5540-2"/>
+    <title>5540-2</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5540-2_1.JPG?v=1600468961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 woven brown vinyl pattern boxes with front buckle and bronze corners</p><p>Lg: W: 10.25" x D: 6.5" x H: 5"</p><p>Sm: W: 8.75" x D: 5" x H: 3.75"</p><p>Inner L: W: 9.5" x D: 7.75" x H: 4.5"</p><p>Inner S: W: 7.75" x D: 4" x H: 3.5"</p><p></p><p>Case: 8</p><p>Weight: 3.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198643376201</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>5540-2</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198643343433</id>
+    <published>2019-06-19T09:14:59-07:00</published>
+    <updated>2019-06-19T09:14:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5536-2"/>
+    <title>5536-2</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5536-2_1.JPG?v=1600467485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 wooden storage boxes with top and front rope panels and a metal latch</p><p>Lg: W: 11.75" x D: 7.5" x H: 6.5"</p><p>Sm: W: 9.75" x D: 6" x H: 5.25"</p><p>Inner L: W: 11" x D: 6.25" x H: 5.25"</p><p>Inner S: W: 9" x D: 4.75" x H: 4.25"</p><p></p><p>Case: 6</p><p>Weight: 5.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198643343433</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>5536-2</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198643245129</id>
+    <published>2019-06-19T09:14:58-07:00</published>
+    <updated>2019-06-19T09:14:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5533-2"/>
+    <title>5533-2</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5533-2_1.JPG?v=1600467474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 wooden storage boxes with top and front bamboo weave panels and a metal latch</p><p>Lg: W: 11.75" D: 7.5" x H: 6.5"</p><p>Sm: W: 9.5" x D: 5.75" x H: 5.25"</p><p>Inner L: W: 11" x D: 6.5" x H: 5.25"</p><p>Inner S: W: 8.75" x D: 4.5" x H: 4.25"</p><p></p><p>Case: 6</p><p>Weight: 4.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198643245129</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>5533-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2195071762505</id>
+    <published>2019-06-10T10:04:48-07:00</published>
+    <updated>2019-06-10T10:04:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-2789-2tr"/>
+    <title>FP-2789-2TR</title>
+    <s:type>Storage box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-2789-2TR_1.JPG?v=1560186747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage box<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 curved wooden boxes with Terrarum décor</p><p>Large: L: 12.5" x W: 7" x H: 6.25"</p><p>Small: L: 9.5" x W: 5.5" x H: 5"</p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 6.1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 66</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2195071762505</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>FP-2789-2TR</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000481288265</id>
+    <published>2019-01-02T14:36:47-08:00</published>
+    <updated>2019-01-02T14:36:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5399-2"/>
+    <title>5399-2</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5399-2_1.jpg?v=1609271255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2, wood panel themed storage boxes in a light brown, dark gray and rustic white finish with side bronze metal accents and studs along with a front metal latch</p><p>Large: L: 13.5" x W: 7.5" x H: 7"</p><p>Small: L: 11" x W: 5.75" x H: 5.5"</p><p>Outside: Large: Lid H: 1.75" x Body H: : 5.25" Small: Lid H: 1.25" x Body H: 4.25"</p><p>Inner: Large: 12.5" x W: 6.75" x H: 5" x Lid H: 1.5" Small: L: 10.25" x W: 5" x H: 3.75" x Lid H: 1.25"</p><p></p><p>Case: 4</p><p>Weight: 5.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2000481288265</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>5399-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000481222729</id>
+    <published>2019-01-02T14:36:46-08:00</published>
+    <updated>2019-01-02T14:36:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5398-2"/>
+    <title>5398-2</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5398-2_1.jpg?v=1609271237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2, natural wood storage boxes in a dark brown finish with top and front carved circular accents</p><p>Large: L: 11.75" x W: 7.75" x H: 4.75"</p><p>Small: L: 9.5" x W: 6" x H: 3.5"</p><p>Outside: Large: Lid H: 1.25" x Body H: 3.5" Small: Lid H: 0.75" x Body H: 2.75"</p><p>Inner: Large: L: 11" x W: 7" x H: 3.25" x Lid H: 0.75" Small: L:</p><p></p><p>Case: 8</p><p>Weight: 3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2000481222729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>5398-2</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000477618249</id>
+    <published>2019-01-02T14:36:21-08:00</published>
+    <updated>2019-01-02T14:36:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4929-2gr"/>
+    <title>4929-2GR</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4929-2GR_1.JPG?v=1619029173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 gray washed, wooden storage boxes with front and top beveled mirrors and a center metal latch</p><p>Large: L: 11.75" x W: 7" H: 5.5"</p><p>Small: L: 9.5" x W: 5.5" x H: 4.25"</p><p>Outside: Large: Lid H: 1.25" x Body H: 4.25" Small: Lid H: 1.25" x Body H: 3"</p><p>Inner: Large: L: 11" x W: 6" x H: 4" x Lid H: 1" Small: L: 8.75" x W: 4.5" x H: 3" x Lid H: 0.75"</p><p>Mirrors: Large: L: 9.25" x W: 4.75" Small: L: 7.5" x W: 3.5"</p><p>Case: 6</p><p>Weight: 5.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000477618249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>4929-2GR</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419283890249</id>
+    <published>2018-08-02T16:32:02-07:00</published>
+    <updated>2018-08-02T16:32:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5258-2"/>
+    <title>5258-2</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5258-2_1.JPG?v=1533255696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 white linen boxes with chrome corners a center buckle</p><p>Large: L: 10.25" x W: 6.5" x H:5"</p><p>Small: L: 8.5" x W: 5" x H: 3.75"</p><p>Large: Lid: 1.5" Body: 3.5"</p><p>Small: Lid: 1.5" Body: 2.5"</p><p></p><p>Case: 8</p><p>Weight: 2.9lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419283890249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>5258-2</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419280744521</id>
+    <published>2018-08-02T16:31:36-07:00</published>
+    <updated>2018-08-02T16:31:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4929-2wt"/>
+    <title>4929-2WT</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4929-2WT_1.JPG?v=1565298020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 White Wash Wooden Box with Top and Side Mirror</p><p>Large: L: 11.75" x W: 7" x H: 5.5"</p><p>Small: L: 9.5" x W: 5.5" x H: 4.25"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 6.1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419280744521</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>4929-2WT</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419280711753</id>
+    <published>2018-08-02T16:31:35-07:00</published>
+    <updated>2018-08-02T16:31:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4929-2br"/>
+    <title>4929-2BR</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4929-2BR_1.JPG?v=1565298002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 Natural Brown Wooden Box with Top and Side Mirror</p><p>Large: L: 11.75" x W: 7" x H: 5.5"</p><p>Small: L: 9.5" x W: 5.5" x H: 4.25"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 6.1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419280711753</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>4929-2BR</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/284427517973</id>
+    <published>2018-04-04T12:39:22-07:00</published>
+    <updated>2018-04-04T12:39:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5152-2wt"/>
+    <title>5152-2WT</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5152-2WT_1.jpg?v=1599169781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 White Wash Wood Box with Metal Corner</p><p>Large: L: 12" x W: 6.75" x H: 5.5"</p><p>Small: L: 9.5" x W: 5.25" x H: 4.5"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 3.7lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/284427517973</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>5152-2WT</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/284427485205</id>
+    <published>2018-04-04T12:39:22-07:00</published>
+    <updated>2018-04-04T12:39:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5152-2br"/>
+    <title>5152-2BR</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5152-2BR_1.jpg?v=1599169842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 Brown Wood Box with Metal Corner</p><p>Large: L: 12" x W: 6.75" x H: 5.5"</p><p>Small: L: 9.5" x W: 5.25" x H: 4.5"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 3.7lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/284427485205</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>5152-2BR</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/130150039573</id>
+    <published>2018-01-16T10:44:44-08:00</published>
+    <updated>2018-01-16T10:44:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5154-2sv"/>
+    <title>5154-2SV</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5154-2SV_1.jpg?v=1598982276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 silver vinyl storage box set with chrome corners</p><p>Large: L: 12" x W: 8" x H: 5"</p><p>Small: L: 9.5" x W: 6.5" x H: 3.75"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 4.4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/130150039573</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>5154-2SV</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/130150006805</id>
+    <published>2018-01-16T10:44:43-08:00</published>
+    <updated>2018-01-16T10:44:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5154-2gd"/>
+    <title>5154-2GD</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5154-2GD_1.jpg?v=1598982272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 gold vinyl storage box set with chrome corners</p><p>Large: L: 12" x W: 8" x H: 5"</p><p>Small: L: 9.5" x W: 6.5" x H: 3.75"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 4.4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/130150006805</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>5154-2GD</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10871034837</id>
+    <published>2017-06-28T15:58:20-07:00</published>
+    <updated>2017-06-28T15:58:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-2457b-2"/>
+    <title>FP-2457B-2</title>
+    <s:type>Storage Box</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-2457B-2_1.jpg?v=1616803242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Storage Box<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 wooden box lined</p><p>Large: L: 10.75" x W: 7" x H: 3.25"</p><p>Small: L: 9" x W: 5.5" x H: 2.5"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 3.65lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10871034837</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>FP-2457B-2</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+</feed>

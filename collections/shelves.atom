@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/shelves.atom"/>
+  <title>Cheungs</title>
+  <updated>2021-02-10T15:31:28-08:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/4615576518729</id>
+    <published>2021-02-10T15:31:28-08:00</published>
+    <updated>2021-02-10T15:31:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5722s"/>
+    <title>5722S</title>
+    <s:type>Shelf</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5722S_1.jpg?v=1612379995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Shelf<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Caler Rowboat Wall Shelf - Small</p><p>W: 13.25" x D: 6.25" x H: 23.75"</p><p></p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 4.9lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4615576518729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>5722S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4615576485961</id>
+    <published>2021-02-10T15:31:27-08:00</published>
+    <updated>2021-02-10T15:31:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5722l"/>
+    <title>5722L</title>
+    <s:type>Shelf</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5722L_1.jpg?v=1612379992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Shelf<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Caler Rowboat Wall Shelf - Large</p><p>W: 16.75" x D: 7.25" x H: 30.25"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 7.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4615576485961</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>5722L</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2217043886153</id>
+    <published>2019-07-21T10:24:18-07:00</published>
+    <updated>2019-07-21T10:24:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5530"/>
+    <title>5530</title>
+    <s:type>Shelf</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5530_1.JPG?v=1563737845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Shelf<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden 3 Tier 2 Drawer Shelf</p><p>W: 36" x D: 13.75" x H: 36.75"</p><p>Shelving Space: W: 33.5" x D: 13" x H: 11"</p><p>Drawers: W: 14" x D: 11" x H: 5"</p><p>Floor Clearance: 4"</p><p>Wood Thickness: 1.25"</p><p>Case: 1</p><p>Weight: 33lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2217043886153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>5530</s:sku>
+      <s:grams>33</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2208462209097</id>
+    <published>2019-07-06T20:01:12-07:00</published>
+    <updated>2019-07-06T20:01:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5531"/>
+    <title>5531</title>
+    <s:type>Shelf</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5531_1.JPG?v=1562470519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Shelf<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden 3 Tier Shelf</p><p>W: 32" x D: 13.5" x H: 30.25"</p><p>Table Top: W: 32" x D: 13.5" x Thickness: 1"</p><p>Shelf: W: 27.5" D: 13" x Thickness: 1" x Height: 12"</p><p>Floor to Base: 3"</p><p></p><p>Case: 1</p><p>Weight: 17.1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2208462209097</id>
+      <title>Default Title</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>5531</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000481976393</id>
+    <published>2019-01-02T14:36:52-08:00</published>
+    <updated>2019-01-02T14:36:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5415"/>
+    <title>5415</title>
+    <s:type>Shelf</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5415_1.jpg?v=1621367891"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Shelf<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ribbed Metal Wall Hanging Boat with Wood Shelves</p><p>TH: 23.25" x W:10.5" x D: 4"</p><p>Shelf Distance: Large: 10" Medium: 6" Small: 5"</p><p>Shelf Dimension: Top: 9.25" x 3.75" Mid: 10" x 3.75" Btm: 7.25" x 3.75"</p><p></p><p></p><p>Case: 6</p><p>Weight: 2.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2000481976393</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>5415</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000478339145</id>
+    <published>2019-01-02T14:36:26-08:00</published>
+    <updated>2019-01-02T14:36:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5342"/>
+    <title>5342</title>
+    <s:type>Shelf</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5342_1.jpg?v=1621367627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Shelf<br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 tier display piece with a barred, metal frame and wooden shelves</p><p>W: 20.5" x D: 12.5 x H: 39.75"</p><p>Shelf: W: 19.5" x D: 11.75" x Thickness: 0.5" Distance B/W Shelves: 13.5"</p><p>Feet: (From floor to bottom shelf: 5.25"</p><p></p><p>Bottom Protectors: Plastic feet</p><p>Case: 1</p><p>Weight: 14.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2000478339145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>5342</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000478306377</id>
+    <published>2019-01-02T14:36:25-08:00</published>
+    <updated>2019-01-02T14:36:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5341"/>
+    <title>5341</title>
+    <s:type>Shelf</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5341_1.jpg?v=1621367624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Shelf<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tall, 3 tier, folding metal shelf with galvanied metal shelves and a steel frame</p><p>TH: 39.75" x W: 27.5" x D: 16"</p><p>Top Shelf: L:21.25" x D: 6.5"</p><p>Middle: L: 24.25" x D: 9.25"</p><p></p><p>Bottom Protectors: Plastic feet</p><p>Case: 1</p><p>Weight: 16.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2000478306377</id>
+      <title>Default Title</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>5341</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419283398729</id>
+    <published>2018-08-02T16:31:58-07:00</published>
+    <updated>2018-08-02T16:31:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5241"/>
+    <title>5241</title>
+    <s:type>Shelf</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5241_1.jpg?v=1591218017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Shelf<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 tier wooden wall shelf with a curved metal frame</p><p>L: 22" x W: 7.25" x H: 18"</p><p>Shelf Distance: 9" Wood Thickness: 0.5" Shelf: L: 6.75" x W: 22.25"</p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419283398729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>5241</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419283365961</id>
+    <published>2018-08-02T16:31:58-07:00</published>
+    <updated>2018-08-02T16:31:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5240"/>
+    <title>5240</title>
+    <s:type>Shelf</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5240_1.jpg?v=1591218011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Shelf<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 tier wooden wall shelf with a curved metal frame</p><p>L: 18" x W: 6.75" x H: 26.5"</p><p>Shelf Distance: 8.25" Wood Thickness: 0.5" Shelf: L: 6.75" x W: 18"</p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 5.95lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419283365961</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>5240</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841993877</id>
+    <published>2017-06-23T12:59:06-07:00</published>
+    <updated>2017-06-23T12:59:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4950"/>
+    <title>4950</title>
+    <s:type>Shelf</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4950_1.jpg?v=1627929581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Shelf<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden 3 tier side table or shelf</p><p>L: 20.25" x W: 11" x H: 28.75"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 6lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10841993877</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>4950</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841993813</id>
+    <published>2017-06-23T12:59:06-07:00</published>
+    <updated>2017-06-23T12:59:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4949"/>
+    <title>4949</title>
+    <s:type>Shelf</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4949_1.jpg?v=1601672177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Shelf<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden 5 tier shelf</p><p>L: 19" x W: 12.25" x H: 47"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 11lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10841993813</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>4949</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841980437</id>
+    <published>2017-06-23T12:58:19-07:00</published>
+    <updated>2017-06-23T12:58:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4841"/>
+    <title>4841</title>
+    <s:type>Shelf</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4841_1.jpg?v=1618941848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Shelf<br>
+        <strong>Price: </strong>
+            172.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 Tier wood shelf with metal frame</p><p>L: 20" x W: 13.5" x H: 57" x TH: 64"</p><p>Tray: L: 18" x W: 11.5" x H: 2"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 27lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841980437</id>
+      <title>Default Title</title>
+      <s:price currency="USD">172.00</s:price>
+      <s:sku>4841</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841978453</id>
+    <published>2017-06-23T12:58:16-07:00</published>
+    <updated>2017-06-23T12:58:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4808"/>
+    <title>4808</title>
+    <s:type>Shelf</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4808_1.jpg?v=1591819356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Shelf<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Tier wooden shelf with gold frame</p><p>L: 20.75" x W: 6.5" x H: 16.5"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 3.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10841978453</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>4808</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841978389</id>
+    <published>2017-06-23T12:58:16-07:00</published>
+    <updated>2017-06-23T12:58:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4807"/>
+    <title>4807</title>
+    <s:type>Shelf</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4807_1.jpg?v=1621880661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Shelf<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 Tier wooden shelf with gold frame</p><p>L: 20.75" x W: 6.5" x H: 24"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 4.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10841978389</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>4807</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10572140757</id>
+    <published>2017-05-12T16:01:03-07:00</published>
+    <updated>2017-05-12T16:01:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3494s"/>
+    <title>FP-3494S</title>
+    <s:type>Shelf</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3494S_1.jpg?v=1621368286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Shelf<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small wooden blue canoe shelf with top rope handle</p><p>W: 12.75" x D: 5.75" x H: 23" x TH: 25.5"</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 3.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10572140757</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>FP-3494S</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10572140629</id>
+    <published>2017-05-12T16:01:03-07:00</published>
+    <updated>2017-05-12T16:01:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3494l"/>
+    <title>FP-3494L</title>
+    <s:type>Shelf</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3494L_1.jpg?v=1621368287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Shelf<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large wooden blue canoe shelf with top rope handle</p><p>L: 34.25" x W: 16" x 7"h</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 7lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10572140629</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>FP-3494L</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10180207366</id>
+    <published>2017-03-29T11:35:35-07:00</published>
+    <updated>2017-03-29T11:35:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3862w"/>
+    <title>FP-3862W</title>
+    <s:type>Tiered Planters &amp; Stands</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3862W_1.jpg?v=1571684014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tiered Planters &amp; Stands<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 tier wooden shelf stand in white tone</p><p>L: 16.5" x W: 13.75" x 44" h</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 8.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shelf</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10180207366</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>FP-3862W</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10180207238</id>
+    <published>2017-03-29T11:35:35-07:00</published>
+    <updated>2017-03-29T11:35:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3862"/>
+    <title>FP-3862</title>
+    <s:type>Tiered Planters &amp; Stands</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3862_1.jpg?v=1608577725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tiered Planters &amp; Stands<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 tier wooden shelf stand in dark brown tone</p><p>L: 16.5" x W: 13.75" x 44" h</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 8.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shelf</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10180207238</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>FP-3862</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/9099433030</id>
+    <published>2016-12-11T17:21:11-08:00</published>
+    <updated>2016-12-11T17:21:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4022"/>
+    <title>FP-4022</title>
+    <s:type>Shelf</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4022_1.jpg?v=1621368906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Shelf<br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal 4 tier shelf rack with 3 wood shelves</p><p>L: 20" x W: 13.5" x H: 49"</p><p>Top: 21.75" x 15"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 18lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/9099433030</id>
+      <title>Default Title</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>FP-4022</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8900784326</id>
+    <published>2016-11-10T14:13:26-08:00</published>
+    <updated>2016-11-10T14:13:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4253"/>
+    <title>FP-4253</title>
+    <s:type>Shelf</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4253_1.JPG?v=1557971648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Shelf<br>
+        <strong>Price: </strong>
+            88.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Staggered 3 tier wood stand</p><p>L: 31.25" x W: 16" x 36.75"h</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 15.70lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/8900784326</id>
+      <title>Default Title</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>FP-4253</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8900784582</id>
+    <published>2016-11-10T14:13:00-08:00</published>
+    <updated>2016-11-10T14:13:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4257"/>
+    <title>FP-4257</title>
+    <s:type>Shelf</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4257_1.jpg?v=1579202149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Shelf<br>
+        <strong>Price: </strong>
+            154.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal shelf with 5 folding storage bins</p><p>L: 20" x W: 15.75" x 65"h</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 20lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/8900784582</id>
+      <title>Default Title</title>
+      <s:price currency="USD">154.00</s:price>
+      <s:sku>FP-4257</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8900784518</id>
+    <published>2016-11-10T14:13:00-08:00</published>
+    <updated>2016-11-10T14:13:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4256"/>
+    <title>FP-4256</title>
+    <s:type>Shelf</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4256_1.JPG?v=1557971661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Shelf<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 Tier wood shelf with metal frame and wheels</p><p>L: 38.5" x W: 13.25" x 37.25"h</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 20.10lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/8900784518</id>
+      <title>Default Title</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>FP-4256</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8900784454</id>
+    <published>2016-11-10T14:13:00-08:00</published>
+    <updated>2016-11-10T14:13:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4255"/>
+    <title>FP-4255</title>
+    <s:type>Shelf</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4255_1.JPG?v=1557971700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Shelf<br>
+        <strong>Price: </strong>
+            148.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 Tier wood shelf with metal frame and bottom wheels</p><p>L: 38.5" x W: 13.25" x 51"h</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 32.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/8900784454</id>
+      <title>Default Title</title>
+      <s:price currency="USD">148.00</s:price>
+      <s:sku>FP-4255</s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8900784390</id>
+    <published>2016-11-10T14:13:00-08:00</published>
+    <updated>2016-11-10T14:13:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4254"/>
+    <title>FP-4254</title>
+    <s:type>Shelf</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4254.jpg?v=1481598076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Shelf<br>
+        <strong>Price: </strong>
+            220.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wood table stand with vertical metal riser and coat hanger with wire frame..</p><p>L: 33.5" x W: 14.25" x 64"h</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/8900784390</id>
+      <title>Default Title</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku>FP-4254</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+</feed>

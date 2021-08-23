@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/freestanding-a-boards.atom"/>
+  <title>Cheungs</title>
+  <updated>2020-01-06T15:48:39-08:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/4373242085449</id>
+    <published>2020-01-06T15:48:39-08:00</published>
+    <updated>2020-01-06T15:48:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5643"/>
+    <title>5643</title>
+    <s:type>Freestanding &amp; A-Frames</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5643_1.jpg?v=1578355667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Freestanding &amp; A-Frames<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sleek, rounded 71" bamboo ladder</p><p>W: 17" x D: 1.5" x H: 71"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373242085449</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>5643</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2217044967497</id>
+    <published>2019-07-21T10:24:35-07:00</published>
+    <updated>2019-07-21T10:24:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5582"/>
+    <title>5582</title>
+    <s:type>Freestanding &amp; A-Frames</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5582_1.JPG?v=1564069308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Freestanding &amp; A-Frames<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Bamboo Patterned Metal Towel and Blanket Rack</p><p>W: 18.5" x D: 14.25" x H: 44"</p><p>Base: W: 18.5" x D: 14.25"</p><p>Rung: Width: 17.25" x Dia: 0.5"</p><p>Distance between rungs: 10.25"</p><p>Floor to 3rd Rung: H: 22.25"</p><p>Case: 4</p><p>Weight: 4.05lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2217044967497</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>5582</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2217044934729</id>
+    <published>2019-07-21T10:24:35-07:00</published>
+    <updated>2019-07-21T10:24:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5581"/>
+    <title>5581</title>
+    <s:type>Freestanding &amp; A-Frames</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5581_1_2d9cf9fb-69d5-4186-835a-352fdf0fe603.JPG?v=1564069307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Freestanding &amp; A-Frames<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Bamboo Patterned Metal Towel and Blanket Rack</p><p>W: 22" x D: 16.5" x Front H: 34.25" x Back H: 39.5"</p><p>Rung: Width: 22' x Dia: 0.5"</p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 4.15lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2217044934729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>5581</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000480796745</id>
+    <published>2019-01-02T14:36:43-08:00</published>
+    <updated>2019-01-02T14:36:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5391"/>
+    <title>5391</title>
+    <s:type>Freestanding &amp; A-Frames</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5391_1.JPG?v=1546470782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Freestanding &amp; A-Frames<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Natural wooden, 8 rung ladder with 2 small, 2 medium and 1 large storage basket with double rear hanging hooks</p><p>H: 63" x W: 15" x D: 4"</p><p>Large Basket: H: 9.5" x W: 12.5" x D: 3" x FH: 7.25"</p><p>Medium Baskets: H: 6.5" x W: 12.5" x D: 3" x FH: 4.25"</p><p>Small Baskets: H: 6.75" x W: 6.25" x D: 3" x FH: 4.25"</p><p>Ladder Side Thickness: Width: 1" x D: 1.25" Rung: Dia: 2.75" x W: 13" Floor to first rung: 3.75" Distance b/w rungs: 6" or 7.5" Optimal distance between baskets: 10.5"</p><p>Case: </p><p>Weight: 6.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000480796745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>5391</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000479846473</id>
+    <published>2019-01-02T14:36:36-08:00</published>
+    <updated>2019-01-02T14:36:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5368"/>
+    <title>5368</title>
+    <s:type>Freestanding &amp; A-Frames</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5368_1.jpg?v=1621367740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Freestanding &amp; A-Frames<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden 4 step symmetrical ladder with 3 metal hanging baskets and dual top metal hooks</p><p>H:59.25" x W: 17.5" x D: 2.25" x Total depth: 6.25"</p><p>Baskets: H: 7.75: x W: 12.25" x D: 5.25" Clearance between baskets: 5" Inner Dimensions: H: 7.5" x W: 11.75" x D: 4.75"</p><p>Hooks: H: 4.25" x D: 3.25" Distance Between Hooks: 5.5"</p><p>Floor to bottom of first rung: 8.25" Rung Dimensions: H: 1.5" x W: 12.75" x D: 0.75"</p><p></p><p>Case: 1</p><p>Weight: 10.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000479846473</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>5368</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419285921865</id>
+    <published>2018-08-02T16:32:17-07:00</published>
+    <updated>2018-08-02T16:32:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5310wt"/>
+    <title>5310WT</title>
+    <s:type>Freestanding &amp; A-Frames</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5310WT_1.jpg?v=1621367578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Freestanding &amp; A-Frames<br>
+        <strong>Price: </strong>
+            43.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White natural wood ladder</p><p>W: 15.25" x D: 1.25" x H: 59"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 6.15lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419285921865</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku>5310WT</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419285889097</id>
+    <published>2018-08-02T16:32:17-07:00</published>
+    <updated>2018-08-02T16:32:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5310"/>
+    <title>5310</title>
+    <s:type>Freestanding &amp; A-Frames</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5310_1.jpg?v=1621367574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Freestanding &amp; A-Frames<br>
+        <strong>Price: </strong>
+            43.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Natural wood ladder</p><p>W: 15.25" x D: 1.25" x H: 59"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 6.15lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419285889097</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku>5310</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/284427026453</id>
+    <published>2018-04-04T12:39:20-07:00</published>
+    <updated>2018-04-04T12:39:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5123"/>
+    <title>5123</title>
+    <s:type>Freestanding &amp; A-Frames</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5123_1.jpg?v=1593398386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Freestanding &amp; A-Frames<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wood Ladder with 4 Galvanized Metal Baskets</p><p></p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/284427026453</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>5123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906610901</id>
+    <published>2017-10-19T10:14:00-07:00</published>
+    <updated>2017-10-19T10:14:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5045"/>
+    <title>5045</title>
+    <s:type>Freestanding &amp; A-Frames</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5045_1.jpg?v=1599169709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Freestanding &amp; A-Frames<br>
+        <strong>Price: </strong>
+            64.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden decorative ladder. </p><p>L: 19.25" x W: 2"  x H: 71"</p><p></p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 11.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/11906610901</id>
+      <title>Default Title</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>5045</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841978581</id>
+    <published>2017-06-23T12:58:16-07:00</published>
+    <updated>2017-06-23T12:58:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4809"/>
+    <title>4809</title>
+    <s:type>Freestanding &amp; A-Frames</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4809_1.jpg?v=1618941856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Freestanding &amp; A-Frames<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 Tier wire basket and metal frame storage stand</p><p>L: 16" x W: 11.5" x H: 36"</p><p></p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 7.6lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10841978581</id>
+      <title>Default Title</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>4809</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10572140501</id>
+    <published>2017-05-12T16:01:03-07:00</published>
+    <updated>2017-05-12T16:01:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3492"/>
+    <title>FP-3492</title>
+    <s:type>Freestanding &amp; A-Frames</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3492_1.jpg?v=1593399749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Freestanding &amp; A-Frames<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small Rustic Metal Easel </p><p>L: 9.5" x W: 6.25" x H: 13.75"</p><p></p><p></p><p></p><p>7</p><p>Case: 18</p><p>Weight: 0.45lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10572140501</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>FP-3492</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10572140373</id>
+    <published>2017-05-12T16:01:02-07:00</published>
+    <updated>2017-05-12T16:01:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3491"/>
+    <title>FP-3491</title>
+    <s:type>Freestanding &amp; A-Frames</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3491_1.jpg?v=1599074111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Freestanding &amp; A-Frames<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medium Rustic Metal Easel</p><p>L: 12" x W: 10.25" x H: 24.25"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1.3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10572140373</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>FP-3491</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10572140245</id>
+    <published>2017-05-12T16:01:02-07:00</published>
+    <updated>2017-05-12T16:01:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3490"/>
+    <title>FP-3490</title>
+    <s:type>Freestanding &amp; A-Frames</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3490_1.jpg?v=1591218030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Freestanding &amp; A-Frames<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large metal easel</p><p>L: 21" x W: 1" x 48"h</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 2.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10572140245</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>FP-3490</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8900787014</id>
+    <published>2016-11-10T14:13:33-08:00</published>
+    <updated>2016-11-10T14:13:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4290"/>
+    <title>FP-4290</title>
+    <s:type>Chalkboard</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4290_1.jpg?v=1591218092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chalkboard<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large double sided A-stand chalkboard</p><p>L: 19.5" x W: 12.25" x 1.5"h</p><p></p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 2.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/8900787014</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>FP-4290</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8900786950</id>
+    <published>2016-11-10T14:13:32-08:00</published>
+    <updated>2016-11-10T14:13:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4289"/>
+    <title>FP-4289</title>
+    <s:type>Chalkboard</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4289.jpg?v=1481937699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chalkboard<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small double sided A-stand chalkboard</p><p>L: 9.75" x W: 8" x 1"h</p><p></p><p></p><p></p><p></p><p>Case: 20</p><p>Weight: 0.85lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/8900786950</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>FP-4289</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8894269766</id>
+    <published>2016-11-09T14:13:55-08:00</published>
+    <updated>2016-11-09T14:13:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4312"/>
+    <title>FP-4312</title>
+    <s:type>Tiered Planters &amp; Stands</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4312_1.JPG?v=1563834891"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Tiered Planters &amp; Stands<br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden 3 tiered A-board stand with top chalkboard..</p><p>L: 21.75" x W: 23.75" x 51"h</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 7.85lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/8894269766</id>
+      <title>Default Title</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>FP-4312</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8547012358</id>
+    <published>2016-09-12T21:46:00-07:00</published>
+    <updated>2016-09-12T21:46:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4606"/>
+    <title>4606</title>
+    <s:type>Freestanding &amp; A-Frames</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4606_1.jpg?v=1618940568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Freestanding &amp; A-Frames<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Verticle wooden wall stand with 4 metal baskets</p><p>H: 73.25" x W: 23.75" x D: 8.5"</p><p></p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 11lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/8547012358</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>4606</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+</feed>

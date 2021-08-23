@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/vase.atom"/>
+  <title>Cheungs</title>
+  <updated>2017-10-19T10:14:16-07:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/11906614549</id>
+    <published>2017-10-19T10:14:16-07:00</published>
+    <updated>2017-10-19T10:14:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5077"/>
+    <title>5077</title>
+    <s:type>Vase</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5077.jpg?v=1624383518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Green and bronze metal vase with diamond pattern and two handles. </p><p>L: 6.5" x W: 6.5" x H: 25"</p><p>Opening: 4.25" x 4.25"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 3.3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/11906614549</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>5077</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10684989973</id>
+    <published>2017-06-05T11:51:47-07:00</published>
+    <updated>2017-06-05T11:51:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-2994"/>
+    <title>FP-2994</title>
+    <s:type>Vase</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-2994.JPG?v=1496690370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tall 25.25" metal vase</p><p>L: 10.75" x W: 10.75" x 25.25"h</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 6.1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10684989973</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>FP-2994</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8547030086</id>
+    <published>2016-09-12T21:46:56-07:00</published>
+    <updated>2016-09-12T21:46:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4769"/>
+    <title>4769</title>
+    <s:type>Metal Vase</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4769_1.jpg?v=1569443617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Vase<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bronze dotted metal vase with intertwined center pattern</p><p>L: 6" x W: 6" x H: 15"</p><p>Opening: 4" x 4"</p><p>Narrow pt: 3" x 3"</p><p></p><p></p><p>Case: 12</p><p>Weight: 1.1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/8547030086</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>4769</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8547029894</id>
+    <published>2016-09-12T21:46:56-07:00</published>
+    <updated>2016-09-12T21:46:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4767"/>
+    <title>4767</title>
+    <s:type>Metal Vase</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4767.jpg?v=1618941372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Vase<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bronze metal vase with center floral accent</p><p>L: 6" x W: 6" x H: 25"</p><p>Opening: 4.75" x 4.75"</p><p>Narrow pt: 2.5" x 2.5"</p><p></p><p></p><p>Case: 4</p><p>Weight: 3.1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/8547029894</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>4767</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+</feed>

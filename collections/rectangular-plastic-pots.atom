@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/rectangular-plastic-pots.atom"/>
+  <title>Cheungs</title>
+  <updated>2017-04-13T09:43:52-07:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/10365766918</id>
+    <published>2017-04-13T09:43:52-07:00</published>
+    <updated>2017-04-13T09:43:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/pp-112wt"/>
+    <title>PP-112WT</title>
+    <s:type>Rectangular PP</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/PP-112WT.JPG?v=1492116155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Rectangular PP<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>8.25 inch White rectangular tapered recycled plastic pot</p><p>Top: 8.25" x 5.5" x 4.25"h </p><p></p><p>Base: 6.75" x 4"</p><p></p><p></p><p>Case: 24</p><p>Weight: 1.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8.25 Inch</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10365766918</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>PP-112WT</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10365766854</id>
+    <published>2017-04-13T09:43:52-07:00</published>
+    <updated>2017-04-13T09:43:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/pp-112sv"/>
+    <title>PP-112SV</title>
+    <s:type>Rectangular PP</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/PP-112SV.jpg?v=1492116108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Rectangular PP<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>8.25 inch Silver rectangular tapered recycled plastic pot</p><p>Top: 8.25" x 5.5" x 4.25"h </p><p></p><p>Base: 6.75" x 4"</p><p></p><p></p><p>Case: 24</p><p>Weight: 1.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8.25 Inch</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10365766854</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>PP-112SV</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10365766790</id>
+    <published>2017-04-13T09:43:52-07:00</published>
+    <updated>2017-04-13T09:43:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/pp-112sr"/>
+    <title>PP-112SR</title>
+    <s:type>Rectangular PP</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/PP-112SR.JPG?v=1492115796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Rectangular PP<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>8.25 inch Shiny red rectangular tapered recycled plastic pot</p><p>Top: 8.25" x 5.5" x 4.25"h </p><p></p><p>Base: 6.75" x 4"</p><p></p><p></p><p>Case: 24</p><p>Weight: 1.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8.25 Inch</s:tag>
+    <s:tag>Shiny Red</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10365766790</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>PP-112SR</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10365766662</id>
+    <published>2017-04-13T09:43:52-07:00</published>
+    <updated>2017-04-13T09:43:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/pp-112rb"/>
+    <title>PP-112RB</title>
+    <s:type>Rectangular PP</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/PP-112RB_1.jpg?v=1597769964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Rectangular PP<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>8.25 inch Rustic blue rectangular tapered recycled plastic pot</p><p>Top: 8.25" x 5.5" x 4.25"h </p><p></p><p>Base: 6.75" x 4"</p><p></p><p></p><p>Case: 24</p><p>Weight: 1.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8.25 Inch</s:tag>
+    <s:tag>Rustic Blue</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10365766662</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>PP-112RB</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10365766534</id>
+    <published>2017-04-13T09:43:51-07:00</published>
+    <updated>2017-04-13T09:43:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/pp-112lg"/>
+    <title>PP-112LG</title>
+    <s:type>Rectangular PP</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/PP-112LG_1.jpg?v=1601672353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Rectangular PP<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>8.25 inch Light gray rectangular tapered recycled plastic pot</p><p>Top: 8.25" x 5.5" x 4.25"h </p><p></p><p>Base: 6.75" x 4"</p><p></p><p></p><p>Case: 24</p><p>Weight: 1.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8.25 Inch</s:tag>
+    <s:tag>Light Gray</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10365766534</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>PP-112LG</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10365766342</id>
+    <published>2017-04-13T09:43:51-07:00</published>
+    <updated>2017-04-13T09:43:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/pp-112gd"/>
+    <title>PP-112GD</title>
+    <s:type>Rectangular PP</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/PP-112GD.jpg?v=1492115574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Rectangular PP<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>8.25 inch Gold rectangular tapered recycled plastic pot</p><p>Top: 8.25" x 5.5" x 4.25"h </p><p></p><p>Base: 6.75" x 4"</p><p></p><p></p><p>Case: 24</p><p>Weight: 1.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8.25 Inch</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10365766342</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>PP-112GD</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10365766278</id>
+    <published>2017-04-13T09:43:51-07:00</published>
+    <updated>2017-04-13T09:43:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/pp-112cr"/>
+    <title>PP-112CR</title>
+    <s:type>Rectangular PP</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/PP-112CR.jpg?v=1492115559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Rectangular PP<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>8.25 inch Cream rectangular tapered recycled plastic pot</p><p>Top: 8.25" x 5.5" x 4.25"h </p><p></p><p>Base: 6.75" x 4"</p><p></p><p></p><p>Case: 24</p><p>Weight: 1.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8.25 Inch</s:tag>
+    <s:tag>Cream</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10365766278</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>PP-112CR</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10365766214</id>
+    <published>2017-04-13T09:43:51-07:00</published>
+    <updated>2017-04-13T09:43:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/pp-112bk"/>
+    <title>PP-112BK</title>
+    <s:type>Rectangular PP</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/PP-112BK.JPG?v=1492115542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Rectangular PP<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>8.25 inch Black rectangular tapered recycled plastic pot</p><p>Top: 8.25" x 5.5" x 4.25"h </p><p></p><p>Base: 6.75" x 4"</p><p></p><p></p><p>Case: 24</p><p>Weight: 1.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8.25 Inch</s:tag>
+    <s:tag>Black</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10365766214</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>PP-112BK</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10365766086</id>
+    <published>2017-04-13T09:43:50-07:00</published>
+    <updated>2017-04-13T09:43:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/pp-112bi"/>
+    <title>PP-112BI</title>
+    <s:type>Rectangular PP</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/PP-112BI.jpg?v=1492115461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Rectangular PP<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>8.25 inch Brown/Ivory rectangular tapered recycled plastic pot</p><p>Top: 8.25" x 5.5" x 4.25"h </p><p></p><p>Base: 6.75" x 4"</p><p></p><p></p><p>Case: 24</p><p>Weight: 1.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8.25 Inch</s:tag>
+    <s:tag>Brown/Ivory</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10365766086</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>PP-112BI</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+</feed>

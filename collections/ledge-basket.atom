@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/ledge-basket.atom"/>
+  <title>Cheungs</title>
+  <updated>2020-06-11T10:24:48-07:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/4490597662793</id>
+    <published>2020-06-11T10:24:48-07:00</published>
+    <updated>2020-06-11T10:24:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3368-14"/>
+    <title>FP-3368-14</title>
+    <s:type>Wire Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3368-14_1.jpg?v=1591897089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wire Basket<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14" Rectangular cocolined ledge planter with side handles</p><p>L: 14.5" x W: 5" x 4.5"h x 5.5"th base: 12.5" x 4" </p><p></p><p></p><p></p><p></p><p>Case: 15</p><p>Weight: 1.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4490597662793</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>FP-3368-14</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10587524181</id>
+    <published>2017-05-15T16:03:30-07:00</published>
+    <updated>2017-05-15T16:03:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3368-19"/>
+    <title>FP-3368-19</title>
+    <s:type>Wire Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3368-18-1.jpg?v=1585510489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wire Basket<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>19" Rectangular cocolined ledge planter with side handles</p><p>L: 19.25" x W: 6.75" x 6"h x 7"th base: 17" x 4.5"</p><p></p><p></p><p></p><p></p><p>Case: 15</p><p>Weight: 1.35lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10587524181</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>FP-3368-19</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+</feed>

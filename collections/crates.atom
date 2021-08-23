@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/crates.atom"/>
+  <title>Cheungs</title>
+  <updated>2020-01-20T14:08:22-08:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/4380041740361</id>
+    <published>2020-01-20T14:08:22-08:00</published>
+    <updated>2020-01-20T14:08:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4187-3wt"/>
+    <title>FP-4187-3WT</title>
+    <s:type>Crate</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4187-3WT_1.jpg?v=1579559067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Crate<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 tapered wood crates with front and back farmhouse style wire panels and side rope handles</p><p>Lg: Top W: 12.5" x Bot W: 10.5" x Top D: 8.75" x Bot D: 6.75" x H: 4.5"</p><p>Md: Top W: 10.75" x Bot W: 9" x Top D: 7.25" x Bot D: 5.5" x H: 4</p><p>Sm: Top W: 9.5" x Bot W: 7.75" x Top D: 6" x Bot D: 4.5" x H: 3.75"</p><p></p><p></p><p>Case: 10</p><p>Weight: 1.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4380041740361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>FP-4187-3WT</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4379058765897</id>
+    <published>2020-01-17T12:16:06-08:00</published>
+    <updated>2020-01-17T12:16:06-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4712-3gw"/>
+    <title>4712-3GW</title>
+    <s:type>Crate</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4712-3GW_1.jpg?v=1618940937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Crate<br>
+        <strong>Price: </strong>
+            24.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 rectangular white washed wooden storage crates</p><p>Large: L: 15" x W: 9.5" x H: 4"</p><p>Medium: L: 13.25" x W: 8" x H: 3.75"</p><p>Small: L: 11.75" x W: 6" x H: 3.25"</p><p></p><p></p><p>Case: 12</p><p>Weight: 2.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4379058765897</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.50</s:price>
+      <s:sku>4712-3GW</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373242150985</id>
+    <published>2020-01-06T15:48:40-08:00</published>
+    <updated>2020-01-06T15:48:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5645-2"/>
+    <title>5645-2</title>
+    <s:type>Crate</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5645-2_1.jpg?v=1578355758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Crate<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Piece natural wood bar tray set</p><p>Lg: L: 15.25" x W: 9.75" x H: 4.5"</p><p>Sm: L: 12.25" x W: 7.25" x H: 3.75"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373242150985</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>5645-2</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373241659465</id>
+    <published>2020-01-06T15:48:34-08:00</published>
+    <updated>2020-01-06T15:48:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5633-3"/>
+    <title>5633-3</title>
+    <s:type>Crate</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5633-3_1.jpg?v=1578355372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Crate<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Natural wood 3 piece rectangular crate set</p><p>Lg: L: 15.75" x W: 9.75" x H: 3.5"</p><p>Md: L: 14.5" x W: 8.5" x H: 3.5"</p><p>Sm: L: 13.5" x W: 7.5" x H: 3.25"</p><p></p><p></p><p>Case: 10</p><p>Weight: 2.65lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373241659465</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>5633-3</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373241626697</id>
+    <published>2020-01-06T15:48:34-08:00</published>
+    <updated>2020-01-06T15:48:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5632-3"/>
+    <title>5632-3</title>
+    <s:type>Crate</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5632-3_1.jpg?v=1578355389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Crate<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slatted wood 3 piece crate set</p><p>Lg: L: 14.5" x W: 9" x H: 5.5"</p><p>Md: L: 12.25" x W: 7.5" x H: 5"</p><p>Sm: L: 10.25" x W: 6" x H: 4.5"</p><p></p><p></p><p>Case: 10</p><p>Weight: 3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373241626697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>5632-3</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373241561161</id>
+    <published>2020-01-06T15:48:33-08:00</published>
+    <updated>2020-01-06T15:48:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5631-3wt"/>
+    <title>5631-3WT</title>
+    <s:type>Crate</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5631-3WT_1.jpg?v=1578355398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Crate<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Modern cottage white washed 3 piece crate set</p><p>Lg: L: 19" x W: 13" x H: 9.25"</p><p>Md: L: 16.5" x W: 11" x H: 8.5"</p><p>Sm: L: 14.25" x W: 9" x H: 7.75"</p><p></p><p></p><p>Case: 1</p><p>Weight: 8.85lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373241561161</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>5631-3WT</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373241495625</id>
+    <published>2020-01-06T15:48:33-08:00</published>
+    <updated>2020-01-06T15:48:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5631-3br"/>
+    <title>5631-3BR</title>
+    <s:type>Crate</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5631-3BR_1.jpg?v=1578355416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Crate<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Modern cottage 3 piece crate set</p><p>Lg: L: 19" x W: 13" x H: 9.25"</p><p>Md: L: 16.5" x W: 11" x H: 8.5"</p><p>Sm: L: 14.25" x W: 9" x H: 7.75"</p><p></p><p></p><p>Case: 1</p><p>Weight: 8.85lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373241495625</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>5631-3BR</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4317038510153</id>
+    <published>2019-10-24T13:59:29-07:00</published>
+    <updated>2019-10-24T13:59:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3245-3a"/>
+    <title>FP-3245-3A</title>
+    <s:type>Crate</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3245-3A_1.jpg?v=1597855030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Crate<br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 tricolor wood slat crate</p><p>Lg: L: 19.25" x W: 12.25" x H: 8.75"</p><p>Md: L: 16.25" x W: 10.5" x H: 8.25"</p><p>Sm: L: 13" x W: 8.75" x H: 8"</p><p></p><p></p><p>Case: 1</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4317038510153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>FP-3245-3A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2218978738249</id>
+    <published>2019-07-24T15:00:54-07:00</published>
+    <updated>2019-07-24T15:00:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5562-2gr"/>
+    <title>5562-2GR</title>
+    <s:type>Crate</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5562-2GR_1_d5d1e69d-28f0-409d-b061-7eb424448152.jpg?v=1600469127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Crate<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 wood slat crates with side metal handles</p><p>Lg: L: 12.5" x Total L: 13.75" x W: 8.75" x H: 7" x Total H: 8"</p><p>Sm: L: 10.5" x Total L: 11.75" x W: 7" x H: 6.25" x Total H: 7.5"</p><p>Lg Interior: L: 11.5" x W: 7.5" x H: 7"</p><p>Sm Interior: L: 9.25" x W: 5.75" x H: 6.25"</p><p></p><p>Case: 2</p><p>Weight: 3.05lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2218978738249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>5562-2GR</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2218978705481</id>
+    <published>2019-07-24T15:00:52-07:00</published>
+    <updated>2019-07-24T15:00:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5562-2bk"/>
+    <title>5562-2BK</title>
+    <s:type>Crate</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5562-2BK_1_3bb9cbb5-feff-4a2d-bb01-5f8bed987ea7.jpg?v=1600469114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Crate<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 wood slat crates with side metal handles</p><p>Lg: L: 12.5" x Total L: 13.75" x W: 8.75" x H: 7" x Total H: 8"</p><p>Sm: L: 10.5" x Total L: 11.75" x W: 7" x H: 6.25" x Total H: 7.5"</p><p>Lg Interior: L: 11.5" x W: 7.5" x H: 7"</p><p>Sm Interior: L: 9.25" x W: 5.75" x H: 6.25"</p><p></p><p>Case: 2</p><p>Weight: 3.05lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2218978705481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>5562-2BK</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2218978672713</id>
+    <published>2019-07-24T15:00:52-07:00</published>
+    <updated>2019-07-24T15:00:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5562-2dbr"/>
+    <title>5562-2DBR</title>
+    <s:type>Crate</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5562-2DBR_1_6b6eb216-6b3f-4f79-9021-3153095f6881.jpg?v=1600469134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Crate<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 wood slat crates with side metal handles</p><p>Lg: L: 12.5" x Total L: 13.75" x W: 8.75" x H: 7" x Total H: 8"</p><p>Sm: L: 10.5" x Total L: 11.75" x W: 7" x H: 6.25" x Total H: 7.5"</p><p>Lg Interior: L: 11.5" x W: 7.5" x H: 7"</p><p>Sm Interior: L: 9.25" x W: 5.75" x H: 6.25"</p><p></p><p>Case: 2</p><p>Weight: 3.05lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2218978672713</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>5562-2DBR</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198643900489</id>
+    <published>2019-06-19T09:15:05-07:00</published>
+    <updated>2019-06-19T09:15:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5547-3gw"/>
+    <title>5547-3GW</title>
+    <s:type>Crate</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5547-3GW_1.jpg?v=1619024194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Crate<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 gray wash wood and metal tapered crates with side handles</p><p>Lg: Total L: 17.25" x L: 15.5" x W: 8.75" x H: 4.25" x Total H: 5.25" Base: L: 13.5" x W: 6.25"</p><p>Md: Total L: 15" x L: 13" x W: 7.25" x H: 4" x Total H: 5" Base: L: 11" x W: 4.5"</p><p>Sm: Total L: 13.25 x L: 11.5 x W: 5.5 x H: 3.5 x Total H: 4.5 Base: 9.5 x 3.5</p><p></p><p></p><p>Case: 5</p><p>Weight: 3.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198643900489</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>5547-3GW</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198643867721</id>
+    <published>2019-06-19T09:15:05-07:00</published>
+    <updated>2019-06-19T09:15:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5547-3br"/>
+    <title>5547-3BR</title>
+    <s:type>Crate</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5547-3BR_1.jpg?v=1619024197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Crate<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 wood and metal tapered crates with side handles</p><p>Lg: Total L: 17.25" x L: 15.5" x W: 8.75" x H: 4.25" x Total H: 5.25" Base: L: 13.5" x W: 6.25"</p><p>Md: Total L: 15" x L: 13" x W: 7.25" x H: 4" x Total H: 5" Base: L: 11" x W: 4.5"</p><p>Sm: Total L: 13.25 x L: 11.5 x W: 5.5 x H: 3.5 x Total H: 4.5 Base: 9.5 x 3.5</p><p></p><p></p><p>Case: 5</p><p>Weight: 3.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198643867721</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>5547-3BR</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198643834953</id>
+    <published>2019-06-19T09:15:05-07:00</published>
+    <updated>2019-06-19T09:15:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5546-3gw"/>
+    <title>5546-3GW</title>
+    <s:type>Crate</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5546-3GW_1_f95c75fe-6409-4ff9-ab9c-419ae006b863.jpg?v=1600469077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Crate<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 gray wash wood and metal crates with side handles</p><p>Lg: L: 13.5" x W: 8" x H: 4"</p><p>Md: 11" x W: 6.75" x H: 4"</p><p>Sm: L: 9" x W: 5.5" x H: 4"</p><p>Interior: Lg: L: 13" x W: 7" x H: 7" Md: L: 10.75" x W: 5.75" x H: 4" Sm: L: 8.25" x W: 4.75" x H: 4"</p><p></p><p>Case: 10</p><p>Weight: 3.15lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198643834953</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>5546-3GW</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198643802185</id>
+    <published>2019-06-19T09:15:04-07:00</published>
+    <updated>2019-06-19T09:15:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5546-3br"/>
+    <title>5546-3BR</title>
+    <s:type>Crate</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5546-3BR_1.jpg?v=1600469067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Crate<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 wood and metal crates with side handles</p><p>Lg: L: 13.5" x W: 8" x H: 4"</p><p>Md: 11" x W: 6.75" x H: 4"</p><p>Sm: L: 9" x W: 5.5" x H: 4"</p><p>Interior: Lg: L: 13" x W: 7" x H: 7" Md: L: 10.75" x W: 5.75" x H: 4" Sm: L: 8.25" x W: 4.75" x H: 4"</p><p></p><p>Case: 10</p><p>Weight: 3.15lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198643802185</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>5546-3BR</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419284643913</id>
+    <published>2018-08-02T16:32:06-07:00</published>
+    <updated>2018-08-02T16:32:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5275-3lg"/>
+    <title>5275-3LG</title>
+    <s:type>Crate</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5275-3LG_1.jpg?v=1605639572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Crate<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3, small, rectangular wood-grain, slatted crates in a gray wash finish with side handles</p><p>Large: L: 15.25" x W: 9.5" x H: 5" x TH: 6" x TL: 16.5"</p><p>Medium: L: 13.25" x W: 7.75" x H: 4.5" x TH: 5.5" x TL: 14.5"</p><p>Small: L: 11.25" x W: 6.25" x H: 4" x TH: 5" x TL: 12.5"</p><p></p><p></p><p>Case: 5</p><p>Weight: 2.9lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/1419284643913</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>5275-3LG</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419284611145</id>
+    <published>2018-08-02T16:32:06-07:00</published>
+    <updated>2018-08-02T16:32:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5274-3lg"/>
+    <title>5274-3LG</title>
+    <s:type>Crate</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5274-3LG_6.JPG?v=1557971028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Crate<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 small, rectangular wood-grain crates in a gray wash finish with side handles</p><p>Large: L: 15.25" x W: 9.5" x H: 5" x TH: 6" x TL: 16.5"</p><p>Medium: L: 13.25" x W: 7.75" x H: 4.5" x TH: 5.5" x TL: 14.5"</p><p>Small: L: 11.25" x W: 6.25" x H: 4" x TH: 5" x TL: 12.5"</p><p></p><p></p><p>Case: 5</p><p>Weight: 3.1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/1419284611145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>5274-3LG</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419284512841</id>
+    <published>2018-08-02T16:32:05-07:00</published>
+    <updated>2018-08-02T16:32:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5272-3gw"/>
+    <title>5272-3GW</title>
+    <s:type>Crate</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5272-3GW_4.JPG?v=1533256184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Crate<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 gray wash, slatted crates with galvanized metal accent strips</p><p>Large: L: 16.5" x W: 11.5" x H: 8"</p><p>Medium: L: 13.75" x W: 9.5" x H: 7"</p><p>Small: L: 11" x W: 7.25" x H: 6.25"</p><p></p><p></p><p>Case: 2</p><p>Weight: 8.3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419284512841</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>5272-3GW</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419280678985</id>
+    <published>2018-08-02T16:31:35-07:00</published>
+    <updated>2018-08-02T16:31:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4187-3br"/>
+    <title>FP-4187-3BR</title>
+    <s:type>Crate</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4187-3BR_1.jpg?v=1589844458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Crate<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 tapered wood crates with front and back farmhouse style wire panels and side rope handles</p><p>Large: L: 12.5" x W: 8.5" x H: 4.75"</p><p>Medium: L: 11" x W: 7" x H: 4.25"</p><p>Small: L: 9.5" x W: 5.25" x H: 4"</p><p></p><p></p><p>Case: 10</p><p>Weight: 1.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419280678985</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>FP-4187-3BR</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/284427845653</id>
+    <published>2018-04-04T12:39:23-07:00</published>
+    <updated>2018-04-04T12:39:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5168-2"/>
+    <title>5168-2</title>
+    <s:type>Crate</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5168-2_1.jpg?v=1624383882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Crate<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 Wood Crate with Ridged Metal Accent</p><p>Lg: L: 16.25" x W: 10.5" x H: 9.5</p><p>Sm: L: 13.5" x W: 8.5" x H: 8.5" </p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/284427845653</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>5168-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/165015027733</id>
+    <published>2018-02-08T16:06:25-08:00</published>
+    <updated>2018-02-08T16:06:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3508-3gw"/>
+    <title>FP-3508-3GW</title>
+    <s:type>Crate</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3508-3GW_1.jpg?v=1578344788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Crate<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 gray wash, wooden crates</p><p>Large: L: 19" x W: 13.25" x H: 9.25"</p><p>Medium: L: 16.5" x W: 11.25" x H: 8.5"</p><p>Small: L: 13.75" x W: 9.5" x H: 7.75"</p><p></p><p></p><p>Case: 2</p><p>Weight: 8.3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/165015027733</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>FP-3508-3GW</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906612629</id>
+    <published>2017-10-19T10:14:08-07:00</published>
+    <updated>2017-10-19T10:14:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5061-3"/>
+    <title>5061-3</title>
+    <s:type>Crate</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5061-3_3.jpg?v=1621637272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Crate<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of three natural brown wooden slat crates.</p><p>Large: L: 19.25" x W: 13" x H: 10"</p><p>Medium: L: 17" x W: 11" x H: 9.25"</p><p>Small: L: 14.5" x W: 8.75" x H: 8.75"</p><p></p><p></p><p>Case: 1</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906612629</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>5061-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906612565</id>
+    <published>2017-10-19T10:14:07-07:00</published>
+    <updated>2017-10-19T10:14:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5060-3"/>
+    <title>5060-3</title>
+    <s:type>Crate</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5060-3.JPG?v=1510014474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Crate<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of three wooden crate with chalkboard. </p><p>Large: L: 15" x W: 9.75" x H: 6.25"</p><p>Medium: L: 13.5" x W: 8.5" x H: 5.25"</p><p>Small: L: 12" x W: 7.5" x H: 5.5"</p><p></p><p></p><p>Case: 4</p><p>Weight: 6.1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906612565</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>5060-3</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906612501</id>
+    <published>2017-10-19T10:14:07-07:00</published>
+    <updated>2017-10-19T10:14:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5059-3"/>
+    <title>5059-3</title>
+    <s:type>Crate</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5059-3.jpg?v=1619023712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Crate<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of three wooden tapered crate with chalkboard.</p><p>Large: L: 15.25" x W: 10.75"  x H: 5.75" x Base: 13" x 8.5"</p><p>Medium: L: 13.75" x W: 9" x H: 5.25" x Base: 11.5" x 7"</p><p>Small: L: 12.25" x W: 7.5" x H: 5" Base: 10.25" x 5.25"</p><p></p><p></p><p>Case: 4</p><p>Weight: 5.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906612501</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>5059-3</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906612373</id>
+    <published>2017-10-19T10:14:06-07:00</published>
+    <updated>2017-10-19T10:14:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5058-3"/>
+    <title>5058-3</title>
+    <s:type>Crate</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5058-3_1.jpg?v=1627929896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Crate<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of three wooden trunk with rope handle.</p><p>Large: L: 15.5" x W: 9.75" x H: 8" </p><p>Medium: L: 13.5" x W: 8" x H: 7.5"</p><p>Small: L: 11.5" x W: 6" x H: 7"</p><p></p><p></p><p>Case: 2</p><p>Weight: 5.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906612373</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>5058-3</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

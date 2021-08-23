@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/benches.atom"/>
+  <title>Cheungs</title>
+  <updated>2019-07-24T15:00:50-07:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/2218978574409</id>
+    <published>2019-07-24T15:00:50-07:00</published>
+    <updated>2019-07-24T15:00:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4936-2gw"/>
+    <title>4936-2GW</title>
+    <s:type>Bench</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4936-2GW_1.JPG?v=1567032341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Bench<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 Square Wood Slat Storage Bench with Metal Accent and Cushioned Lid</p><p>Lg: W: 15.75" x D: 15.75" x H: 17.25"</p><p>Sm: W: 13" x D: 13" x H: 14.5"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 15.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2218978574409</id>
+      <title>Default Title</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>4936-2GW</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2218978541641</id>
+    <published>2019-07-24T15:00:50-07:00</published>
+    <updated>2019-07-24T15:00:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4935-2gw"/>
+    <title>4935-2GW</title>
+    <s:type>Bench</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4935-2GW_1.JPG?v=1603218976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Bench<br>
+        <strong>Price: </strong>
+            115.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 Rectangular Wood Slat Storage Bench with Metal Accent and Cushioned Lid</p><p>Lg: W: 23.75" x D: 14" x H: 17.5"</p><p>Sm: W: 19" x D: 12" x H: 14"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 19.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2218978541641</id>
+      <title>Default Title</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>4935-2GW</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000481550409</id>
+    <published>2019-01-02T14:36:49-08:00</published>
+    <updated>2019-01-02T14:36:49-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5402-2"/>
+    <title>5402-2</title>
+    <s:type>Bench</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5402-2_1.jpg?v=1603409222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Bench<br>
+        <strong>Price: </strong>
+            115.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 storage benches with a medium brown wood frame, galvanized olive bucket pattern front and a top cushioned seat with a hinged lid storage compartment along with side cut out handles</p><p>Large: L: 21.25" x W: 15.25" x H: 15.25"</p><p>Small: L: 16.5" x W: 11" x H: 10.75"</p><p>Outside: Large: Lid H: 3.5" x Body H: 11.75" Small: Lid H: 2.25" x Body H: 8.5"</p><p>Inner: Large: L: 20.5" x W: 14" x H: 11.25" x Lid H: 1.75" Small: L: 15.75" x W: 9.5" x H: 8" x Lid H: 0.75"</p><p></p><p>Case: 1</p><p>Weight: 13.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2000481550409</id>
+      <title>Default Title</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>5402-2</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000477814857</id>
+    <published>2019-01-02T14:36:23-08:00</published>
+    <updated>2019-01-02T14:36:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5159-2wt"/>
+    <title>5159-2WT</title>
+    <s:type>Bench</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5159-2WT_1.jpg?v=1595881524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Bench<br>
+        <strong>Price: </strong>
+            258.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 storage benches with a light brown wood finish, beige colored cushion and a hinged lid inner storage</p><p>Large: L: 35.5" x W: 15.75" x H: 20"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 42lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2000477814857</id>
+      <title>Default Title</title>
+      <s:price currency="USD">258.00</s:price>
+      <s:sku>5159-2WT</s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/284427583509</id>
+    <published>2018-04-04T12:39:22-07:00</published>
+    <updated>2018-04-04T12:39:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5159-2"/>
+    <title>5159-2</title>
+    <s:type>Bench</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5159-2_1.jpg?v=1595881518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Bench<br>
+        <strong>Price: </strong>
+            258.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 Rectangular Wood Storage Ottoman</p><p>Large: L: 35.5" x W: 15.75" x H: 20"</p><p>Small: L: 27.5" x W: 13.25" x H: 15.5"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 40lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/284427583509</id>
+      <title>Default Title</title>
+      <s:price currency="USD">258.00</s:price>
+      <s:sku>5159-2</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841992661</id>
+    <published>2017-06-23T12:59:04-07:00</published>
+    <updated>2017-06-23T12:59:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4936-2"/>
+    <title>4936-2</title>
+    <s:type>Bench</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4936-2_1.jpg?v=1618943119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Bench<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 square wood slat crates with cushion lid</p><p>Large: L: 15.75" x W: 15.75" x H: 17.25" </p><p>Small: L: 13" x W: 13" x H: 14"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841992661</id>
+      <title>Default Title</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>4936-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841992597</id>
+    <published>2017-06-23T12:59:04-07:00</published>
+    <updated>2017-06-23T12:59:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4935-2"/>
+    <title>4935-2</title>
+    <s:type>Bench</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4935-2_2.jpg?v=1603219019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Bench<br>
+        <strong>Price: </strong>
+            115.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 rectangular wood slat crates with cushion lid</p><p>Lg: W: 23.75" x D: 14" x H: 17.5"</p><p>Sm: W: 19" x D: 12" x H: 14"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841992597</id>
+      <title>Default Title</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>4935-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10587517781</id>
+    <published>2017-05-15T16:03:09-07:00</published>
+    <updated>2017-05-15T16:03:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3303"/>
+    <title>FP-3303</title>
+    <s:type>Bench</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3303_1.jpg?v=1603219137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Bench<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shabby bench chest with seat cushion</p><p>L: 36" x W: 16.5" x 15"h</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 28lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10587517781</id>
+      <title>Default Title</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>FP-3303</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8547010182</id>
+    <published>2016-09-12T21:46:24-07:00</published>
+    <updated>2016-09-12T21:46:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4586"/>
+    <title>4586</title>
+    <s:type>Bench</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4586_1.jpg?v=1627929172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Bench<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Long golden metal bench with white fur cushion</p><p>L:42 x W:15.5" x 20.75" h</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 19lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/8547010182</id>
+      <title>Default Title</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>4586</s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+  </entry>
+</feed>

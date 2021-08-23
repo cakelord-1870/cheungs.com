@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/wall-organizers.atom"/>
+  <title>Cheungs</title>
+  <updated>2021-08-17T15:37:14-07:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/6595429400649</id>
+    <published>2021-08-17T15:37:14-07:00</published>
+    <updated>2021-08-17T15:37:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3384"/>
+    <title>FP-3384</title>
+    <s:type>Metal Wall Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3384_1.jpg?v=1629239835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Wall Organizer<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Galvanized 2 Tier Wall Storage</p><p>W: 9" x D: 2.5"  x H: 15.5"</p><p></p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 1.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/6595429400649</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>FP-3384</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4615575830601</id>
+    <published>2021-08-17T15:10:54-07:00</published>
+    <updated>2021-08-17T15:10:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5704gd"/>
+    <title>5704GD</title>
+    <s:type>Wall organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5704GD_1.jpg?v=1612379799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall organizer<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bannes Two Tier Triangle Floating Shelf - Gold</p><p>W: 22" x D: 7" x H: 20"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 2.6lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4615575830601</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>5704GD</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4615575797833</id>
+    <published>2021-03-31T15:58:10-07:00</published>
+    <updated>2021-03-31T15:58:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5704bk"/>
+    <title>5704BK</title>
+    <s:type>Wall organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5704BK_1.jpg?v=1612379786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall organizer<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bannes Two Tier Triangle Floating Shelf - Black</p><p>W: 22" x D: 7" x H: 20"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 2.6lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4615575797833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>5704BK</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4615576059977</id>
+    <published>2021-02-10T15:32:16-08:00</published>
+    <updated>2021-02-10T15:32:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5711s"/>
+    <title>5711S</title>
+    <s:type>Wall organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5711S_1.jpg?v=1612379884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall organizer<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sloth Themed 3 Hook Coat Rack</p><p>W: 15.75" x D: 2.5" x H: 4.75"</p><p></p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 1.55lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4615576059977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>5711S</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4615576027209</id>
+    <published>2021-02-10T15:32:16-08:00</published>
+    <updated>2021-02-10T15:32:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5711l"/>
+    <title>5711L</title>
+    <s:type>Wall organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5711L_1.jpg?v=1612379871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall organizer<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sloth Themed 5 Hook Coat Rack</p><p>W: 26" x D: 2.5" x H: 4.75"</p><p></p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 2.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4615576027209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>5711L</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4615576453193</id>
+    <published>2021-02-10T15:31:17-08:00</published>
+    <updated>2021-02-10T15:31:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5721"/>
+    <title>5721</title>
+    <s:type>Metal Wall Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5721_1.jpg?v=1612379985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Wall Organizer<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wiselle Glossy Galvanized Mail Box</p><p>W: 9" x D: 4" x H: 11.5"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 1.55lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farmhouse</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4615576453193</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>5721</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4532988149833</id>
+    <published>2020-08-04T09:30:40-07:00</published>
+    <updated>2020-08-04T09:30:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-2187-2"/>
+    <title>FP-2187-2</title>
+    <s:type>Metal Wall Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-2187-2_1.jpg?v=1596559078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Wall Organizer<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Traditionally Themed Wall Vases</p><p>Large: W: 14.25" x D: 6" x H: 24.75"</p><p>Small: W: 12.25" x D: 5.25" x H: 21"</p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 14.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4532988149833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>FP-2187-2</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4490596876361</id>
+    <published>2020-06-11T10:24:33-07:00</published>
+    <updated>2020-06-11T10:24:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4567"/>
+    <title>4567</title>
+    <s:type>Wall Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4567_2.jpg?v=1591896833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall Organizer<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden 3 coat hanger with 3 top drawers with urban galvanized accent</p><p>L:16.75" x W:5" x 11.5"h</p><p></p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 5.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4490596876361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>4567</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373241036873</id>
+    <published>2020-01-06T15:48:27-08:00</published>
+    <updated>2020-01-06T15:48:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5623s"/>
+    <title>5623S</title>
+    <s:type>metal wall organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5623S_1.jpg?v=1578355520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>metal wall organizer<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Farmhouse styled 2 tier wall planter</p><p>W: 11.75" x D: 5" x H: 31"</p><p></p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 1.85lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373241036873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>5623S</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373240971337</id>
+    <published>2020-01-06T15:48:27-08:00</published>
+    <updated>2020-01-06T15:48:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5623l"/>
+    <title>5623L</title>
+    <s:type>Metal wall organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5623L_1.jpg?v=1578355472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal wall organizer<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Farmhouse styled 3 tier wall planter</p><p>W: 11.75" x D: 5" x H: 44.5"</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 2.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373240971337</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>5623L</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373240807497</id>
+    <published>2020-01-06T15:48:25-08:00</published>
+    <updated>2020-01-06T15:48:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5373-2bk"/>
+    <title>5373-2BK</title>
+    <s:type>Wall Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5373-2BK_1.jpg?v=1578357628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall Organizer<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Piece urban style wall shelves</p><p>Lg: W: 23.5" x D: 5.75" x H: 7"</p><p>Sm: W: 18.25" x D: 5" x H: 5.25</p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 3.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373240807497</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>5373-2BK</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373240283209</id>
+    <published>2020-01-06T15:48:17-08:00</published>
+    <updated>2020-01-06T15:48:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5605-2"/>
+    <title>5605-2</title>
+    <s:type>Wall Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5605-2_1.jpg?v=1578354905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall Organizer<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Urban style set of 2 wall shelves</p><p>Lg: W: 15.75" x D: 5.75" x H: 9"</p><p>Sm: W: 11.75" x D: 5" x H: 6.5"</p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373240283209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>5605-2</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373240119369</id>
+    <published>2020-01-06T15:48:15-08:00</published>
+    <updated>2020-01-06T15:48:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5600"/>
+    <title>5600</title>
+    <s:type>Metal Wall Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5600_1.jpg?v=1578354736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Wall Organizer<br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Industrial style rowboat wall organizer</p><p>W: 14.75" x D: 6." x H: 36.5"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 3.9lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Natuical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4373240119369</id>
+      <title>Default Title</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>5600</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2217044049993</id>
+    <published>2019-07-21T10:24:21-07:00</published>
+    <updated>2019-07-21T10:24:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5560"/>
+    <title>5560</title>
+    <s:type>Wall Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5560_1.jpg?v=1619024249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall Organizer<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bamboo And Metal Weave Pattern Coat Hanger with 4 Hooks</p><p>W: 23.75" x D: 1" x H: 6" x Total D: 3.5"</p><p>Hook H: 4.25"</p><p>Distance between hooks: 5.25"</p><p>Distance between rear wall hooks: 22.25"</p><p></p><p>Case: 8</p><p>Weight: 3.15lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Natuical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2217044049993</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>5560</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2217044017225</id>
+    <published>2019-07-21T10:24:20-07:00</published>
+    <updated>2019-07-21T10:24:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5559"/>
+    <title>5559</title>
+    <s:type>Wall Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5559_1.jpg?v=1619024243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall Organizer<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bamboo And Metal Weave Pattern Coat Hanger with 3 Hooks</p><p>W: 18" x D: 1" x H: 6" x Total D: 3.5"</p><p>Hook H: 4.25"</p><p>Distance between hooks: 5.25"</p><p>Distance between rear wall hooks: 16.5"</p><p></p><p>Case: 10</p><p>Weight: 2.35lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Natuical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2217044017225</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>5559</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2217043656777</id>
+    <published>2019-07-21T10:24:15-07:00</published>
+    <updated>2019-07-21T10:24:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5519"/>
+    <title>5519</title>
+    <s:type>Metal Wall Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5519_1.JPG?v=1563737724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Wall Organizer<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hanging Galvanized Metal Heart Shaped Planter</p><p>W: 16.5" x D: 5.25" x H: 16"</p><p>Pocket: W: 10.25" x D: 5" x H: 6.25"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 1.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2217043656777</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>5519</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2217043624009</id>
+    <published>2019-07-21T10:24:15-07:00</published>
+    <updated>2019-07-21T10:24:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5518-3"/>
+    <title>5518-3</title>
+    <s:type>Metal Wall Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5518-3_1.JPG?v=1563737720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Wall Organizer<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 Water Droplet Shaped Hanging Galvanized Metal Planters</p><p>Lg: W: 12" x D: 4.5" x H: 18.5" x Front H: 4.25" x Back H: 6.25"</p><p>Md: W: 10" x D: 4" x H: 15.25" x Front H: 3.25" x Back H: 5.25"</p><p>Sm: W: 8" x D: 3.5" x H: 12" x Front H: 2.5" x Back H: 4.25"</p><p>Lg Interior: W: 11.75" x D: 4.5" x Front H: 4" x Back H: 6"</p><p>Md Interior: W: 9.75" x D: 4" x Front H: 3" x Back H: 5"</p><p>Case: 6</p><p>Weight: 2.05lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2217043624009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>5518-3</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2208462012489</id>
+    <published>2019-07-06T20:01:10-07:00</published>
+    <updated>2019-07-06T20:01:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5520"/>
+    <title>5520</title>
+    <s:type>Metal Wall Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5520_1.JPG?v=1562470371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Wall Organizer<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Freestanding Galvanized Metal Round Vertical Planter</p><p>W: 11.25" x D: 4" x H: 11.5"</p><p>Interior: Dia: 11" x D: 3.75"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 1.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2208462012489</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>5520</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000482598985</id>
+    <published>2019-01-02T14:36:57-08:00</published>
+    <updated>2019-01-02T14:36:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5430"/>
+    <title>5430</title>
+    <s:type>Metal Wall Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5430_1.jpg?v=1601672201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Wall Organizer<br>
+        <strong>Price: </strong>
+            14.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal Wall Hanging Letter Box</p><p>W: 12" x TH: 11.5" x FH: 5.75" x D: 3.5"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2000482598985</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.50</s:price>
+      <s:sku>5430</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000481943625</id>
+    <published>2019-01-02T14:36:52-08:00</published>
+    <updated>2019-01-02T14:36:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5414"/>
+    <title>5414</title>
+    <s:type>Wall Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5414_1_00ff71a2-353b-4e8f-8397-9a823ac8dac5.jpg?v=1590449212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall Organizer<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wood and Metal Wall Storage with 2 Hooks</p><p>TH: 31" x W: 12" x D: 3"</p><p>Basket W: 12" x D: 3.25" x H: 4"</p><p>Hook: Distance: 9" Depth: 2" Length: 3.5"</p><p></p><p></p><p>Case: 6</p><p>Weight: 2.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000481943625</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>5414</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000480895049</id>
+    <published>2019-01-02T14:36:44-08:00</published>
+    <updated>2019-01-02T14:36:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5393"/>
+    <title>5393</title>
+    <s:type>Wall Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5393_1.jpg?v=1590449170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall Organizer<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Naturally inspired, 2 tier, wooden storage piece with front chalkboard organizers</p><p>H: 19" x W: 12" x D: 4.25"</p><p>Pocket: H: 8.25" x W: 10.75" x D: 3.5" x FH: 5.5"</p><p>Distance B/W Pockets: None</p><p>Chalkboard Measurements: H: 3.75" x W: 9.75"</p><p>Pocket Inner: H: 8.25" x W: 10.75" x D: 3.5"</p><p>Case: 6</p><p>Weight: 3.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000480895049</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>5393</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000480731209</id>
+    <published>2019-01-02T14:36:43-08:00</published>
+    <updated>2019-01-02T14:36:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5390"/>
+    <title>5390</title>
+    <s:type>Wall Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5390_1.JPG?v=1546470712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall Organizer<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Naturally inspired, wood and metal double tiered wall storage piece with a metal bar frame and wood shelf tops</p><p>H: 12" x W: 27.75" x D: 5"</p><p>Bottom compartments: H: 7.25" x W: 11.75" x D: 5"</p><p>Bottom Inner: H: 6.25" x W: 11.25" x D: 4.75"</p><p>Top Compartment: H: 7.25" x W: 11.75" D: 4.25"</p><p>Top inner: H: 6.25" x W: 11.25" x D: 4.25"</p><p>Case: 4</p><p>Weight: 4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000480731209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>5390</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000480305225</id>
+    <published>2019-01-02T14:36:39-08:00</published>
+    <updated>2019-01-02T14:36:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5378"/>
+    <title>5378</title>
+    <s:type>Wall Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5378_1.JPG?v=1548904862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall Organizer<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden 6 pocket wall organizezr with front galvanized metal strips and metal compartment tag holders</p><p>H: 18" x W: 23.5" x D: 5"</p><p>Compartment Inner: H: 7.75" x W: 6.75" x D: 5"</p><p>Wood thickness all around: 0.75"</p><p></p><p></p><p>Case: 2</p><p>Weight: 8.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000480305225</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>5378</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000480272457</id>
+    <published>2019-01-02T14:36:39-08:00</published>
+    <updated>2019-01-02T14:36:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5377"/>
+    <title>5377</title>
+    <s:type>Wall Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5377_1.JPG?v=1548904860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall Organizer<br>
+        <strong>Price: </strong>
+            84.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden 9 pocket wall organizer with front galvanized metal strips and metal compartment tag holders</p><p>H: 28" x W: 28" x D: 5"</p><p>Compartment Inner: H: 8.25" x W: 8.25" x D: 5"</p><p>Wood thickness all around: 0.75"</p><p></p><p></p><p>Case: 2</p><p>Weight: 12.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000480272457</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.00</s:price>
+      <s:sku>5377</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000480206921</id>
+    <published>2019-01-02T14:36:38-08:00</published>
+    <updated>2019-01-02T14:36:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5375"/>
+    <title>5375</title>
+    <s:type>Metal Wall Organizer</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5375_1.jpg?v=1621367799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Wall Organizer<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Country style coat hanger with a galvanized metal shelf rim and solid wood top with 7, bottom metal hooks</p><p>H: 2.5" x W: 29" x D: 6.25" x TH: 9"</p><p>Top Shelf/Compartment: H: 1.75" x W: 29" x D: 6.25"</p><p>Hooks: H: 4" x D: 3.25" Distance Between Hooks: 4"</p><p></p><p></p><p>Case: 1</p><p>Weight: 5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2000480206921</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>5375</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

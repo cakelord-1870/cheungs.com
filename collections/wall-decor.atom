@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/wall-decor.atom"/>
+  <title>Cheungs</title>
+  <updated>2021-02-10T15:32:42-08:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/4615575699529</id>
+    <published>2021-02-10T15:32:42-08:00</published>
+    <updated>2021-02-10T15:32:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5701"/>
+    <title>5701</title>
+    <s:type>Metal Wall Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5701_1.jpg?v=1612379768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Wall Décor<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Benuve Multi Dimensional Ring Wall Decor</p><p>W: 39.5" x D: 1.75" x H: 17.25"</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 3.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4615575699529</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>5701</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4615575666761</id>
+    <published>2021-02-10T15:28:29-08:00</published>
+    <updated>2021-02-10T15:28:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5700bk"/>
+    <title>5700BK</title>
+    <s:type>Metal Wall Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5700BK_1.jpg?v=1612379759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Wall Décor<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aelle Linear Burst Square Wall Decor</p><p>W: 30" x D: 2" x H: 30"</p><p></p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 5.55lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4615575666761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>5700BK</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4576038092873</id>
+    <published>2020-10-20T14:55:45-07:00</published>
+    <updated>2020-10-20T14:55:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5370sv"/>
+    <title>5370SV</title>
+    <s:type>Metal Wall Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5370SV_1.jpg?v=1611180861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Wall Décor<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Avalon abstract, silver bar and panel wall décor piece</p><p>W: 26.5" x D: 1.25" x H: 28.5"</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 2.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4576038092873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>5370SV</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4576038060105</id>
+    <published>2020-10-20T14:55:44-07:00</published>
+    <updated>2020-10-20T14:55:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5369gd"/>
+    <title>5369GD</title>
+    <s:type>Metal Wall Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5369GD_1.jpg?v=1611180843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Wall Décor<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Avalon abstract, gold bar and panel wall décor piece</p><p>W: 33.5" x D: 1.25" x H: 35"</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 4.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4576038060105</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>5369GD</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373240905801</id>
+    <published>2020-01-06T15:48:26-08:00</published>
+    <updated>2020-01-06T15:48:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5621l"/>
+    <title>5621L</title>
+    <s:type>Metal wall décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5621L_1.jpg?v=1578355397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal wall décor<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rustic bronze abstract round wall decor</p><p>W: 32.5" x D: 2.75" x H: 32.5"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 6.65lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373240905801</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>5621L</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373240873033</id>
+    <published>2020-01-06T15:48:25-08:00</published>
+    <updated>2020-01-06T15:48:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5621s"/>
+    <title>5621S</title>
+    <s:type>Metal wall décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5621S_1.jpg?v=1578355415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal wall décor<br>
+        <strong>Price: </strong>
+            32.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rustic bronze abstract round wall decor</p><p>W: 20.5" x D: 2.75" x H: 20.5"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 2.6lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373240873033</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.50</s:price>
+      <s:sku>5621S</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373240774729</id>
+    <published>2020-01-06T15:48:24-08:00</published>
+    <updated>2020-01-06T15:48:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5619sv"/>
+    <title>5619SV</title>
+    <s:type>Metal wall décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5619SV_1.jpg?v=1578355370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal wall décor<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver and round abstract swirl wall décor</p><p>W: 30" x D: 1.25" x H: 30"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 2.65lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373240774729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>5619SV</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373240741961</id>
+    <published>2020-01-06T15:48:24-08:00</published>
+    <updated>2020-01-06T15:48:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5620gd"/>
+    <title>5620GD</title>
+    <s:type>Metal wall décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5620GD_1.jpg?v=1578355383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal wall décor<br>
+        <strong>Price: </strong>
+            32.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold and round abstract swirl wall décor</p><p>W: 24" x D: 1.25" x H: 24"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 1.9lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373240741961</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.50</s:price>
+      <s:sku>5620GD</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373240709193</id>
+    <published>2020-01-06T15:48:23-08:00</published>
+    <updated>2020-01-06T15:48:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5618gd"/>
+    <title>5618GD</title>
+    <s:type>Metal wall décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5618GD_1.jpg?v=1578355359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal wall décor<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Golden abstract swirl wall décor</p><p>W: 25" x D: 1.25" x H: 25"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 2.35lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373240709193</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>5618GD</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373240676425</id>
+    <published>2020-01-06T15:48:23-08:00</published>
+    <updated>2020-01-06T15:48:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5617sv"/>
+    <title>5617SV</title>
+    <s:type>Metal wall décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5617SV_1.jpg?v=1578355350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal wall décor<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver abstract swirl wall décor</p><p>W: 32" x D: 1.25" x H: 32"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 4.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373240676425</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>5617SV</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373240348745</id>
+    <published>2020-01-06T15:48:18-08:00</published>
+    <updated>2020-01-06T15:48:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5607"/>
+    <title>5607</title>
+    <s:type>Wall Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5607_1.jpg?v=1578355058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall Décor<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Country style "Eat" sign</p><p>W: 21.25" x D: 1.25" x H: 13.5"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373240348745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>5607</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373240315977</id>
+    <published>2020-01-06T15:48:18-08:00</published>
+    <updated>2020-01-06T15:48:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5606"/>
+    <title>5606</title>
+    <s:type>Wall Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5606_1.jpg?v=1578355032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall Décor<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Country style "Bakery" themed sign</p><p>W: 21.25" x D: 1.25" x H: 14"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373240315977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>5606</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2217043492937</id>
+    <published>2019-07-21T10:24:13-07:00</published>
+    <updated>2019-07-21T10:24:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5514"/>
+    <title>5514</title>
+    <s:type>Wall Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5514_1.JPG?v=1563737710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall Décor<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Square 3D Abstract Wall Art</p><p>W: 14" x D: 2" x H: 14"</p><p>Rear Openings: Distance Apart: 12.75"</p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 1.55lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2217043492937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>5514</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198644359241</id>
+    <published>2019-06-19T09:15:10-07:00</published>
+    <updated>2019-06-19T09:15:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5558"/>
+    <title>5558</title>
+    <s:type>Metal Wall Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5558_1.JPG?v=1560962369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Wall Décor<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Red metal wall compass with arrow accents</p><p>W: 31" x D: 1.5" x H: 31"</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 2.7lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Natuical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2198644359241</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>5558</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198643179593</id>
+    <published>2019-06-19T09:14:58-07:00</published>
+    <updated>2019-06-19T09:14:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5504"/>
+    <title>5504</title>
+    <s:type>Metal Wall Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5504_1.JPG?v=1560961732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Wall Décor<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Galvanized metal mail with top and bottom openings</p><p>Total W: 9" x Total D: 4.75" x Front H: 12.25" x Total H: 14.75"</p><p>Distance between hooks: 7"</p><p>Top opening: W: 7.5" x D: 3.5"</p><p>Front door opening: W: 5" x H: 5.25"</p><p></p><p>Case: 6</p><p>Weight: 1.95lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198643179593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>5504</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198642819145</id>
+    <published>2019-06-19T09:14:54-07:00</published>
+    <updated>2019-06-19T09:14:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5498f"/>
+    <title>5498F</title>
+    <s:type>Wall Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5498F_1.JPG?v=1560961630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall Décor<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue starfish wall decor piece with a wood frame</p><p>W: 12.5" x D: 1.125" x H 16.5"</p><p>Decor face Dimensions: W: 11.25" x H: 15.25"</p><p>Wood Frame Thickness: 0.5"</p><p></p><p></p><p>Case: 4</p><p>Weight: 1.3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Natuical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2198642819145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>5498F</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198642786377</id>
+    <published>2019-06-19T09:14:53-07:00</published>
+    <updated>2019-06-19T09:14:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5498c"/>
+    <title>5498C</title>
+    <s:type>Wall Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5498C_1.JPG?v=1560961629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall Décor<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue coral wall decor piece with a wood frame</p><p>W: 12.5" x D: 1.125" x H 16.5"</p><p>Decor face Dimensions: W: 11.25" x H: 15.25"</p><p>Wood Frame Thickness: 0.5"</p><p></p><p></p><p>Case: 4</p><p>Weight: 1.3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Natuical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2198642786377</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>5498C</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198642753609</id>
+    <published>2019-06-19T09:14:53-07:00</published>
+    <updated>2019-06-19T09:14:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5498w"/>
+    <title>5498W</title>
+    <s:type>Wall Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5498W_1.JPG?v=1560961634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall Décor<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue whale tail wall decor piece with a wood frame</p><p>W: 12.5" x D: 1.125" x H 16.5"</p><p>Decor face Dimensions: W: 11.25" x H: 15.25"</p><p>Wood Frame Thickness: 0.5"</p><p></p><p></p><p>Case: 4</p><p>Weight: 1.3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Natuical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2198642753609</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>5498W</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198642688073</id>
+    <published>2019-06-19T09:14:52-07:00</published>
+    <updated>2019-06-19T09:14:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5496"/>
+    <title>5496</title>
+    <s:type>Wall Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5496_1.JPG?v=1560961621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall Décor<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round black metal wall compass</p><p>Dia: 30" x Total D: 2</p><p></p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 2.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Natuical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2198642688073</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>5496</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198641606729</id>
+    <published>2019-06-19T09:14:40-07:00</published>
+    <updated>2019-06-19T09:14:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5479"/>
+    <title>5479</title>
+    <s:type>Wall Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5479_1.JPG?v=1560961233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall Décor<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Compass wall decor piece on a galvanized backdrop with a wood frame</p><p>W: 16.5" x H: 16.5" x D: 1.5"</p><p>Distance between hooks: 14.5"</p><p>Wood frame thickness: 1</p><p>Decor Face Measurements: W: 14.5" x H: 14.5"</p><p></p><p>Case: 8</p><p>Weight: 1.65lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198641606729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>5479</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2195071795273</id>
+    <published>2019-06-10T10:04:51-07:00</published>
+    <updated>2019-06-10T10:04:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-2882or"/>
+    <title>FP-2882OR</title>
+    <s:type>Metal Wall Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-2882OR_3.JPG?v=1560186767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Wall Décor<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Orange, metal dragonfly wall décor piece</p><p>L: 34" x W: 1.25" x 24"h</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1.1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2195071795273</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>FP-2882OR</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000483156041</id>
+    <published>2019-01-02T14:37:02-08:00</published>
+    <updated>2019-01-02T14:37:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5444l"/>
+    <title>5444L</title>
+    <s:type>Wall Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5444L_1.JPG?v=1550776289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall Décor<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large Wood US Flag with Metal Strip accent</p><p>W: 23.75" x H: 15.75" x D: 1.25"</p><p></p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 3.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:tag>USA</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2000483156041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>5444L</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000482992201</id>
+    <published>2019-01-02T14:37:01-08:00</published>
+    <updated>2019-01-02T14:37:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5440"/>
+    <title>5440</title>
+    <s:type>Wall Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5440_1_a7a81d6d-e1c0-4480-ac1f-3d26bec89ee3.jpg?v=1590449242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall Décor<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold flower wall decor piece with a white wood frame</p><p>H: 12.5" x W: 12.5" x D: 1.25" x Total D: 2"</p><p>Frame: Depth: 1.25" x Across: 0.5"</p><p>Center Panel: 11.25" x 11.25"</p><p></p><p></p><p>Case: 12</p><p>Weight: 1.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000482992201</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>5440</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000482959433</id>
+    <published>2019-01-02T14:37:00-08:00</published>
+    <updated>2019-01-02T14:37:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5439"/>
+    <title>5439</title>
+    <s:type>Wall Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5439_1.jpg?v=1621368043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall Décor<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dark blue and gold flower wall decor piece with a natural wood frame</p><p>H: 12.5" x W: 12.5" x D: 1.25" x Total D: 2"</p><p>Frame: Depth: 1.25" x Across: 0.5"</p><p>Center Panel: 11.25" x 11.25"</p><p></p><p></p><p>Case: 12</p><p>Weight: 1.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000482959433</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>5439</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000482926665</id>
+    <published>2019-01-02T14:37:00-08:00</published>
+    <updated>2019-01-02T14:37:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5438"/>
+    <title>5438</title>
+    <s:type>Wall Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5438_1.jpg?v=1590449220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Wall Décor<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black flower wall decor piece with a white wood frame</p><p>H: 12.5" x W: 12.5" x D: 1.25" x Total D: 2"</p><p>Frame: Depth: 1.25" x Across: 0.5"</p><p>Center Panel: 11.25" x 11.25"</p><p></p><p></p><p>Case: 12</p><p>Weight: 1.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000482926665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>5438</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+</feed>

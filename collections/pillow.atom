@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/pillow.atom"/>
+  <title>Cheungs</title>
+  <updated>2017-05-22T16:35:54-07:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/10606499733</id>
+    <published>2017-05-22T16:35:54-07:00</published>
+    <updated>2017-05-22T16:35:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3076f"/>
+    <title>FP-3076F</title>
+    <s:type>Pillow</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3076F_1.jpg?v=1598982290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Pillow<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18'' Square Pillow - Butterfly</p><p>L: 18" x W: 18" x 7"h</p><p></p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 1.1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10606499733</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.50</s:price>
+      <s:sku>FP-3076F</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10606499477</id>
+    <published>2017-05-22T16:35:54-07:00</published>
+    <updated>2017-05-22T16:35:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3076a"/>
+    <title>FP-3076A</title>
+    <s:type>Pillow</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3076A_1.jpg?v=1596217074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Pillow<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18'' Square Pillow - Crown</p><p>L: 18" x W: 18" x 7"h</p><p></p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 1.1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10606499477</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.50</s:price>
+      <s:sku>FP-3076A</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10591775765</id>
+    <published>2017-05-17T12:52:54-07:00</published>
+    <updated>2017-05-17T12:52:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3263f"/>
+    <title>FP-3263F</title>
+    <s:type>Pillow</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3263F_1.jpg?v=1594152695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Pillow<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18'' Stars &amp; Stripes Pillow</p><p>L: 18" x W: 18" x 7"h</p><p></p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 1.1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>USA</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10591775765</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.50</s:price>
+      <s:sku>FP-3263F</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10591775701</id>
+    <published>2017-05-17T12:52:54-07:00</published>
+    <updated>2017-05-17T12:52:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3263e"/>
+    <title>FP-3263E</title>
+    <s:type>Pillow</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3263E_1.jpg?v=1594152676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Pillow<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18'' Apple Green Parrot Pillow</p><p>L: 18" x W: 18" x 7"h</p><p></p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 1.1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10591775701</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.50</s:price>
+      <s:sku>FP-3263E</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+</feed>

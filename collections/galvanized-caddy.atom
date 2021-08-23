@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/galvanized-caddy.atom"/>
+  <title>Cheungs</title>
+  <updated>2020-06-11T10:24:49-07:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/4490597728329</id>
+    <published>2020-06-11T10:24:49-07:00</published>
+    <updated>2020-06-11T10:24:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4050"/>
+    <title>FP-4050</title>
+    <s:type>Galvanized Caddy</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4050_1.jpg?v=1591897098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Caddy<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal 4 slot storage caddy with 2 center handles</p><p>L: 11" x W: 11" x H: 4.25"</p><p></p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4490597728329</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>FP-4050</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4490597695561</id>
+    <published>2020-06-11T10:24:48-07:00</published>
+    <updated>2020-06-11T10:24:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4018"/>
+    <title>FP-4018</title>
+    <s:type>Galvanized Caddy</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4018_1.jpg?v=1591897093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Caddy<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal 4 slot caddy with side metal handles</p><p>L: 10.25" x W: 7" x H: 8"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1.4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4490597695561</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>FP-4018</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4490596974665</id>
+    <published>2020-06-11T10:24:34-07:00</published>
+    <updated>2020-06-11T10:24:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4971"/>
+    <title>4971</title>
+    <s:type>Galvanized Caddy</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4971_1.jpg?v=1591896793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Caddy<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 Compartment round ribbed caddy</p><p>L: 10.5" x W: 10.5" x H: 5.75" x TH: 13.5"</p><p></p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 1.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4490596974665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>4971</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4490596909129</id>
+    <published>2020-06-11T10:24:33-07:00</published>
+    <updated>2020-06-11T10:24:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4854"/>
+    <title>4854</title>
+    <s:type>Galvanized Caddy</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4854_1.jpg?v=1621636693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Caddy<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal 6 compartment caddy with wood side handles and  center cork accent</p><p>L: 10.25" x W: 7" x H: 4"  TH: 5.5" x TL: 13"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 1.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4490596909129</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>4854</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/284427419669</id>
+    <published>2018-04-04T12:39:22-07:00</published>
+    <updated>2018-04-04T12:39:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5147"/>
+    <title>5147</title>
+    <s:type>Galvanized Caddy</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5147_1.jpg?v=1624383810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Caddy<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>16 Compartment Metal Caddy with Side Handles</p><p>L: 20.5" x W: 11.875" x H: 4.75"</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 3.85lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/284427419669</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>5147</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/130158395413</id>
+    <published>2018-01-16T10:51:57-08:00</published>
+    <updated>2018-01-16T10:51:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5137s"/>
+    <title>5137S</title>
+    <s:type>Galvanized Caddy</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5137S_1.JPG?v=1561482498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Caddy<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A rectangular, galvanized metal, 3 compartment caddy with a curved base and raised side handles with wooden grips</p><p>L: 15.5" x W: 5.75" x H: 3.75" x TH: 5"</p><p>Slot: L: 5.25" x W: 5" x H: 2.75"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 1.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/130158395413</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>5137S</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/130149416981</id>
+    <published>2018-01-16T10:44:41-08:00</published>
+    <updated>2018-01-16T10:44:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5128"/>
+    <title>5128</title>
+    <s:type>Galvanized Caddy</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5128_1.jpg?v=1624383618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Caddy<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A rectangular, galvanized metal, 4 compartment caddy with raised side handles with wooden grips</p><p>L: 12.5" x W: 9.75" x H: 3" x TH: 4.5" x TL: 15.25"</p><p>Slot: L: 6" x W: 4.25" x H: 2.75"</p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 1.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/130149416981</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>5128</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/130149351445</id>
+    <published>2018-01-16T10:44:41-08:00</published>
+    <updated>2018-01-16T10:44:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5127"/>
+    <title>5127</title>
+    <s:type>Galvanized Caddy</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5127_1.jpg?v=1621367160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Caddy<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A rectangular, galvanized metal, 3 compartment caddy with raised side handles with wooden grips</p><p>L: 20" x W: 5.25" x H: 3" x TH: 4.5" x TL: 22.5"</p><p>Slot: L: 6" x W: 6.5" x H: 2.75"</p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 2.1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/130149351445</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>5127</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/130149318677</id>
+    <published>2018-01-16T10:44:41-08:00</published>
+    <updated>2018-01-16T10:44:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5126"/>
+    <title>5126</title>
+    <s:type>Galvanized Caddy</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5126_1.jpg?v=1608577073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Caddy<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A 9 compartment, galvanized metal caddy with raised side handles with wooden grips</p><p>L: 12" x W: 12" x H: 3.5" x TH: 4.75"</p><p>Slot: L: 4" x W: 4" x H: 3.5"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 2.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/130149318677</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>5126</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841995797</id>
+    <published>2017-06-23T12:59:11-07:00</published>
+    <updated>2017-06-23T12:59:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4975"/>
+    <title>4975</title>
+    <s:type>Galvanized Caddy</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4975_2.JPG?v=1510344560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Caddy<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 Compartment round caddy</p><p>L: 7.25" x W: 5.75" x H: 5.25" x TH: 8"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 0.77lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841995797</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>4975</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841995413</id>
+    <published>2017-06-23T12:59:10-07:00</published>
+    <updated>2017-06-23T12:59:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4970"/>
+    <title>4970</title>
+    <s:type>Galvanized Caddy</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4970_1.jpg?v=1578344051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Caddy<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 Compartment round ribbed caddy</p><p>L: 9" x W: 9" x H: 5.25" x TH: 12"</p><p></p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 0.99lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841995413</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>4970</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841982421</id>
+    <published>2017-06-23T12:58:23-07:00</published>
+    <updated>2017-06-23T12:58:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4863"/>
+    <title>4863</title>
+    <s:type>Galvanized Caddy</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4863_4.JPG?v=1564068799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Caddy<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 Slot rectangular galvanized metal caddy</p><p>L: 11" x W: 7.75" x H: 5.5" x TH: 10"</p><p>Slot 1: L: 10.75" x W: 3.5" </p><p>Slot 2: L: 3.5" x W: 4"</p><p></p><p></p><p>Case: 6</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841982421</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>4863</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/9099434566</id>
+    <published>2016-12-11T17:21:13-08:00</published>
+    <updated>2016-12-11T17:21:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4049"/>
+    <title>FP-4049</title>
+    <s:type>Galvanized Caddy</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4049_1.JPG?v=1557971540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Caddy<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal 6 slot utensil holder</p><p>L: 10.5" x W: 6.5" x H: 5" x TH: 10.75"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1.3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/9099434566</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>FP-4049</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/9099434502</id>
+    <published>2016-12-11T17:21:13-08:00</published>
+    <updated>2016-12-11T17:21:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4048"/>
+    <title>FP-4048</title>
+    <s:type>Galvanized Caddy</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4048_1.jpg?v=1611181465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Caddy<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal 3 slot utensil holder</p><p>L: 12.75" x W: 7.75" x H: 5.75" x TH: 10.75"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1.45lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/9099434502</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>FP-4048</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/9099432390</id>
+    <published>2016-12-11T17:21:10-08:00</published>
+    <updated>2016-12-11T17:21:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4012"/>
+    <title>FP-4012</title>
+    <s:type>Galvanized Caddy</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4012_1.JPG?v=1567034124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Caddy<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal square 4 slot caddy</p><p>L: 10" x W: 10" x H: 3.75"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 1.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/9099432390</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>FP-4012</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/9099432326</id>
+    <published>2016-12-11T17:21:10-08:00</published>
+    <updated>2016-12-11T17:21:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4011"/>
+    <title>FP-4011</title>
+    <s:type>Galvanized Caddy</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4011_1.JPG?v=1567034122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Caddy<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal rectangular 6 slot caddy with side rope handles</p><p>L: 12" x W: 8.25" x H: 5.75"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 1.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/9099432326</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>FP-4011</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/9099432262</id>
+    <published>2016-12-11T17:21:10-08:00</published>
+    <updated>2016-12-11T17:21:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4010"/>
+    <title>FP-4010</title>
+    <s:type>Galvanized Caddy</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4010_1.jpg?v=1585510937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Caddy<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal oblong bucket with center metal handle with wooden grip</p><p>L: 12" x W: 5.5" x H: 7.25"</p><p></p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/9099432262</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.50</s:price>
+      <s:sku>FP-4010</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8893654726</id>
+    <published>2016-11-09T12:39:00-08:00</published>
+    <updated>2016-11-09T12:39:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4414s"/>
+    <title>FP-4414S</title>
+    <s:type>Galvanized Caddy</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4414S_1.jpg?v=1573500865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Caddy<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small 6 galvanized caddy with center wood handle</p><p>L: 12" x W: 8.25" x H: 4.25" x TH: 6.75"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/8893654726</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>FP-4414S</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8893654598</id>
+    <published>2016-11-09T12:39:00-08:00</published>
+    <updated>2016-11-09T12:39:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4414l"/>
+    <title>FP-4414L</title>
+    <s:type>Galvanized Caddy</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4414L_1_dbee6366-2f36-4d7c-b069-9ef405c45c5d.jpg?v=1573585571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Caddy<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large 6 galvanized caddy with center wood handle</p><p>L: 15" x W: 9.75" x H: 4.25" x TH: 6.75"</p><p></p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 2.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/8893654598</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>FP-4414L</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8893654406</id>
+    <published>2016-11-09T12:39:00-08:00</published>
+    <updated>2016-11-09T12:39:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4413s"/>
+    <title>FP-4413S</title>
+    <s:type>Galvanized Caddy</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4413S_1.jpg?v=1573500822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Caddy<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small 4 galvanized caddy with center wood handle</p><p>L: 8" x W: 12" x H: 6.75"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1.6lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/8893654406</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>FP-4413S</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8893654342</id>
+    <published>2016-11-09T12:39:00-08:00</published>
+    <updated>2016-11-09T12:39:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4413l"/>
+    <title>FP-4413L</title>
+    <s:type>Galvanized Caddy</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4413L_1.jpg?v=1573500818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Caddy<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large 4 galvanized caddy with center wood handle</p><p>L: 15" x W: 9.75" x H: 4.25" x TH: 6.75"</p><p></p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/8893654342</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>FP-4413L</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8893654278</id>
+    <published>2016-11-09T12:39:00-08:00</published>
+    <updated>2016-11-09T12:39:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4412"/>
+    <title>FP-4412</title>
+    <s:type>Galvanized Caddy</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4412_1.JPG?v=1557971693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Caddy<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 Slot galvanized caddy with center wood handle</p><p>L: 10.5" x W: 10.5" x H: 4" x TH: 6.75"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1.74lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/8893654278</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>FP-4412</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8871073862</id>
+    <published>2016-11-04T10:15:00-07:00</published>
+    <updated>2016-11-04T10:15:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4540"/>
+    <title>FP-4540</title>
+    <s:type>Galvanized Caddy</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4540_1.JPG?v=1564074945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Caddy<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal galvanized 5 slots storage</p><p>L:16.5" x 8.125" x H: 5"</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 2.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/8871073862</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>FP-4540</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8871072262</id>
+    <published>2016-11-04T10:15:00-07:00</published>
+    <updated>2016-11-04T10:15:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4518"/>
+    <title>FP-4518</title>
+    <s:type>Galvanized Caddy</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4518.JPG?v=1478283805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Galvanized Caddy<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal galvanized caddy - welcome</p><p>L:14.625 x W:11.5" x H: 12.5"</p><p></p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/8871072262</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>FP-4518</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+</feed>

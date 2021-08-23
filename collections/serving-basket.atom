@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/serving-basket.atom"/>
+  <title>Cheungs</title>
+  <updated>2021-01-07T14:11:30-08:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/4599628562505</id>
+    <published>2021-01-07T14:11:30-08:00</published>
+    <updated>2021-01-07T14:11:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/uw-9316a-r"/>
+    <title>UW-9316A-R</title>
+    <s:type>Serving Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/UW-9316A-R_1.jpg?v=1610058278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Serving Basket<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Zoya Natural Wicker Table Basket</p><p>L: 8.5" x W: 8.5" x H: 3.5"</p><p></p><p></p><p></p><p></p><p>Case: 100</p><p>Weight: 0.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Natural Willow</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4599628562505</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>UW-9316A-R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4586233200713</id>
+    <published>2020-11-17T10:49:08-08:00</published>
+    <updated>2020-11-17T10:49:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5679-2"/>
+    <title>5679-2</title>
+    <s:type>Serving Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5679-2_1.jpg?v=1605637700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Serving Basket<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Albia Two Piece Colored Weave Water Hyacinth Tray Set</p><p>Large: W: 14" x D: 10.5" x H: 4"</p><p>Small: W: 12.25" x D: 8.75" x H: 3.5"</p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 1.9lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:tag>Water Hyacinth</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4586233200713</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>5679-2</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4586233135177</id>
+    <published>2020-11-17T10:49:08-08:00</published>
+    <updated>2020-11-17T10:49:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5677-2"/>
+    <title>5677-2</title>
+    <s:type>Serving Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5677-2_1.jpg?v=1605637422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Serving Basket<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Albia Two Piece Colored Weave Seagrass Tray Set</p><p>Large: W: 14.25" x D: 10.75" x H: 4.5"</p><p>Small: W: 12.25" x D: 8.75" x H: 4"</p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 2.35lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:tag>Seagrass</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4586233135177</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>5677-2</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4416259883081</id>
+    <published>2020-04-07T11:35:18-07:00</published>
+    <updated>2020-04-07T11:35:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/uw-38374-12sl"/>
+    <title>UW-38374-12SL</title>
+    <s:type>Serving Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/UW-38374-12SL_1.jpg?v=1586284590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Serving Basket<br>
+        <strong>Price: </strong>
+            4.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12" Stained willow bread basket</p><p></p><p></p><p></p><p></p><p></p><p>Case: 100</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stained Willow</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4416259883081</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>UW-38374-12SL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198641344585</id>
+    <published>2019-06-19T09:14:37-07:00</published>
+    <updated>2019-06-19T09:14:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5471-3"/>
+    <title>5471-3</title>
+    <s:type>Serving Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5471-3_1.jpg?v=1604625071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Serving Basket<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 water hyacinth large trays</p><p>Lg: L: 21.5" x W: 14" x H: 4" x Total H: 5.5"</p><p>Med: L: 18.5" x W: 11.75" x H: 3.5" x Total H: 5.5"</p><p>Sm: L: 15.5" x W: 10" x H: 2.5" x Total H: 4.5"</p><p></p><p></p><p>Case: </p><p>Weight: 4.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198641344585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>5471-3</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198641115209</id>
+    <published>2019-06-19T09:14:34-07:00</published>
+    <updated>2019-06-19T09:14:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5464"/>
+    <title>5464</title>
+    <s:type>Serving Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5464_1.JPG?v=1560961009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Serving Basket<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Water hyacinth 4 compartment caddy with center handle</p><p>L: 10.75" x W: 8" x H: 4.25" x Total H: 9.75"</p><p>Slot: L: 4.5" x W: 3.5" x H: 3.5"</p><p></p><p></p><p></p><p>Case: </p><p>Weight: 1.15lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198641115209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>5464</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198641049673</id>
+    <published>2019-06-19T09:14:34-07:00</published>
+    <updated>2019-06-19T09:14:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5462-2"/>
+    <title>5462-2</title>
+    <s:type>Serving Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5462-2_1.jpg?v=1621368028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Serving Basket<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 seagrass baskets with metal frame</p><p>Lg: L: 16.25" x W: 12.25" x H: 3"</p><p>Sm: L: 12.25" x W: 8.5" x H: 2.25"</p><p>Lg Interior: L: 15.5" x W: 11.75" x H: 2.75"</p><p>Sm Interior: L:11.5" x W: 7.75" x H: 1.5"</p><p></p><p>Case: </p><p>Weight: 2.1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198641049673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>5462-2</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198640918601</id>
+    <published>2019-06-19T09:14:32-07:00</published>
+    <updated>2019-06-19T09:14:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5458-4"/>
+    <title>5458-4</title>
+    <s:type>Serving Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5458-4_1.jpg?v=1621368018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Serving Basket<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 water hyacinth rectangular trays with metal frame</p><p>XL: L: 17.25" x W: 13.25" x H: 4.25"</p><p>Lg: L: 15.25" x W: 11" x H: 3.25"</p><p>Md: L: 13.25" x W: 9" x H: 2.5"</p><p>Sm: L: 11.5" x W: 7.25" x H: 2"</p><p></p><p>Case: </p><p>Weight: 3.9lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198640918601</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>5458-4</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198640885833</id>
+    <published>2019-06-19T09:14:32-07:00</published>
+    <updated>2019-06-19T09:14:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5457-4"/>
+    <title>5457-4</title>
+    <s:type>Serving Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5457-4_1.jpg?v=1604624831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Serving Basket<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 water hyacinth square trays with metal frame</p><p>X-Lg: L: 15.75" x W: 15.75" x H: 4"</p><p>Lg: L: 13.75" x W: 13.75" x H: 3"</p><p>Med: L: 11.75" x W: 11.75" x H: 2.25"</p><p>Sm: L: 9.75" x W: 9.75" x H: 2"</p><p></p><p>Case: </p><p>Weight: 4.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198640885833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>5457-4</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198640820297</id>
+    <published>2019-06-19T09:14:31-07:00</published>
+    <updated>2019-06-19T09:14:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5456"/>
+    <title>5456</title>
+    <s:type>Serving Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5456_1_89813f2c-234a-426e-a9bf-23263eafd722.JPG?v=1560960961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Serving Basket<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Water hyacinth bowl with inner metal frame</p><p>Dia: 13.25" x H: 3"</p><p>Interior: Dia: 12.75" x H: 1.75" Base: Dia: 5"</p><p></p><p></p><p></p><p>Case: </p><p>Weight: 0.65lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198640820297</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>5456</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11175183893</id>
+    <published>2017-07-12T15:53:06-07:00</published>
+    <updated>2017-07-12T15:53:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/cr-04-062m"/>
+    <title>CR-04-062M</title>
+    <s:type>Serving Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CR-04-062M_1.jpg?v=1627930493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Serving Basket<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bacbac rope oval tray with metal frame - Medium</p><p>L: 24" x W: 8" x H: 2.25"</p><p></p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11175183893</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>CR-04-062M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10904136533</id>
+    <published>2017-07-03T12:27:21-07:00</published>
+    <updated>2017-07-03T12:27:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/uw-9750-2wl"/>
+    <title>UW-9750-2WL</title>
+    <s:type>Serving Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/UW-9750-2WL_1.jpg?v=1621369107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Serving Basket<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 Rectangular white willow baskets with fabric liner</p><p>Large: L: 12.25" x W: 9" x H: 6" x TH: 8.5"</p><p>Small: L: 10.5" x W: 7.25" x H: 5.25" x TH: 7.5"</p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stained Willow</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10904136533</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>UW-9750-2WL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10904136341</id>
+    <published>2017-07-03T12:27:21-07:00</published>
+    <updated>2017-07-03T12:27:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/uw-9750-2sll"/>
+    <title>UW-9750-2SLL</title>
+    <s:type>Serving Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/UW-9750-2SLL_1.jpg?v=1621369106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Serving Basket<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 Rectangular stained willow baskets with fabric liner</p><p>Large: L: 12.25" x W: 9" x H: 6" x TH: 8.5"</p><p>Small: L: 10.5" x W: 7.25" x H: 5.25" x TH: 7.5"</p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stained Willow</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10904136341</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>UW-9750-2SLL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10904136213</id>
+    <published>2017-07-03T12:27:21-07:00</published>
+    <updated>2017-07-03T12:27:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/uw-9750-2bkl"/>
+    <title>UW-9750-2BKL</title>
+    <s:type>Serving Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/UW-9750-2BKL_1.jpg?v=1621369104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Serving Basket<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 Rectangular black willow baskets with fabric liner</p><p>Large: L: 12.25" x W: 9" x H: 6" x TH: 8.5"</p><p>Small: L: 10.5" x W: 7.25" x H: 5.25" x TH: 7.5"</p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stained Willow</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10904136213</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>UW-9750-2BKL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10904129173</id>
+    <published>2017-07-03T12:27:15-07:00</published>
+    <updated>2017-07-03T12:27:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/uw-9714-18"/>
+    <title>UW-9714-18</title>
+    <s:type>Serving Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/UW-9714-18.JPG?v=1499116463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Serving Basket<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18" Round natural willow tray</p><p>L: 18" x W: 18" x H: 1"</p><p></p><p></p><p></p><p></p><p>Case: 30</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Natural Willow</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10904129173</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>UW-9714-18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10904128981</id>
+    <published>2017-07-03T12:27:15-07:00</published>
+    <updated>2017-07-03T12:27:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/uw-9700l-rd"/>
+    <title>UW-9700L-RD</title>
+    <s:type>Serving Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/UW-9700L-RD_1.JPG?v=1559085760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Serving Basket<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round 13" cloth lined willow basket</p><p>L: 10" x W: 10" x H: 5" x TH: 6.75"</p><p></p><p></p><p></p><p></p><p>Case: 40</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stained Willow</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10904128981</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>UW-9700L-RD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10904128661</id>
+    <published>2017-07-03T12:27:15-07:00</published>
+    <updated>2017-07-03T12:27:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/uw-9700l-ov"/>
+    <title>UW-9700L-OV</title>
+    <s:type>Serving Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/UW_9700L-OV_1.JPG?v=1560267220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Serving Basket<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oval 13" cloth lined willow basket</p><p>L: 13" x W: 9" x H: 4.5" x TH: 6.5"</p><p></p><p></p><p></p><p></p><p>Case: 40</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stained Willow</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10904128661</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>UW-9700L-OV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10904127957</id>
+    <published>2017-07-03T12:27:14-07:00</published>
+    <updated>2017-07-03T12:27:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/uw-9693-3m"/>
+    <title>UW-9693-3M</title>
+    <s:type>Serving Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/UW-9693-3M_1.jpg?v=1627935379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Serving Basket<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3  Round dark willow and rope trays with side handles</p><p>Large: L: 14.5" x W: 13" x H: 4" x TH: 6.5"</p><p>Medium: L: 12.5" x W: 11" x H: 3.5" x TH: 6"</p><p>Small: L: 10.5" x W: 9" x H: 3" x TH: 5.5"</p><p></p><p></p><p>Case: 20</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stained Willow</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10904127957</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>UW-9693-3M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10904125845</id>
+    <published>2017-07-03T12:27:13-07:00</published>
+    <updated>2017-07-03T12:27:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/uw-9542-17"/>
+    <title>UW-9542-17</title>
+    <s:type>Serving Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/UW-9542-17_1.jpg?v=1586235308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Serving Basket<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rectangular split willow tray</p><p>L: 17" x W: 14" x H: 3.5"</p><p></p><p></p><p></p><p></p><p>Case: 30</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Natural Willow</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10904125845</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>UW-9542-17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10904125653</id>
+    <published>2017-07-03T12:27:13-07:00</published>
+    <updated>2017-07-03T12:27:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/uw-9542-15"/>
+    <title>UW-9542-15</title>
+    <s:type>Serving Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/UW-9542-15_1.jpg?v=1586235303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Serving Basket<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rectangular split willow tray</p><p>L: 15" x W: 12" x H: 3"</p><p></p><p></p><p></p><p></p><p>Case: 30</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Natural Willow</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10904125653</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>UW-9542-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10904125397</id>
+    <published>2017-07-03T12:27:13-07:00</published>
+    <updated>2017-07-03T12:27:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/uw-9542-13"/>
+    <title>UW-9542-13</title>
+    <s:type>Serving Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/UW-9542-13_1.jpg?v=1586235292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Serving Basket<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rectangular split willow tray</p><p>L: 12" x W: 9.5" x H: 2.5"</p><p></p><p></p><p></p><p></p><p>Case: 30</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Natural Willow</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10904125397</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>UW-9542-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10904125205</id>
+    <published>2017-07-03T12:27:13-07:00</published>
+    <updated>2017-07-03T12:27:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/uw-9519rt-m"/>
+    <title>UW-9519RT-M</title>
+    <s:type>Serving Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/UW-9519RT-M.jpg?v=1499114926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Serving Basket<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rectangular merlot willow and wood basket with rope handles</p><p>Top: L: 14" x W: 9" x H: 4.5" x TH: 6"</p><p>Base: 11.5" x 7"</p><p></p><p></p><p></p><p>Case: 30</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stained Willow</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10904125205</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>UW-9519RT-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10904125077</id>
+    <published>2017-07-03T12:27:12-07:00</published>
+    <updated>2017-07-03T12:27:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/uw-9519rd-m"/>
+    <title>UW-9519RD-M</title>
+    <s:type>Serving Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/UW-9519RD-M.JPG?v=1499114915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Serving Basket<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round merlot willow and wood basket with rope handles</p><p>L: 12.5" x W: 12.5" x H: 4.5" x TH: 6.5"</p><p></p><p></p><p></p><p></p><p>Case: 30</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stained Willow</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10904125077</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>UW-9519RD-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10904124949</id>
+    <published>2017-07-03T12:27:12-07:00</published>
+    <updated>2017-07-03T12:27:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/uw-9519ov-m"/>
+    <title>UW-9519OV-M</title>
+    <s:type>Serving Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/UW-9519OV-M.JPG?v=1499114905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Serving Basket<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oval merlot willow and wood basket with rope handles</p><p>L: 13" x W: 10" x H: 4.5" x TH: 6.5"</p><p></p><p></p><p></p><p></p><p>Case: 30</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stained Willow</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10904124949</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>UW-9519OV-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10904112469</id>
+    <published>2017-07-03T12:27:03-07:00</published>
+    <updated>2017-07-03T12:27:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/uw-9245a-up"/>
+    <title>UW-9245A-UP</title>
+    <s:type>Serving Basket</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/UW-9245A-UP_1.jpg?v=1595808289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Serving Basket<br>
+        <strong>Price: </strong>
+            7.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>10" Unpeeled oval willow basket with side handles</p><p>L: 10.5" x W: 7" x H: 4.5" x TH: 6"</p><p></p><p></p><p></p><p></p><p>Case: 100</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Unpeeled Willow</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10904112469</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.25</s:price>
+      <s:sku>UW-9245A-UP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

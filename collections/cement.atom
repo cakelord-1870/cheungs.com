@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/cement.atom"/>
+  <title>Cheungs</title>
+  <updated>2021-07-26T12:42:00-07:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/6582646046793</id>
+    <published>2021-07-26T12:42:00-07:00</published>
+    <updated>2021-07-26T12:42:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5747"/>
+    <title>5747</title>
+    <s:type>Cement</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5747Family_1.jpg?v=1624906591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cement<br>
+        <strong>Price: </strong>
+            4.50 - 7.50
+            <a href="https://cheungs.com/products/5747">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Melanthe Marquise Patterned Ceramic Pot</p><p>Lg: Dia: 6.5" x H: 5.75" x Base Dia: 5"</p><p>Md: Dia: 5.5" x H: 5" x Base Dia: 4"</p><p>Sm: Dia: 4.75" x H: 4.25" x Base Dia: 3.5"</p><p>Lg Case: 8</p><p>Md Case: 12</p><p> Sm Case: 18</p><p>Weight: 3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/6582646046793</id>
+      <title>Large</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>5747L</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cheungs.com/products/6582646046793</id>
+      <title>Medium</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>5747M</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cheungs.com/products/6582646046793</id>
+      <title>Small</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>5747S</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/6582646014025</id>
+    <published>2021-07-26T12:41:59-07:00</published>
+    <updated>2021-07-26T12:41:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5746"/>
+    <title>5746</title>
+    <s:type>Cement</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5746Family_1.jpg?v=1624906577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cement<br>
+        <strong>Price: </strong>
+            4.00 - 8.00
+            <a href="https://cheungs.com/products/5746">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Arianthe Orb Patterned Cement Pot</p><p>Lg: Dia: 6.75" x H: 5.75" x Base Dia: 6"</p><p>Md: Dia: 5.5" x H: 4.5" x Base: 4.5"</p><p>Sm: Dia: 4.5" x H: 3.75" x Base: 3.75"</p><p>Lg Case: 8</p><p>Md Case: 18</p><p> Sm Case: 24</p><p>Weight: 4.3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/6582646014025</id>
+      <title>Large</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>5746L</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cheungs.com/products/6582646014025</id>
+      <title>Medium</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>5746M</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cheungs.com/products/6582646014025</id>
+      <title>Small</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>5746S</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000483647561</id>
+    <published>2019-01-02T14:37:07-08:00</published>
+    <updated>2019-01-02T14:37:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5452"/>
+    <title>5452</title>
+    <s:type>Cement</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5452_2.JPG?v=1550776425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cement<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cement pot stand with a square base</p><p>L: 7.75" x W: 7.75" x H: 9.5"</p><p></p><p></p><p></p><p></p><p>Case: 3</p><p>Weight: 6lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000483647561</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>5452</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000483614793</id>
+    <published>2019-01-02T14:37:06-08:00</published>
+    <updated>2019-01-02T14:37:06-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5451s"/>
+    <title>5451S</title>
+    <s:type>Cement</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5451S_1.jpg?v=1628633306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cement<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round, cement pot with overlapping feather pattern</p><p>L: 5.25" x W: 5.25"x H: 4.25"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000483614793</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>5451S</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000483582025</id>
+    <published>2019-01-02T14:37:06-08:00</published>
+    <updated>2019-01-02T14:37:06-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5451l"/>
+    <title>5451L</title>
+    <s:type>Cement</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5451L_1.jpg?v=1628633301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cement<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round, cement pot with overlapping feather pattern</p><p>L: 6.25" x W: 6.25" x H: 5.5"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 3.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000483582025</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>5451L</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906617685</id>
+    <published>2017-10-19T10:14:29-07:00</published>
+    <updated>2017-10-19T10:14:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5103"/>
+    <title>5103</title>
+    <s:type>Cement</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5103_1.jpg?v=1603218757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cement<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round cement pot with lotus leaf design.</p><p>L: 6.5" x W: 6.5" x H: 9"</p><p>Opening: Diameter: 5.25" </p><p>Base: 4.5"</p><p></p><p></p><p>Case: 6</p><p>Weight: 4.4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906617685</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>5103</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906617557</id>
+    <published>2017-10-19T10:14:29-07:00</published>
+    <updated>2017-10-19T10:14:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5102"/>
+    <title>5102</title>
+    <s:type>Cement</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5102_1.jpg?v=1628633262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cement<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cement pot with side handles. </p><p>L: 6.25" x W: 6.25"  x H: 8" x TL: 9"</p><p>Opening: Diameter: 5.25" </p><p>Base: 4.25"</p><p></p><p></p><p>Case: 6</p><p>Weight: 4.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906617557</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>5102</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906617429</id>
+    <published>2017-10-19T10:14:28-07:00</published>
+    <updated>2017-10-19T10:14:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5101"/>
+    <title>5101</title>
+    <s:type>Cement</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5101_1.jpg?v=1628633254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cement<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cement pot with side handles. </p><p>L: 6.75" x W: 6.75" x H: 7.75" x TL: 8.5"</p><p>Opening: Diameter: 4.5"</p><p>Base: 4"</p><p></p><p></p><p>Case: 8</p><p>Weight: 4.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906617429</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>5101</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906617365</id>
+    <published>2017-10-19T10:14:28-07:00</published>
+    <updated>2017-10-19T10:14:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5100"/>
+    <title>5100</title>
+    <s:type>Cement</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5100_1.jpg?v=1628633246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cement<br>
+        <strong>Price: </strong>
+            12.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cement urn with square base. </p><p>L: 7.5" x W: 7.5" x H: 9.5"</p><p>Opening: Diameter: 3.5"</p><p>Base: 4" x 4"</p><p></p><p></p><p>Case: 3</p><p>Weight: 5.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906617365</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.75</s:price>
+      <s:sku>5100</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906617301</id>
+    <published>2017-10-19T10:14:28-07:00</published>
+    <updated>2017-10-19T10:14:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5099s"/>
+    <title>5099S</title>
+    <s:type>Cement</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5099S_1.JPG?v=1508446774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cement<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cement square tapered planter. </p><p>L: 5" x W: 5" x H: 4.5"</p><p></p><p></p><p></p><p></p><p>Case: 16</p><p>Weight: 2.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906617301</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>5099S</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906617237</id>
+    <published>2017-10-19T10:14:27-07:00</published>
+    <updated>2017-10-19T10:14:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5099l"/>
+    <title>5099L</title>
+    <s:type>Cement</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5099L.JPG?v=1508446742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cement<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cement square tapered planter. </p><p>L: 6.5" x W: 6.5" x H: 5.5"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906617237</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>5099L</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906617173</id>
+    <published>2017-10-19T10:14:27-07:00</published>
+    <updated>2017-10-19T10:14:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5098s"/>
+    <title>5098S</title>
+    <s:type>Cement</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5098S_56f94f90-26bb-494a-91e8-10e35eb2f8bd.JPG?v=1508446716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cement<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Square cement planer with base. </p><p>L: 4.25" x W: 4.25" x H: 4.75"</p><p></p><p></p><p></p><p></p><p>Case: 18</p><p>Weight: 1.83lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906617173</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>5098S</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906617109</id>
+    <published>2017-10-19T10:14:26-07:00</published>
+    <updated>2017-10-19T10:14:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5098l"/>
+    <title>5098L</title>
+    <s:type>Cement</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5098L.JPG?v=1508446697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cement<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Square cemenet planter with base. </p><p>L: 5" x W: 5" x H: 5.5"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 2.65lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906617109</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>5098L</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906617045</id>
+    <published>2017-10-19T10:14:26-07:00</published>
+    <updated>2017-10-19T10:14:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5097"/>
+    <title>5097</title>
+    <s:type>Cement</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5097_1.jpg?v=1578344267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cement<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cement rectangular planter. </p><p>L: 9" x W: 5" x H: 5.75"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906617045</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>5097</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906616981</id>
+    <published>2017-10-19T10:14:26-07:00</published>
+    <updated>2017-10-19T10:14:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5096"/>
+    <title>5096</title>
+    <s:type>Cement</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5096_1.jpg?v=1578344255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cement<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rectangular cement planter. </p><p>L: 9.25" x W: 5" x H: 4.5"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 3.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906616981</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>5096</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906616789</id>
+    <published>2017-10-19T10:14:25-07:00</published>
+    <updated>2017-10-19T10:14:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5095"/>
+    <title>5095</title>
+    <s:type>Cement</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5095_1.jpg?v=1578344206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cement<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Square cement planter. </p><p>L: 5.25" x W: 5.25" x H: 4.25"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 1.85lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906616789</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>5095</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906616725</id>
+    <published>2017-10-19T10:14:25-07:00</published>
+    <updated>2017-10-19T10:14:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5094"/>
+    <title>5094</title>
+    <s:type>Cement</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5094_1.jpg?v=1578344192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cement<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oval cement planter. </p><p>L: 9.25" x W: 5" x H: 4"</p><p>Opening: 8.5" x 4.25"</p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906616725</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>5094</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906616661</id>
+    <published>2017-10-19T10:14:25-07:00</published>
+    <updated>2017-10-19T10:14:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5093"/>
+    <title>5093</title>
+    <s:type>Cement</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5093_1.jpg?v=1593399688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cement<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cement faux rock planter. </p><p>L: 12.5" x W: 9" x H: 3"</p><p>Opening: 8.75" x 6"</p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 5.3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906616661</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>5093</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906616597</id>
+    <published>2017-10-19T10:14:24-07:00</published>
+    <updated>2017-10-19T10:14:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5092s"/>
+    <title>5092S</title>
+    <s:type>Cement</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5092S_1.jpg?v=1578344173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cement<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Square cement planter with arrow design. </p><p>L: 4.5" x W: 4.5" x H: 4"</p><p>Opening: 3.75"</p><p></p><p></p><p></p><p>Case: 16</p><p>Weight: 1.95lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906616597</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>5092S</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906616533</id>
+    <published>2017-10-19T10:14:24-07:00</published>
+    <updated>2017-10-19T10:14:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5092l"/>
+    <title>5092L</title>
+    <s:type>Cement</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5092L_1.jpg?v=1578344194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cement<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Square cement planter with arrow design. </p><p>L: 6" x W: 6" x H: 5"</p><p>Opening: 4.25"</p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906616533</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>5092L</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906616405</id>
+    <published>2017-10-19T10:14:24-07:00</published>
+    <updated>2017-10-19T10:14:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5091s"/>
+    <title>5091S</title>
+    <s:type>Cement</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5091S_1.jpg?v=1628633188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cement<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round cement planter with arrow design. </p><p>Diameter: 5" x H: 5"</p><p>Opening: 4.25"  </p><p></p><p></p><p></p><p>Case: 16</p><p>Weight: 2.1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906616405</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>5091S</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906616341</id>
+    <published>2017-10-19T10:14:23-07:00</published>
+    <updated>2017-10-19T10:14:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5091l"/>
+    <title>5091L</title>
+    <s:type>Cement</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5091L_1.jpg?v=1628633186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Cement<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round cement planter with arrow design. </p><p>Diamter: 6" x H: 6"</p><p>Opening: 5.5"</p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 3.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906616341</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>5091L</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+</feed>

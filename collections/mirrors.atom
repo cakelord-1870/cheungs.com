@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/mirrors.atom"/>
+  <title>Cheungs</title>
+  <updated>2021-03-31T15:58:12-07:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/4615575994441</id>
+    <published>2021-03-31T15:58:12-07:00</published>
+    <updated>2021-03-31T15:58:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5708"/>
+    <title>5708</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5708_1.jpg?v=1612379831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Benuve Golden Multi Level Wall Mirror</p><p>W: 34.5" x D: 1.5" x H: 24.5"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 7.6lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4615575994441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>5708</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4615575339081</id>
+    <published>2021-03-31T15:57:27-07:00</published>
+    <updated>2021-03-31T15:57:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5696gd"/>
+    <title>5696GD</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5696GD_1.jpg?v=1612379629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bannes Bamboo Style Wall Mirror</p><p>W: 20.25" x D: 1.25" x H: 20.25"</p><p></p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 3.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4615575339081</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>5696GD</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4615576092745</id>
+    <published>2021-02-10T15:32:31-08:00</published>
+    <updated>2021-02-10T15:32:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5712br"/>
+    <title>5712BR</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5712BR_1.jpg?v=1612379894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beloitte Square Wood Accent Mirror</p><p>W: 22' x D: 2" x H: 22"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 7lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/4615576092745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>5712BR</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373242445897</id>
+    <published>2020-01-06T15:48:44-08:00</published>
+    <updated>2020-01-06T15:48:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5653"/>
+    <title>5653</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5653_1.jpg?v=1578355930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nautical rope accented mirror</p><p>W: 22.75" x D: 1.25" x H: 30.75"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 10lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373242445897</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>5653</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2218978639945</id>
+    <published>2019-07-24T15:00:51-07:00</published>
+    <updated>2019-07-24T15:00:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5561ov"/>
+    <title>5561OV</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5561OV_1.JPG?v=1564006155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oval Rope Accent Wall Mirror</p><p>W: 27.25" x D: 1" x H: 35"</p><p>Mirror: W: 14.75" x H: 22.75"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 11.65lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Natuical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2218978639945</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>5561OV</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000482795593</id>
+    <published>2019-01-02T14:36:59-08:00</published>
+    <updated>2019-01-02T14:36:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5435s"/>
+    <title>5435S</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5435S_1.JPG?v=1550776152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue, metal mirror with rope hanger</p><p>Dia: 12.5" x D: 1.25" x Total Height with Rope: 25"</p><p>Mirror Dia: 10.5"</p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 3.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2000482795593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>5435S</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000482762825</id>
+    <published>2019-01-02T14:36:58-08:00</published>
+    <updated>2019-01-02T14:36:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5435l"/>
+    <title>5435L</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5435L_1.JPG?v=1550776149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue, metal mirror with rope hanger</p><p>Dia: 17.5" x D: 1.5" x Total Height with Rope: 30"</p><p>Mirror Dia: 14.25"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2000482762825</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>5435L</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000482041929</id>
+    <published>2019-01-02T14:36:53-08:00</published>
+    <updated>2019-01-02T14:36:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5417"/>
+    <title>5417</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5417_1.JPG?v=1546471279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wood Frame Metal Accent Wall mirror</p><p>W: 22" x H: 62.25" x D: 1.5"</p><p>Frame: 1.5"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 26.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000482041929</id>
+      <title>Default Title</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>5417</s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000481779785</id>
+    <published>2019-01-02T14:36:51-08:00</published>
+    <updated>2019-01-02T14:36:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5409"/>
+    <title>5409</title>
+    <s:type>Table Mirror</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5409_1.JPG?v=1550775831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Table Mirror<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Metal Diamond Shaped Mirror</p><p>W: 8.75" x D: 9.75" x H: 9.75"</p><p></p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000481779785</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>5409</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000480993353</id>
+    <published>2019-01-02T14:36:45-08:00</published>
+    <updated>2019-01-02T14:36:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5395rd"/>
+    <title>5395RD</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5395RD_1.JPG?v=1555968796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round, equatorial themed wall mirror with an alternating bamboo branch frame</p><p>Dia: 31.25" x D: 1.75"</p><p>Mirror: Dia: 19.25"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 26.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000480993353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>5395RD</s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000480960585</id>
+    <published>2019-01-02T14:36:45-08:00</published>
+    <updated>2019-01-02T14:36:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5395ov"/>
+    <title>5395OV</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5395OV_1.JPG?v=1561741684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oval, equatorial themed wall mirror with an alternating bamboo branch frame</p><p>H: 34" x W: 26.5" x D: 1.75"</p><p>Mirror: H: 22" x W: 14.5"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 26.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000480960585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>5395OV</s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000478699593</id>
+    <published>2019-01-02T14:36:28-08:00</published>
+    <updated>2019-01-02T14:36:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5348wt"/>
+    <title>5348WT</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5348WT_1_14bf1c2e-bae1-431a-aafe-ef1efbd4652d.jpg?v=1609270395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mirror with an elegant top curvature - white color</p><p>H: 24" x W: 14.25" x D: 1.25"</p><p>Mirror: H: 22" x W: 12.25"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 5.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000478699593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>5348WT</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000478666825</id>
+    <published>2019-01-02T14:36:28-08:00</published>
+    <updated>2019-01-02T14:36:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5348gr"/>
+    <title>5348GR</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5348GR_1_a6c62fa2-0ef4-4110-acbf-ca2a559068b5.jpg?v=1609270374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mirror with an elegant top curvature - gray color</p><p>H: 24" x W: 14.25" x D: 1.25"</p><p>Mirror: H: 22" x W: 12.25"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 5.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000478666825</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>5348GR</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000478273609</id>
+    <published>2019-01-02T14:36:25-08:00</published>
+    <updated>2019-01-02T14:36:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5340"/>
+    <title>5340</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5340_1.JPG?v=1546469793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tall, rectangular mirror with surrounding metal piping frame</p><p>H: 27.25" x W: 19.5" x D: 1"</p><p>Mirror: H: 20.75" x W: 12.75"</p><p></p><p></p><p></p><p>Case: 3</p><p>Weight: 6.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000478273609</id>
+      <title>Default Title</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>5340</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000478240841</id>
+    <published>2019-01-02T14:36:25-08:00</published>
+    <updated>2019-01-02T14:36:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5339"/>
+    <title>5339</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5339_1.JPG?v=1546472928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            88.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tall, rectangular mirror with surrounding metal piping frame and center storage shelf</p><p>H: 25" x W: 17" x D: 5"</p><p>Mirror: H: 18" x W: 10"</p><p>Storage Compartment: W: 11.5" x D: 4" x H: 2.5"</p><p></p><p></p><p>Case: 4</p><p>Weight: 6.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000478240841</id>
+      <title>Default Title</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>5339</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419281301577</id>
+    <published>2018-08-02T16:31:42-07:00</published>
+    <updated>2018-08-02T16:31:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5195"/>
+    <title>5195</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5195_1.JPG?v=1534798550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            78.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wall mirror with a slatted wood frame in a white lightly white washed finish</p><p>L: 22.5" x Depth: 2.75" x H: 30.5"</p><p>Mirror: L: 15" x H: 22.5"</p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 9.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/1419281301577</id>
+      <title>Default Title</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku>5195</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419281170505</id>
+    <published>2018-08-02T16:31:41-07:00</published>
+    <updated>2018-08-02T16:31:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5191"/>
+    <title>5191</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5191_1.JPG?v=1534798431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Galvanized metal, woven basket framed mirror with wooden border</p><p>L: 20" x W: 3.5" x H: 27.5"</p><p>Mirror: W: 19" x H: 11"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 2.6lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419281170505</id>
+      <title>Default Title</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>5191</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419281104969</id>
+    <published>2018-08-02T16:31:40-07:00</published>
+    <updated>2018-08-02T16:31:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5189"/>
+    <title>5189</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5189_1.JPG?v=1574293180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wood framed mirror</p><p>L: 18" x D: 1.25" x TD: 1.5" x H: 27.25"</p><p>Mirror: W: 20" x H: 11"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 7.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/1419281104969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>5189</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419281039433</id>
+    <published>2018-08-02T16:31:39-07:00</published>
+    <updated>2018-08-02T16:31:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5185"/>
+    <title>5185</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5185_1.JPG?v=1534890380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round mirror with a square, galvanized metal, woven basket frame</p><p>L: 15" x D: 2.5" x H: 15"</p><p>Mirror: Diameter: 9.25"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 2.4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/1419281039433</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>5185</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419280973897</id>
+    <published>2018-08-02T16:31:38-07:00</published>
+    <updated>2018-08-02T16:31:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5183"/>
+    <title>5183</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5183_1.jpg?v=1533253125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Galvanized metal framed mirror with storage shelf and 5 hooks</p><p>L: 21.75" x W: 20.5" x H: 5"</p><p>Mirror Width: 19.75" x Height: 11"</p><p>Shelf Depth: 3.5"</p><p>Distance between Hooks: 5.25"</p><p></p><p>Case: 1</p><p>Weight: 8.8lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/1419280973897</id>
+      <title>Default Title</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>5183</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906612181</id>
+    <published>2017-10-19T10:14:06-07:00</published>
+    <updated>2017-10-19T10:14:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5056"/>
+    <title>5056</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5056_1.jpg?v=1574372082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            96.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>31.5 inch wall mirror with wooden frame. </p><p>L: 18.25" x W: 1.75" x H: 31.5"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/11906612181</id>
+      <title>Default Title</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>5056</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11757898773</id>
+    <published>2017-09-21T15:51:36-07:00</published>
+    <updated>2017-09-21T15:51:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4577"/>
+    <title>4577</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4577_1.jpg?v=1615929227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hexagon Wood Wall Mirror</p><p>L: 23.5" x W: 20.5" x H: 2.5"</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 7.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11757898773</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>4577</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841993941</id>
+    <published>2017-06-23T12:59:06-07:00</published>
+    <updated>2017-06-23T12:59:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4951"/>
+    <title>4951</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4951_1.JPG?v=1564068785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            38.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wood framed wall mirror</p><p>L: 19" x W: 25.25" x Depth: 0.75"</p><p>Mirror: 12.5" x 19"</p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 6lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10841993941</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>4951</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841990357</id>
+    <published>2017-06-23T12:58:59-07:00</published>
+    <updated>2017-06-23T12:58:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4908"/>
+    <title>4908</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4908_1.jpg?v=1605122612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            64.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Multicolor wood plank wall mirror</p><p>L: 23.5" x Depth: 1" x H: 31.5"</p><p>Mirror: L: 13.25" x H: 21"</p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 9lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10841990357</id>
+      <title>Default Title</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>4908</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841982293</id>
+    <published>2017-06-23T12:58:23-07:00</published>
+    <updated>2017-06-23T12:58:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4862"/>
+    <title>4862</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4862_1.JPG?v=1561482452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wood and Galvanized bordered wall mirror</p><p>L: 23.75" x Depth: 1.5" x H: 31.5" </p><p>Mirror: L: 15" x W: 22.5"</p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 13.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841982293</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>4862</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+</feed>

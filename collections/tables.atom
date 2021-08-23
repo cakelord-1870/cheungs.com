@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/tables.atom"/>
+  <title>Cheungs</title>
+  <updated>2020-01-06T15:48:16-08:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/4373240184905</id>
+    <published>2020-01-06T15:48:16-08:00</published>
+    <updated>2020-01-06T15:48:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5602"/>
+    <title>5602</title>
+    <s:type>Table</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5602_1.jpg?v=1578354768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Table<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Industrial style square side table</p><p>L: 22" x W: 22" x H: 22"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 17.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373240184905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>5602</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/4373240152137</id>
+    <published>2020-01-06T15:48:15-08:00</published>
+    <updated>2020-01-06T15:48:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5601"/>
+    <title>5601</title>
+    <s:type>Table</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5601_1.jpg?v=1578354749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Table<br>
+        <strong>Price: </strong>
+            168.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Industrial style rectangular side table</p><p>L: 44.75" x W: 22" x H: 16.25"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 24.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373240152137</id>
+      <title>Default Title</title>
+      <s:price currency="USD">168.00</s:price>
+      <s:sku>5601</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198641999945</id>
+    <published>2019-06-19T09:14:46-07:00</published>
+    <updated>2019-06-19T09:14:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5486"/>
+    <title>5486</title>
+    <s:type>Table</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5486_1.JPG?v=1583533846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Table<br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rectangular wood table with metal legs</p><p>L: 42" x W: 14.75" x H: 30.5"</p><p>Floor to table clearance: 29"</p><p>Leg Height: 28.5"</p><p></p><p></p><p>Case: 1</p><p>Weight: 15.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198641999945</id>
+      <title>Default Title</title>
+      <s:price currency="USD">130.00</s:price>
+      <s:sku>5486</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000480665673</id>
+    <published>2019-01-02T14:36:43-08:00</published>
+    <updated>2019-01-02T14:36:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5388"/>
+    <title>5388</title>
+    <s:type>Table</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5388_1_1e5d2ee3-c318-4606-861c-1155b6043815.jpg?v=1600468857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Table<br>
+        <strong>Price: </strong>
+            278.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rustic style console table with 4 small, center and side, large storage compartments, all with tag holder accents</p><p>L: 47.25" x W: 15.75" x H: 21.75"</p><p>Table top thickness: 1"</p><p>Small Compartment Inner: L: 14.75" x W: 9.5" x H: 8.5"</p><p>Large Compartment: L: 14.75" x W: 12" x H: 18"</p><p></p><p>Case: 1</p><p>Weight: 48.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2000480665673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">278.00</s:price>
+      <s:sku>5388</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841996181</id>
+    <published>2017-06-23T12:59:11-07:00</published>
+    <updated>2017-06-23T12:59:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4980"/>
+    <title>4980</title>
+    <s:type>Table</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4980_2.JPG?v=1509477817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Table<br>
+        <strong>Price: </strong>
+            225.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wood and metal console table with 2 shelves &amp; 2 drawers</p><p>L: 47.75" x W: 15.75" x H: 34.25"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 48lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841996181</id>
+      <title>Default Title</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>4980</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841984277</id>
+    <published>2017-06-23T12:58:27-07:00</published>
+    <updated>2017-06-23T12:58:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4897"/>
+    <title>4897</title>
+    <s:type>Table</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4897.jpg?v=1498255927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Table<br>
+        <strong>Price: </strong>
+            86.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Square wood top table with metal base</p><p>L: 24.5" x W: 24.5" x H: 30.5"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 14lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10841984277</id>
+      <title>Default Title</title>
+      <s:price currency="USD">86.00</s:price>
+      <s:sku>4897</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841984213</id>
+    <published>2017-06-23T12:58:27-07:00</published>
+    <updated>2017-06-23T12:58:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4896"/>
+    <title>4896</title>
+    <s:type>Table</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4896_1.JPG?v=1557970741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Table<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Half round wood top metal base table</p><p>L: 43" x W: 19" x H: 32"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 20lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10841984213</id>
+      <title>Default Title</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>4896</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10606415573</id>
+    <published>2017-05-22T16:04:46-07:00</published>
+    <updated>2017-05-22T16:04:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3195"/>
+    <title>FP-3195</title>
+    <s:type>Table</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3195_2.jpg?v=1598398454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Table<br>
+        <strong>Price: </strong>
+            168.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Tier rectangular table with metal A frame legs</p><p>L: 48.75" x W: 17.75" x 30.75"h</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 21lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10606415573</id>
+      <title>Default Title</title>
+      <s:price currency="USD">168.00</s:price>
+      <s:sku>FP-3195</s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10572138325</id>
+    <published>2017-05-12T16:00:56-07:00</published>
+    <updated>2017-05-12T16:00:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3444"/>
+    <title>FP-3444</title>
+    <s:type>Table</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3444_1.jpg?v=1583443124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Table<br>
+        <strong>Price: </strong>
+            145.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden 2 drawer entryway table</p><p>L: 31.75" x W: 13.75" x 32"h</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 17.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10572138325</id>
+      <title>Default Title</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku>FP-3444</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8547012422</id>
+    <published>2016-09-12T21:46:27-07:00</published>
+    <updated>2016-09-12T21:46:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4607"/>
+    <title>4607</title>
+    <s:type>Table</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4607_1.jpg?v=1613156318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Table<br>
+        <strong>Price: </strong>
+            158.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tall wooden entry table with 2 top drawers and bottom open shelf</p><p>L: 32" x W: 13" x H: 30"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 28.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/8547012422</id>
+      <title>Default Title</title>
+      <s:price currency="USD">158.00</s:price>
+      <s:sku>4607</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+</feed>

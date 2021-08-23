@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/decorative-capiz-pieces.atom"/>
+  <title>Cheungs</title>
+  <updated>2021-05-26T13:51:43-07:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/6574594392137</id>
+    <published>2021-05-26T13:51:43-07:00</published>
+    <updated>2021-05-26T13:51:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/crlm-08-s"/>
+    <title>CRLM-08-S</title>
+    <s:type>Capiz</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Capiz<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A coastal shell themed capiz display dish</p><p>L: 8" x W: 5.5" x H: 3"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 0.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/6574594392137</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>CRLM-08-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/6574594359369</id>
+    <published>2021-05-26T13:51:43-07:00</published>
+    <updated>2021-05-26T13:51:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/crlm-08-l"/>
+    <title>CRLM-08-L</title>
+    <s:type>Capiz</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Capiz<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A coastal shell themed capiz display dish</p><p>L: 12" x W: 6.75" x H: 5"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 0.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/6574594359369</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>CRLM-08-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/6574594293833</id>
+    <published>2021-05-26T13:51:43-07:00</published>
+    <updated>2021-05-26T13:51:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/crlm-07-m"/>
+    <title>CRLM-07-M</title>
+    <s:type>Capiz</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Capiz<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A scallop shell themed capiz display dish</p><p>L: 7.75" x W: 7.75" x H: 0.75"</p><p></p><p></p><p></p><p></p><p>Case: 24</p><p>Weight: 0.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/6574594293833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>CRLM-07-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11722263445</id>
+    <published>2017-09-14T15:04:31-07:00</published>
+    <updated>2017-09-14T15:04:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/crlm-08-s-1"/>
+    <title>CRLM-08-S</title>
+    <s:type>Capiz</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CRLM-08-S.JPG?v=1505427062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Capiz<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A coastal shell themed capiz display dish</p><p>L: 8" x W: 5.5" x H: 3"</p><p></p><p></p><p></p><p></p><p></p><p>Case:12</p><p>Weight per unit: 0.5lbs</p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11722263445</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>CRLM-08-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11722263317</id>
+    <published>2017-09-14T15:04:31-07:00</published>
+    <updated>2017-09-14T15:04:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/crlm-07-m-1"/>
+    <title>CRLM-07-M</title>
+    <s:type>Capiz</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CRLM-07-M.JPG?v=1505427042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Capiz<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A scallop shell themed capiz display dish</p><p>L: 7.75" x W: 7.75" x H: 0.75"</p><p></p><p></p><p></p><p></p><p></p><p>Case:24</p><p>Weight per unit: 0.5lbs</p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11722263317</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>CRLM-07-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11722263253</id>
+    <published>2017-09-14T15:04:30-07:00</published>
+    <updated>2017-09-14T15:04:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/crlm-07-l"/>
+    <title>CRLM-07-L</title>
+    <s:type>Capiz</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CRLM-07-L.JPG?v=1505427025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Capiz<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A scallop shell themed capiz display dish</p><p>L: 12.5" x W: 12.5" x H: 0.75"</p><p></p><p></p><p></p><p></p><p>Case: 24</p><p>Weight: 0.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11722263253</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>CRLM-07-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11722263125</id>
+    <published>2017-09-14T15:04:30-07:00</published>
+    <updated>2017-09-14T15:04:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/crll-03"/>
+    <title>CRLL-03</title>
+    <s:type>Capiz</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CRLL-03.JPG?v=1505427009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Capiz<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A flat, conch themed, capiz display dish</p><p>L: 14" x W: 10.5" x H: 1"</p><p></p><p></p><p></p><p></p><p>Case: 24</p><p>Weight: 0.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11722263125</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>CRLL-03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11722263061</id>
+    <published>2017-09-14T15:04:30-07:00</published>
+    <updated>2017-09-14T15:04:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/crll-02"/>
+    <title>CRLL-02</title>
+    <s:type>Capiz</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CRLL-02.JPG?v=1505427000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Capiz<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A flat, leaf themed, capiz display dish</p><p>L: 11" x W: 9.75" x H: 0.75"</p><p></p><p></p><p></p><p></p><p>Case: 24</p><p>Weight: 0.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11722263061</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CRLL-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11722262997</id>
+    <published>2017-09-14T15:04:30-07:00</published>
+    <updated>2017-09-14T15:04:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/crll-01"/>
+    <title>CRLL-01</title>
+    <s:type>Capiz</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CRLL-01.JPG?v=1505426983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Capiz<br>
+        <strong>Price: </strong>
+            13.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A leaf themed, capiz display dish</p><p>L: 8.5" x W: 7.5" x H: 1.5"</p><p></p><p></p><p></p><p></p><p>Case: 24</p><p>Weight: 0.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11722262997</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>CRLL-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11722262933</id>
+    <published>2017-09-14T15:04:29-07:00</published>
+    <updated>2017-09-14T15:04:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/crkf-13"/>
+    <title>CRKF-13</title>
+    <s:type>Capiz</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CRKF-13.JPG?v=1505426977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Capiz<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A tapered, square, capiz display dish</p><p>L: 8.25" x W: 8.25" x H: 1"</p><p></p><p></p><p></p><p></p><p>Case: 24</p><p>Weight: 0.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11722262933</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>CRKF-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11722262869</id>
+    <published>2017-09-14T15:04:29-07:00</published>
+    <updated>2017-09-14T15:04:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/crbh-18"/>
+    <title>CRBH-18</title>
+    <s:type>Capiz</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CRBH-18.JPG?v=1505426952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Capiz<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A tapered, rectangular, capiz display dish</p><p>L: 15" x W: 5" x H: 1"</p><p></p><p></p><p></p><p></p><p>Case: 24</p><p>Weight: 0.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11722262869</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>CRBH-18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11722262805</id>
+    <published>2017-09-14T15:04:29-07:00</published>
+    <updated>2017-09-14T15:04:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/crbh-16"/>
+    <title>CRBH-16</title>
+    <s:type>Capiz</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CRBH-16.JPG?v=1505426914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Capiz<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A round, wavy capiz display dish</p><p>L: 8.5" x W: 8.5" x H: 2"</p><p></p><p></p><p></p><p></p><p>Case: 24</p><p>Weight: 0.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11722262805</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>CRBH-16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11722262741</id>
+    <published>2017-09-14T15:04:29-07:00</published>
+    <updated>2017-09-14T15:04:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/crbh-15"/>
+    <title>CRBH-15</title>
+    <s:type>Capiz</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CRBH-15.JPG?v=1505426893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Capiz<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A 4 slot capiz organizer dish</p><p>L: 8.5" x W: 8.5" x H: 1"</p><p></p><p></p><p></p><p></p><p>Case: 24</p><p>Weight: 0.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11722262741</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>CRBH-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11722262677</id>
+    <published>2017-09-14T15:04:28-07:00</published>
+    <updated>2017-09-14T15:04:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/crbh-14"/>
+    <title>CRBH-14</title>
+    <s:type>Capiz</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/CRBH-14.JPG?v=1505426855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Capiz<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An oval, capiz made display dish</p><p>L: 12.5" x W: 10" x H: 1.5"</p><p></p><p></p><p></p><p></p><p>Case: 12</p><p>Weight: 0.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nautical/Coastal</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11722262677</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CRBH-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

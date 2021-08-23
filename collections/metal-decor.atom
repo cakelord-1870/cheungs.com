@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/metal-decor.atom"/>
+  <title>Cheungs</title>
+  <updated>2020-01-06T15:48:17-08:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/4373240250441</id>
+    <published>2020-01-06T15:48:17-08:00</published>
+    <updated>2020-01-06T15:48:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5604-2"/>
+    <title>5604-2</title>
+    <s:type>Metal Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5604-2_1.jpg?v=1578354872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Décor<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Contemporary set of 2 row boat décor bowls</p><p>Lg: W: 24.5" x D: 7" x H: 3" x Total H: 4.5"</p><p>Sm: W: 20.25" x D: 6" x H: 2.25" x Total H: 4"</p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/4373240250441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>5604-2</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2217044770889</id>
+    <published>2019-07-21T10:24:31-07:00</published>
+    <updated>2019-07-21T10:24:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5568s"/>
+    <title>5568S</title>
+    <s:type>Metal Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5568S_1.JPG?v=1564069139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Décor<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rustic, Galvanized Metal Pitcher Decor with Garden Pattern</p><p>L: 10.5" x W: 4.75" x H: 6"</p><p>Bucket: Dia: 4.75"</p><p>Top Opening: Dia: 1.5"</p><p>Spout Opening: Dia: 0.75"</p><p></p><p>Case: 8</p><p>Weight: 0.6lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2217044770889</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>5568S</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2217044115529</id>
+    <published>2019-07-21T10:24:21-07:00</published>
+    <updated>2019-07-21T10:24:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5568l"/>
+    <title>5568L</title>
+    <s:type>Metal Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5568L_1.JPG?v=1564069097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Décor<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Washed Galvanized Metal Pitcher Decor with Garden Pattern</p><p>L: 13.25" x W: 6.25" x H: 8.25"</p><p>Bucket: Dia: 6.25"</p><p>Top Opening: Dia: 2"</p><p>Spout Opening: Dia: 1"</p><p></p><p>Case: 4</p><p>Weight: 0.95lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2217044115529</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>5568L</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2217043787849</id>
+    <published>2019-07-21T10:24:17-07:00</published>
+    <updated>2019-07-21T10:24:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5527"/>
+    <title>5527</title>
+    <s:type>Metal Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5527_1.JPG?v=1563737779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Décor<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Galvanized Metal Milk Jar with Bronze Accent Bands and Side Handles</p><p>Total L: 7.25" x Dia: 6" x H: 9.25"</p><p>Top: Dia: 4.75" x Opening Dia: 3.5"</p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 0.65lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2217043787849</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>5527</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2217043689545</id>
+    <published>2019-07-21T10:24:16-07:00</published>
+    <updated>2019-07-21T10:24:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5521"/>
+    <title>5521</title>
+    <s:type>Metal Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5521_1.JPG?v=1563738263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Décor<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Galvanized Metal Pitcher with Gold Accent Band</p><p>L w/ Handle: 9.5" x W: 5.75" x H: 11.75"</p><p>Opening: 3.5"</p><p>Base: Dia: 7"</p><p></p><p></p><p>Case: 6</p><p>Weight: 0.95lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2217043689545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>5521</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2198644457545</id>
+    <published>2019-06-19T09:15:11-07:00</published>
+    <updated>2019-06-19T09:15:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5585"/>
+    <title>5585</title>
+    <s:type>Metal Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5585_1.JPG?v=1560962401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Décor<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rustic, galvanized metal cup decor</p><p>Total L: 6' x W: 4.75" x H: 6"</p><p>Base: Dia: 4.75</p><p>Opening Dia: 3"</p><p></p><p></p><p>Case: 20</p><p>Weight: 0.35lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/2198644457545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>5585</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2195071434825</id>
+    <published>2019-06-11T09:18:29-07:00</published>
+    <updated>2019-06-11T09:18:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5018s-w"/>
+    <title>5018S-W</title>
+    <s:type>Metal Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5018S-W_1.jpg?v=1621365028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Décor<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White metal bathtub décor piece with white interior and black rim. </p><p>L: 20" x W: 11" x H: 7" x TH: 9" Base: 14" x 7" </p><p></p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 2.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2195071434825</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>5018S-W</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2195071402057</id>
+    <published>2019-06-11T09:18:27-07:00</published>
+    <updated>2019-06-11T09:18:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5018l-w"/>
+    <title>5018L-W</title>
+    <s:type>Metal Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5018L-W_1.jpg?v=1621365024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Décor<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White metal bathtub décor piece with white interior. </p><p>L: 25" x W: 13.6" x H: 10.5"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 3.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2195071402057</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>5018L-W</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/2000478371913</id>
+    <published>2019-01-02T14:36:26-08:00</published>
+    <updated>2019-01-02T14:36:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5343"/>
+    <title>5343</title>
+    <s:type>Metal Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5343_1.JPG?v=1557971045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Décor<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Single, farmhouse style, metal wheelbarrow in a gray finish with a functional front wheel</p><p>L: 21.5" x W: 10" x H: 5.75"</p><p>Bucket: Dia: 9.75" x H: 4" x Base: Dia: 8.5"</p><p>Inner Bucket: Dia: 9.25" x H: 3.75" x Base: Dia: 8.25"</p><p></p><p></p><p>Case: 4</p><p>Weight: 1.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wheelbarrow</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/2000478371913</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>5343</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906608789</id>
+    <published>2017-10-19T10:13:52-07:00</published>
+    <updated>2017-10-19T10:13:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5021"/>
+    <title>5021</title>
+    <s:type>Metal Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5021_1.jpg?v=1611180663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Décor<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White metal pitcher with red rim, handle, black rim and rooster.</p><p>L: 8" x W: 5.25" x H: 7.75"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 0.85lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906608789</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>5021</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906608341</id>
+    <published>2017-10-19T10:13:50-07:00</published>
+    <updated>2017-10-19T10:13:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5018s"/>
+    <title>5018S</title>
+    <s:type>Metal Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5018S_1.jpg?v=1621365054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Décor<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray metal bathtub décor piece with white interior and black rim. </p><p>L: 7.75" x W: 5.5" x H: 5.25"</p><p></p><p></p><p></p><p></p><p>Case: 2</p><p>Weight: 2.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906608341</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>5018S</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906608277</id>
+    <published>2017-10-19T10:13:50-07:00</published>
+    <updated>2017-10-19T10:13:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5018l"/>
+    <title>5018L</title>
+    <s:type>Metal Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5018L_1.jpg?v=1621365050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Décor<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Navy blue metal bathtub décor piece with white interior. </p><p>L: 25" x W: 13.6" x H: 10.5"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 3.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906608277</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>5018L</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906607957</id>
+    <published>2017-10-19T10:13:48-07:00</published>
+    <updated>2017-10-19T10:13:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5014"/>
+    <title>5014</title>
+    <s:type>Metal Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5014.jpg?v=1624383382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Décor<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White metal teapot with red rim and two handles. </p><p>L: 9.5" x W: 8" x H: 8.75" x TH: 14.25"</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 1.35lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906607957</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>5014</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906607893</id>
+    <published>2017-10-19T10:13:48-07:00</published>
+    <updated>2017-10-19T10:13:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5013c"/>
+    <title>5013C</title>
+    <s:type>Metal Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5013C_1.jpg?v=1621636885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Décor<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White and black rimmed metal cup décor piece with pic. </p><p>L: 7.75" x W: 5.25" x H: 10.5"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 0.85lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906607893</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>5013C</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906607829</id>
+    <published>2017-10-19T10:13:48-07:00</published>
+    <updated>2017-10-19T10:13:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5013b"/>
+    <title>5013B</title>
+    <s:type>Metal Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5013B_1.jpg?v=1621636880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Décor<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White and black rimmed metal cup décor piece with cow.</p><p>L: 7.75" x W: 5.25" x H: 10.5"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 0.85lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906607829</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>5013B</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/11906607765</id>
+    <published>2017-10-19T10:13:47-07:00</published>
+    <updated>2017-10-19T10:13:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5013a"/>
+    <title>5013A</title>
+    <s:type>Metal Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5013A_1.jpg?v=1621636875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Décor<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White and black rimmed metal cup décor piece with rooster.</p><p>L: 7.75" x W: 5.25" x H: 10.5"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 0.85lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/11906607765</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>5013A</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10295362502</id>
+    <published>2017-04-06T15:37:10-07:00</published>
+    <updated>2017-04-06T15:37:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3631c"/>
+    <title>FP-3631C</title>
+    <s:type>Metal Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3631C_1.jpg?v=1601672303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Décor<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rustin white metal crown</p><p>L: 9.25" x W: 9.25" x 9.25" h</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 1.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crown</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10295362502</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>FP-3631C</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10295362438</id>
+    <published>2017-04-06T15:37:10-07:00</published>
+    <updated>2017-04-06T15:37:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3631b"/>
+    <title>FP-3631B</title>
+    <s:type>Metal Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3631B_1.JPG?v=1564075358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Décor<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal crown</p><p>L: 7.25" x W: 7.25" x 10" h</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 0.9lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crown</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10295362438</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>FP-3631B</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10295362374</id>
+    <published>2017-04-06T15:37:10-07:00</published>
+    <updated>2017-04-06T15:37:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3631a"/>
+    <title>FP-3631A</title>
+    <s:type>Metal Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3631A_2.JPG?v=1558893499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Décor<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rustic metal crown</p><p>L: 7.25" x W: 7.25" x 9" h</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crown</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10295362374</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>FP-3631A</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8900784070</id>
+    <published>2016-11-10T14:13:26-08:00</published>
+    <updated>2016-11-10T14:13:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4250"/>
+    <title>FP-4250</title>
+    <s:type>Metal Décor</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4250_1.JPG?v=1558372691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Metal Décor<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal Watering Can "Flowers &amp; Garden"</p><p>L: 14.5" x 9.5"h x 6"base</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 1lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/8900784070</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>FP-4250</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+</feed>

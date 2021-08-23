@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/chalkboards.atom"/>
+  <title>Cheungs</title>
+  <updated>2018-08-02T16:32:09-07:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/1419284971593</id>
+    <published>2018-08-02T16:32:09-07:00</published>
+    <updated>2018-08-02T16:32:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5284"/>
+    <title>5284</title>
+    <s:type>Chalkboard</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5284_1.JPG?v=1535645367"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chalkboard<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wood framed, all chalkboard in a light gray-wash finish with dual bottom hooks</p><p>L: 9.5" x D: 1" x TH: 16"</p><p>Chalkboard: 7" x 7"</p><p>Hook Distance: 5.25"</p><p>Hook depth: 2"</p><p></p><p>Case: 8</p><p>Weight: 1.05lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/1419284971593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>5284</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/1419281006665</id>
+    <published>2018-08-02T16:31:38-07:00</published>
+    <updated>2018-08-02T16:31:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5184"/>
+    <title>5184</title>
+    <s:type>Chalkboard</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5184_1.jpg?v=1589844262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chalkboard<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal frame chalkboard with rope hanger</p><p>L: 10" x D: 0.25" x H: 8" x TH: 13"</p><p>Frame 1.5"</p><p>Chalkboard: 6.75" x 6"</p><p></p><p></p><p>Case: 10</p><p>Weight: 0.7lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/1419281006665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>5184</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/284427452437</id>
+    <published>2018-04-04T12:39:22-07:00</published>
+    <updated>2018-04-04T12:39:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/5148"/>
+    <title>5148</title>
+    <s:type>Chalkboard</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/5148_1.jpg?v=1624383812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chalkboard<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brown Wood Double Side Floor Chalkboard</p><p>L: 15.75" x W: 1.5" Closed x 18" Open x H: 38.5"</p><p></p><p></p><p></p><p></p><p>Case: 1</p><p>Weight: 13.25lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/284427452437</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>5148</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841997589</id>
+    <published>2017-06-23T12:59:14-07:00</published>
+    <updated>2017-06-23T12:59:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4994"/>
+    <title>4994</title>
+    <s:type>Chalkboard</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4994_1.JPG?v=1619029165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chalkboard<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rope hanging pig shaped chalkboard</p><p>L: 20" x H: 12" x Depth: 0.5"</p><p></p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 1.54lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841997589</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>4994</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841997461</id>
+    <published>2017-06-23T12:59:14-07:00</published>
+    <updated>2017-06-23T12:59:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4993"/>
+    <title>4993</title>
+    <s:type>Chalkboard</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4993_1.JPG?v=1619029146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chalkboard<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rope hanging chicken shaped chalkboard</p><p>L: 11.5" x H: 18" x Depth: 0.5"</p><p></p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 1.3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841997461</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>4993</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841997397</id>
+    <published>2017-06-23T12:59:14-07:00</published>
+    <updated>2017-06-23T12:59:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4992"/>
+    <title>4992</title>
+    <s:type>Chalkboard</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4992_1.JPG?v=1619029119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chalkboard<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rope hanging cow shaped chalkboard</p><p>L: 24" x H: 16" x Depth: 0.5"</p><p></p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 2.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841997397</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>4992</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841997141</id>
+    <published>2017-06-23T12:59:13-07:00</published>
+    <updated>2017-06-23T12:59:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4989"/>
+    <title>4989</title>
+    <s:type>Chalkboard</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4989_1.JPG?v=1557970813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chalkboard<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wood framed chalkboard with bottom chalk holder</p><p>L: 11.5" x W: 9" x H: 19"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 1.98lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10841997141</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>4989</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841997077</id>
+    <published>2017-06-23T12:59:13-07:00</published>
+    <updated>2017-06-23T12:59:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4988"/>
+    <title>4988</title>
+    <s:type>Chalkboard</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4988_1.jpg?v=1621636760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chalkboard<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Heavy studded metal and wood framed chalkboard with bottom chalk holder</p><p>L: 11.25" x H: 15.75" x Open: 10.75"</p><p></p><p></p><p></p><p></p><p>Case: 8</p><p>Weight: 2.2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10841997077</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>4988</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10841996885</id>
+    <published>2017-06-23T12:59:12-07:00</published>
+    <updated>2017-06-23T12:59:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4985"/>
+    <title>4985</title>
+    <s:type>Chalkboard</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4985_1.jpg?v=1624383349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chalkboard<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wood and ribbed metal wall chalkboard</p><p>L: 24" x Depth: 0.75" x H: 34.5"</p><p>Chalkboard: L: 18" x H: 28.5"</p><p></p><p></p><p></p><p>Case: 3</p><p>Weight: 8.4lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farm</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10841996885</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>4985</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10591774741</id>
+    <published>2017-05-17T12:52:51-07:00</published>
+    <updated>2017-05-17T12:52:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3229"/>
+    <title>FP-3229</title>
+    <s:type>Chalkboard</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3229_1.jpg?v=1579201766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chalkboard<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden garden hanging chalkboard</p><p>L: 19" x W: 1" x 15"h</p><p></p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 1.55lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:tag>Home</s:tag>
+    <s:variant>
+      <id>https://cheungs.com/products/10591774741</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>FP-3229</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10572139925</id>
+    <published>2017-05-12T16:01:01-07:00</published>
+    <updated>2017-05-12T16:01:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3486"/>
+    <title>FP-3486</title>
+    <s:type>Chalkboard</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3486_1.JPG?v=1563834867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chalkboard<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chalkboard with rustic wooden frame and corner chalk pocket</p><p>H: 18" x W: 13" x D:1.5"</p><p></p><p></p><p></p><p></p><p>Case: 6</p><p>Weight: 1.55lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10572139925</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>FP-3486</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10326281414</id>
+    <published>2017-04-10T15:39:45-07:00</published>
+    <updated>2017-04-10T15:39:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3597"/>
+    <title>FP-3597</title>
+    <s:type>Chalkboard</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3597_1.jpg?v=1571683664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chalkboard<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rectangular wall chalkboard with stamped galvanized frame and top rope hanger</p><p>L: 14.25" x W: 0.5" x 9.5" h x 14.25" total height</p><p></p><p></p><p></p><p></p><p>Case: 20</p><p>Weight: 1.35lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10326281414</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>FP-3597</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10326281286</id>
+    <published>2017-04-10T15:39:45-07:00</published>
+    <updated>2017-04-10T15:39:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3596"/>
+    <title>FP-3596</title>
+    <s:type>Chalkboard</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3596_1.JPG?v=1563834854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chalkboard<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rectangular wall chalkboard with galvanized frame and top rope hanger</p><p>L: 21.5" x W: 0.5" x 9.5" h x 13" total height</p><p></p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 2lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10326281286</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>FP-3596</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10295362950</id>
+    <published>2017-04-06T15:37:11-07:00</published>
+    <updated>2017-04-06T15:37:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3639"/>
+    <title>FP-3639</title>
+    <s:type>Chalkboard</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3639_1.jpg?v=1573500601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chalkboard<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden wall chalkboard with hanging hooks</p><p>L: 31.25" x W: 3.5" x 23.5" h</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 5.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10295362950</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>FP-3639</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10167678662</id>
+    <published>2017-03-28T15:34:00-07:00</published>
+    <updated>2017-03-28T15:34:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3913b"/>
+    <title>FP-3913B</title>
+    <s:type>Chalkboard</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3913B_1.jpg?v=1591218086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chalkboard<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elegant black metal stand chalkboard</p><p>W: 11.25" x D: 5.5" x H: 17.25"</p><p>Chalkboard Area: W: 10.25" x H: 6.75"</p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 2.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10167678662</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>FP-3913B</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/10167678534</id>
+    <published>2017-03-28T15:34:00-07:00</published>
+    <updated>2017-03-28T15:34:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-3913a"/>
+    <title>FP-3913A</title>
+    <s:type>Chalkboard</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-3913A_1.jpg?v=1621368822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chalkboard<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elegant white metal stand chalkboard</p><p>W: 9.5" x D: 5.5" x H: 20.75"</p><p>Chalkboard Area: W: 8" x H: 10.25"</p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 2.75lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/10167678534</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>FP-3913A</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8900787014</id>
+    <published>2016-11-10T14:13:33-08:00</published>
+    <updated>2016-11-10T14:13:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4290"/>
+    <title>FP-4290</title>
+    <s:type>Chalkboard</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4290_1.jpg?v=1591218092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chalkboard<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large double sided A-stand chalkboard</p><p>L: 19.5" x W: 12.25" x 1.5"h</p><p></p><p></p><p></p><p></p><p>Case: 10</p><p>Weight: 2.5lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/8900787014</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>FP-4290</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8900786950</id>
+    <published>2016-11-10T14:13:32-08:00</published>
+    <updated>2016-11-10T14:13:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4289"/>
+    <title>FP-4289</title>
+    <s:type>Chalkboard</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4289.jpg?v=1481937699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chalkboard<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small double sided A-stand chalkboard</p><p>L: 9.75" x W: 8" x 1"h</p><p></p><p></p><p></p><p></p><p>Case: 20</p><p>Weight: 0.85lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/8900786950</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>FP-4289</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8893662278</id>
+    <published>2016-11-09T12:39:42-08:00</published>
+    <updated>2016-11-09T12:39:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4470"/>
+    <title>FP-4470</title>
+    <s:type>Chalkboard</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4470.jpg?v=1479191980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Chalkboard<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tall turquoise standing chalkboard</p><p>L: 13" x W: 6.75" x H: 47.75"</p><p></p><p></p><p></p><p></p><p>Case: 4</p><p>Weight: 5.3lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/8893662278</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>FP-4470</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheungs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheungs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheungs.com/collections/table-art.atom"/>
+  <title>Cheungs</title>
+  <updated>2016-11-09T14:14:02-08:00</updated>
+  <author>
+    <name>Cheungs</name>
+  </author>
+  <entry>
+    <id>https://cheungs.com/products/8894272646</id>
+    <published>2016-11-09T14:14:02-08:00</published>
+    <updated>2016-11-09T14:14:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4363t"/>
+    <title>FP-4363T</title>
+    <s:type>Table Sign</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4363T_1.JPG?v=1542311334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Table Sign<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Table Sign - "BE YOUR OWN KIND OF BEAUTIFUL"....</p><p>L: 7" x W: 7" x 1.5"h</p><p></p><p></p><p></p><p></p><p>Case: 20</p><p>Weight: 0.7lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/8894272646</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>FP-4363T</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8894272518</id>
+    <published>2016-11-09T14:14:02-08:00</published>
+    <updated>2016-11-09T14:14:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4362t"/>
+    <title>FP-4362T</title>
+    <s:type>Table Sign</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4362T_1.jpg?v=1601672278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Table Sign<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Table Sign - Choose Happiness</p><p>L: 7" x W: 7" x 1.5"h</p><p></p><p></p><p></p><p></p><p>Case: 20</p><p>Weight: 0.7lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/8894272518</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>FP-4362T</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8894271366</id>
+    <published>2016-11-09T14:13:59-08:00</published>
+    <updated>2016-11-09T14:13:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/fp-4346t"/>
+    <title>FP-4346T</title>
+    <s:type>Table Sign</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/FP-4346T.jpg?v=1479193683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Table Sign<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Table Sign - XO</p><p>L: 7" x W: 1.5" x H: 7"</p><p></p><p></p><p></p><p></p><p>Case: 20</p><p>Weight: 0.66lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/8894271366</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>FP-4346T</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8547021958</id>
+    <published>2016-09-12T21:46:43-07:00</published>
+    <updated>2016-09-12T21:46:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4689t"/>
+    <title>4689T</title>
+    <s:type>Table Sign</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4689T.JPG?v=1474170251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Table Sign<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Table Sign - Follow your heart</p><p>L: 7" x W: 1.5" x H: 7"</p><p></p><p></p><p></p><p></p><p>Case: 20</p><p>Weight: 0.66lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/8547021958</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>4689T</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8547021830</id>
+    <published>2016-09-12T21:46:43-07:00</published>
+    <updated>2016-09-12T21:46:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4688t"/>
+    <title>4688T</title>
+    <s:type>Table Sign</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4688T.JPG?v=1474170228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Table Sign<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Table Sign - PERFECT iS BORING</p><p>L: 7" x W: 1.5" x H: 7"</p><p></p><p></p><p></p><p></p><p>Case: 20</p><p>Weight: 0.66lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/8547021830</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>4688T</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheungs.com/products/8547021574</id>
+    <published>2016-09-12T21:46:43-07:00</published>
+    <updated>2016-09-12T21:46:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheungs.com/products/4685t"/>
+    <title>4685T</title>
+    <s:type>Table Sign</s:type>
+    <s:vendor>Cheungs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1420/2438/products/4685T.JPG?v=1474170135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheungs<br>
+        <strong>Type: </strong>Table Sign<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Table Sign - Today you will shine</p><p>L: 7" x W: 1.5" x H: 7"</p><p></p><p></p><p></p><p></p><p>Case: 20</p><p>Weight: 0.66lbs</p><p><strong><span style="text-decoration: underline;"><a href="https://www.cheungs.com/pages/california-prop-65">WARNING</a></span></strong> California's Proposition 65</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheungs.com/products/8547021574</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>4685T</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+</feed>
